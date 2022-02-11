@@ -17,14 +17,17 @@
                     CEX → CEX
                     DEX → DEX
 
-                    gas → Gas
-                  stake → Stake
-               contract → Contract
-              bagholder → Bagholder
-              rug(pull) → Rug(pull)
-          (cross-)chian → (cross-)Chain
-            post-mortem → Post-Mortem
+                    gas → das Gas
+                  stake → Stake (der? das?)
+                  token → Token (der? das?)
+                 wallet → Wallet (die? das?)
+               contract → der Contract
+              bagholder → der Bagholder
+              rug(pull) → der Rug(pull)
+      (cross-/on-)chian → die (cross-/on-)Chain
+            post-mortem → das Post-Mortem
 
                 wrapped → umhüllt
-               treasury → Vorratskasse
+               treasury → Vorratskasse / Vorratsgelder
+             governance → Governance? Mitbestimmung?
 ```
