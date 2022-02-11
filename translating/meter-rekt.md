@@ -17,9 +17,9 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/mete
 
 Bei einem weiteren Angriff werden [Meter.io](https://meter.io/) auf BSC 4,4 Millionen US-Dollar abgenommen, wodurch [Hundred Finance](https://hundred.finance/) 3,3 Millionen US-Dollar an Kollateralschäden verliert.
 
-Dies ist der siebte Brücken-Angriff auf unserer [Rangliste](https://rekt.news/leaderboard/), der einen steigenden Trend in der Kreuz-Chain-Kriminalität zeigt.
+Dies ist der siebte Brücken-Angriff auf unserer [Rangliste](https://rekt.news/leaderboard/), der einen steigenden Trend in der Cross-Chain-Kriminalität zeigt.
 
-**Wie lange wird es dauern, die Technologie zu perfektionieren um diese Verluste zu verhindern?**
+**Wie lange wird es dauern, die Technologie zu perfektionieren, um diese Verluste zu verhindern?**
 
 _Der Zähler läuft._
 
@@ -27,15 +27,16 @@ _Der Zähler läuft._
 
 _Quelle: [@ishwinder](https://twitter.com/ishwinder/status/1490227406824685569?s=20&t=XsNHTZUI5AEDEppn3xxwUQ)_
 
-Der Angriff begann am 05.02.2022 um ca. 14:00 Uhr UTC, als der [Angreifer](https://etherscan.io/address/0x8d3d13cac607B7297Ff61A5E1E71072758AF4D01) böswillig eine beträchtliche Menge an BNB- und wETH-Tokens prägte und die Brückenreserve seiner BNB und wETH entleerte, bevor alle Brückentransaktionen von [Meter gestoppt](https://twitter.com/Meter_IO/status/1490103308421255168) werden konnten.
+Der Angriff begann am 05.02.2022 um ca. 14:00 Uhr UTC, als [der Angreifer](https://etherscan.io/address/0x8d3d13cac607B7297Ff61A5E1E71072758AF4D01) böswillig eine beträchtliche Menge an BNB- und wETH-Tokens prägte und die Brückenreserve seiner BNB und wETH entleerte, bevor alle Brückentransaktionen von [Meter gestoppt](https://twitter.com/Meter_IO/status/1490103308421255168) werden konnten.
 
-Meter_io Passport ist ein Fork von ChainBridge von [ChainSafe](https://twitter.com/ChainSafeth), jedoch mit einer Änderung, die an der Einzahlungsmethode der ERC20 Handler vorgenommen wurde.
+Meter_io Passport ist ein ChainBridge Fork von [ChainSafe](https://twitter.com/ChainSafeth), jedoch mit einer Änderung, die an der Einzahlungsmethode der ERC20 Handler vorgenommen wurde.
 
->Diese Änderung geht im Grunde davon aus, dass, wenn das zu überbrückende Tokens ein verpacktes natives Token ist, es nicht verbrannt oder gesperrt wird, da das verpackte native Token bereits entpackt ist und der Betrag an den Handler-Contract übertragen wird.
+>Diese Änderung geht grundsätzlich davon aus, dass, wenn der Token, der überbrückt wird, ein umhüllter nativer Token ist, dieser nicht verbrannt oder gesperrt wird, da der umhüllte native Token bereits entpackt und der Betrag an den Handler-Vertrag übertragen wurde.
+> 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-code1.png)
 
->Die Annahme gilt für die Einzahlungsmethode depositEth, die auch den Wert des Betrags in calldata geltend macht (der dann letztendlich an die Einzahlungsmethode des Handlers weitergegeben wird):
+>Diese Annahme gilt für eine der Einzahlungsmethoden depositEth, die auch den Wert des Betrags in calldata bestätigt (der dann letztendlich an die Einzahlungsmethode des Handlers weitergegeben wird):
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-code2.png)
 
@@ -43,9 +44,9 @@ Meter_io Passport ist ein Fork von ChainBridge von [ChainSafe](https://twitter.c
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-code3.png)
 
->Hacker bemerkt dies und sendet einen beliebigen Betrag in den calldata, der an die Einlage des Händlers weitergegeben wird.
+>Der Hacker bemerkt dies und sendet einen beliebigen Betrag in den calldata, der an die Einzahlung des Handlers weitergegeben wird.
 
-> Die Beute wurde dann über mehrere Transaktionen innerhalb einer Stunde in Tornado Cash transferiert.
+>Die Beute wurde dann innerhalb einer Stunde über mehrere Transaktionen in Tornado Cash transferiert.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
@@ -55,39 +56,46 @@ Meter_io Passport ist ein Fork von ChainBridge von [ChainSafe](https://twitter.c
 
 Hundred Finance gab den Verlust in [einem Tweet](https://twitter.com/HundredFinance/status/1490394875459682309) bekannt.
 
->Heute war [@MoonriverNW](https://twitter.com/MoonriverNW) von Hundred Finance betroffen durch einen Brückenangriff auf [@Meter_IO](https://twitter.com/Meter_IO), der zu einer lokalen Abwertung des Preises von BNB.bsc führte.
+> Heute war [@MoonriverNW](https://twitter.com/MoonriverNW) von Hundred Finance von einem Brücken-Angriff auf [@Meter_IO](https://twitter.com/Meter_IO), betroffen, der zu einer lokalen Abwertung des Kurses von BNB.bsc führte.
 
->Konten konnten BNB.bsc zu einem reduzierten Preis kaufen und diese Tokens als Sicherheit zum globalen Chainlink-Preis verwenden, um unverfälschte Vermögenswerte auf unserer Plattform auszuleihen. Davon sind derzeit MIM und FRAX betroffen.
+>Konten konnten BNB.bsc zu einem reduzierten Preis erwerben und diese Token als Sicherheiten zum globalen Chainlink-Preis verwenden, um unkompromittierte Vermögenswerte auf unserer Plattform zu leihen. Von diesen sind derzeit MIM und FRAX betroffen.
+> 
 
->Wir möchten die Eigentümer der Konten, die dies getan haben, bitten, die geliehenen Vermögenswerte zurückzugeben, damit andere Benutzer auf ihre Liquidität zugreifen können. 1 Konteninhaber hat dies bereits getan, und wir sind bereit, weitere Prämien an die verbleibenden 3 zu zahlen, wenn sie dasselbe tun.
+>Wir möchten die Inhaber der Konten, die dies getan haben, bitten, die geliehenen Vermögenswerte zurückzugeben, damit andere Nutzer auf ihre Liquidität zugreifen können. 1 Kontoinhaber hat dies bereits getan, und wir sind bereit, den übrigen 3 Kontoinhabern weitere Prämien zu zahlen, wenn sie dasselbe tun.
+> 
 
 **Wir haben mit dem Gründer von Hundred Finance, [vfat](https://twitter.com/vfat0/status/1490398279267495944?s=20&t=dNKrs_3KbNuPpRTC5jPs5A), gesprochen:**
 
 **rekt:**
 
-Wird Hundred Finance nach diesem Vorfall Änderungen vornehmen? Du hast erwähnt, dass du mit Meter an einer möglichen Lösung arbeitest – könntest du uns weitere Einzelheiten verraten?
+Wird Hundred Finance nach diesem Vorfall irgendwelche Änderungen vornehmen? Sie erwähnen, dass Sie mit Meter an einer möglichen Lösung arbeiten - können Sie weitere Einzelheiten nennen?
 
 **vfat:**
 
->Hallo, also ja, das ist natürlich ein Problem, dessen wir uns nur allzu bewusst sind, jede neue Chain / Brücke, die wir hinzufügen, hat ihre eigenen Risiken, und ein Leihprotokoll ist ein natürliches Ziel für Brückenangreifer.
+>Hallo, also ja, natürlich ist dies ein Problem, dessen wir uns nur allzu bewusst sind. Jede neue Chain/Brücke, die wir hinzufügen, birgt ihre eigenen Risiken, und ein Kreditprotokoll ist ein natürliches Ziel für Brückenangreifer.
+> 
 
->Wir haben Meter verwendet, da sie die Hauptquelle für wrapped BTC auf Moonriver waren, dies in Kombination mit der nativen Brücke und Multichain bringt uns auf 3 Brücken in dieser Kette, was uns an unser Maximum bringt. In Zukunft werden wir strenger vorgehen und detailliertere Informationen darüber veröffentlichen, welche Brücken für welche Assets verwendet werden. Wir werden auch eine zusätzliche Überwachung auf mögliche Angriffe wie diesen prüfen.
+>Wir haben Meter verwendet, da sie die Hauptquelle für ümhülltem BTC auf Moonriver waren. Zusammen mit der nativen Brücke und Multichain sind wir damit bei 3 Brücken auf dieser Chain, was das Maximum ist, das wir verwenden würden. In Zukunft werden wir strenger sein und detailliertere Informationen darüber veröffentlichen, welche Brücken für welche Assets verwendet werden. Wir werden auch eine zusätzliche Überwachung für mögliche Angriffe wie diesen in Betracht ziehen.
+> 
 
->Meter haben natürlich die Verantwortung für diesen Hack übernommen und beabsichtigen, ihren nativen Token für die Erstattung so weit wie möglich zu verwenden. Derzeit sind wir dabei, Adressen und Beträge zu sammeln.
+>Meter hat natürlich die Verantwortung für diesen Hack übernommen und beabsichtigt, ihren eigenen Token für die Rückerstattung zu verwenden, soweit es ihm möglich ist; derzeit befinden wir uns in der Phase des Sammelns von Adressen und Beträgen.
+> 
 
->Eine interessante Sache ist, dass es bei Hundred insgesamt 4 opportunistische Kredite gab, und die ersten 2 wurden zurückgezahlt, sodass es für die anderen 2 noch ein gewisses Maß an Hoffnung gibt.
+>Interessant ist, dass es bei Hundred insgesamt 4 opportunistische Darlehen gab, von denen die ersten beiden zurückgezahlt wurden, so dass es für die anderen beiden noch einen Funken Hoffnung gibt.
+> 
 
->Der aktuelle Verlust für Hundert Benutzer beträgt 3,3 Millionen US-Dollar.
+>Der derzeitige Verlust für Hundred Nutzer beträgt 3,3 Millionen US-Dollar.
+> 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
-**Die freiwilligen Rückzahlungen der „opportunistischen Kredite“, die Hundred Finance aufgenommen hat, sind ein seltener Anblick, und es ist lobenswert, dass Meter die volle Verantwortung für alle Verluste übernimmt.**
+**Die freiwilligen Rückzahlungen der „opportunistischen Kredite“, die bei Hundred Finance aufgenommen wurden, sind ein seltener Anblick, und es ist lobenswert, dass Meter die volle Verantwortung für alle Verluste übernimmt.**
 
-Meter behauptet, [einige Beweise für die Identität](https://twitter.com/Meter_IO/status/1490103313521524738) des Hackers zu haben, und hat erklärt, dass sie mit Behörden zusammenarbeiten, um Gerechtigkeit zu schaffen.
+Meter behauptet, [einige Beweise für die Identität des Hackers](https://twitter.com/Meter_IO/status/1490103313521524738) zu haben, und hat erklärt, dass sie mit Behörden zusammenarbeiten, um Gerechtigkeit zu schaffen.
 
 **Kriminalität auf der Chain hat jedoch selten Folgen im echten Leben, und es wird nicht lange dauern, bis wir einen weiteren Angriff dieser Art sehen.**
 
-**Es wird mehr Brückenangriffe geben und mehr Benutzer werden Geld verlieren, aber irgendwann wird es jemandem gelingen, eine sichere Brücke zu bauen.**
+**Es wird mehr Anschläge auf Brücken geben, und mehr Nutzer werden Geld verlieren, aber irgendwann wird es jemandem gelingen, eine sichere Brücke zu bauen.**
 
 _Es ist noch zu früh, um risikofrei zu sein, aber das bedeutet nur mehr Chancen._
 
