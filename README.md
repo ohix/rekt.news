@@ -3,11 +3,13 @@
 ## consistency guide
 
 ```
-         ...k -> .000
-         ...m -> Millionen
-         ...b -> Milliarden
+                   ...k -> .000
+                   ...m -> Millionen
+                   ...b -> Milliarden
 
-    bagholder -> Bagholder
-        chian -> Chain
-      wrapped -> umhüllt
+              bagholder -> Bagholder
+              rug(pull) -> Rug(pull)
+          (cross-)chian -> (cross-)Chain
+                wrapped -> umhüllt
+               treasury -> Vorratskasse
 ```
