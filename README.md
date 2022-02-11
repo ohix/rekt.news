@@ -18,9 +18,11 @@
                     DEX → DEX
 
                     gas → das Gas
+                airdrop → der Airdrop
                   stake → Stake (der? das?)
                   token → Token (der? das?)
                  wallet → Wallet (die? das?)
+              community → Gemeinschaft
                contract → der Contract
               bagholder → der Bagholder
               rug(pull) → der Rug(pull)
