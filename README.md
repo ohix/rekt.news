@@ -17,6 +17,9 @@
                     CEX → CEX
                     DEX → DEX
 
+                    gas → Gas
+                  stake → Stake
+               contract → Contract
               bagholder → Bagholder
               rug(pull) → Rug(pull)
           (cross-)chian → (cross-)Chain
