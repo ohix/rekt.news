@@ -19,17 +19,17 @@
 
                     gas → das Gas
                 airdrop → der Airdrop
-                  stake → Stake (der? das?)
-                  token → Token (der? das?)
-                 wallet → Wallet (die? das?)
-              community → Gemeinschaft
+                  stake → der Stake
+                  token → der Token
+                 wallet → die Wallet
+              community → die Community
                contract → der Contract
               bagholder → der Bagholder
               rug(pull) → der Rug(pull)
       (cross-/on-)chian → die (cross-/on-)Chain
             post-mortem → das Post-Mortem
 
-                wrapped → umhüllt
-               treasury → Vorratskasse / Vorratsgelder
+                wrapped → wrapped
+               treasury → Treasury
              governance → Governance? Mitbestimmung?
 ```
