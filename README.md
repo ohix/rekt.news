@@ -12,6 +12,7 @@
 
                  <date> -> dd.mm.yyyy
                  <time> -> hh:mm UTC
+          <date>+<time> -> am dd.mm.yyyy um hh:mm UTC
 
                     CEX -> CEX
                     DEX -> DEX
@@ -19,6 +20,8 @@
               bagholder -> Bagholder
               rug(pull) -> Rug(pull)
           (cross-)chian -> (cross-)Chain
+            post-mortem -> Post-Mortem
+
                 wrapped -> umhüllt
                treasury -> Vorratskasse
 ```
