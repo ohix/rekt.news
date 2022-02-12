@@ -16,13 +16,18 @@
 
                     CEX → CEX
                     DEX → DEX
+                   CeFi → CeFi
+                   DeFi → DeFi
 
                     gas → das Gas
                 airdrop → der Airdrop
+                   fork → der Fork
+                   anon → der Anon
                   stake → der Stake
                   token → der Token
                  wallet → die Wallet
               community → die Community
+              flashloan → der Flashloan
                contract → der Contract
               bagholder → der Bagholder
               rug(pull) → der Rug(pull)
