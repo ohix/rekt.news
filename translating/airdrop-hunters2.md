@@ -3,7 +3,7 @@ title: Airdrop Hunters II
 date: 01/15/2022
 tags:
   - Airdrop
-excerpt: Es ist Geld zu verdienen, wenn man Geld verschenkt. Die jüngsten Airdrops haben große Aufmerksamkeit erregt. Aber können die Münzschöpfer eine dauerhafte Gemeinschaft ohne echtes eigenes Produkt schaffen?
+excerpt: Es ist Geld zu verdienen, wenn man Geld verschenkt. Die jüngsten Airdrops haben große Aufmerksamkeit erregt. Aber können die Münzschöpfer eine dauerhafte Community ohne echtes eigenes Produkt schaffen?
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/airdrop2-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/airdrop2-header.png)
@@ -14,7 +14,7 @@ _Es ist Geld zu verdienen, wenn man Geld verschenkt._
 
 In den letzten Wochen haben verschiedene Airdrops enorme Aufmerksamkeit erregt, obwohl keiner von ihnen etwas Nennenswertes hervorgebracht hat.
 
-Aber können die Schöpfer dieser Münzen erwarten, eine dauerhafte Gemeinschaft ohne echtes eigenes Produkt aufzubauen?
+Aber können die Schöpfer dieser Münzen erwarten, eine dauerhafte Community ohne echtes eigenes Produkt aufzubauen?
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/09/rekt-investigates-linebreak.png)
 

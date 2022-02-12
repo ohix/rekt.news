@@ -109,9 +109,9 @@ _Screenshots aufgenommen am 01.12.2021_
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/09/rekt-investigates-linebreak.png)
 
-**„Ein Kernmitglied“ nutzte Gemeinschaftsgelder, um von einem persönlichen Konto aus zu handeln.**
+**„Ein Kernmitglied“ nutzte Communitygelder, um von einem persönlichen Konto aus zu handeln.**
 
-Er [erhielt Tokens](https://etherscan.io/tx/0xb70240b0bb960f03e32c4871d021f5d7347683e56377da74b1fc514240eda2a4) im Wert von Hunderttausenden aus dem BitDAO-MISO-Verkauf in ein [persönliches Wallet](https://opensea.io/Hominoidea) und sagte anderen, es handle sich um einen „Gemeinschaftsfonds, der für den Kauf von NFTs verwendet werden soll“.
+Er [erhielt Tokens](https://etherscan.io/tx/0xb70240b0bb960f03e32c4871d021f5d7347683e56377da74b1fc514240eda2a4) im Wert von Hunderttausenden aus dem BitDAO-MISO-Verkauf in ein [persönliches Wallet](https://opensea.io/Hominoidea) und sagte anderen, es handle sich um einen „Communityfonds, der für den Kauf von NFTs verwendet werden soll“.
 
 _Die Verwendung und Verwaltung des Geldes des Teams ohne dessen Zustimmung ist offensichtlich inakzeptabel, insbesondere wenn man erfahrt, wie das Kernmitglied seine persönlichen Finanzen verwaltet..._
 

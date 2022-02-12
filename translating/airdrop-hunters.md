@@ -69,7 +69,7 @@ Die on-chain [Ermittlung](https://twitter.com/mevbandit/status/14559114911489146
 
 **Der ENS-Leiter nick.eth hat öffentlich den Entscheidungsprozess des Teams detailliert beschrieben.**
 
-Das Team entschied sich für einen manuellen Prozess um Konten auszuschliessen, die „_eindeutig Airdrop-Farming_“ waren, und identifizierte schließlich mithilfe von „_Hinweisen aus der Gemeinschaft_“ insgesamt 1371 Adressen.
+Das Team entschied sich für einen manuellen Prozess um Konten auszuschliessen, die „_eindeutig Airdrop-Farming_“ waren, und identifizierte schließlich mithilfe von „_Hinweisen aus der Community_“ insgesamt 1371 Adressen.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
 

@@ -92,7 +92,7 @@ _Hätte Daniele die Identität von 0xSifu geheim gehalten?_
 
 Aus meinen Nachrichten mit Dani (in meinem Thread zu sehen) und auch den öffentlich gemachten Aussagen geht hervor, dass seine Identität wahrscheinlich privat geblieben wäre.
 
-Ich kann nicht zu viel darüber spekulieren, was passieren würde. Man setzt einfach das Geld der Gemeinschaft aufs Spiel. Lass die Gemeinschaft mithilfe von Governance selbst entscheiden. Die Geschichte von 0xSifu ist kein Zufall.
+Ich kann nicht zu viel darüber spekulieren, was passieren würde. Man setzt einfach das Geld der Community aufs Spiel. Lass die Community mithilfe von Governance selbst entscheiden. Die Geschichte von 0xSifu ist kein Zufall.
 
 **rekt:**
 
@@ -132,15 +132,15 @@ MIM und UST FUD haben zu dem höchsten täglichen Volumen bei [Curve Finance](ht
 
 **Was passiert jetzt?**
 
-_Die Gemeinschaft ist nicht glücklich._
+_Die Community ist nicht glücklich._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/sifu-emilio.png)
 
-**Obwohl Daniele Sesta zunächst Patryn [unterstützte](https://twitter.com/danielesesta/status/1486591436233404421), hat er nun eine [Art Entschuldigung veröffentlicht](https://mirror.xyz/0x8A7f7C5b556B1298a74c0e89df46Eba117A2F6c1/s7haxQQE9lhDxoBws97vsyGlrOi768xtGB-z9vLLQAw), und es scheint, dass das Schicksal von Wonderland nun in den Händen der Gemeinschaft liegen wird.**
+**Obwohl Daniele Sesta zunächst Patryn [unterstützte](https://twitter.com/danielesesta/status/1486591436233404421), hat er nun eine [Art Entschuldigung veröffentlicht](https://mirror.xyz/0x8A7f7C5b556B1298a74c0e89df46Eba117A2F6c1/s7haxQQE9lhDxoBws97vsyGlrOi768xtGB-z9vLLQAw), und es scheint, dass das Schicksal von Wonderland nun in den Händen der Community liegen wird.**
 
 _Ist das ein bewundernswerter Zug, oder setzt er darauf, dass seine Bagholder vielleicht ein Auge zudrücken?_
 
-Wir werden uns daran erinnern, dass Daniele Sesta zu diesem Eingeständnis gezwungen wurde, und wenn der Whistleblower nicht gewesen wäre, hätte er die Identität dieses verurteilten Betrügers weiterhin vor der Gemeinschaft geheim gehalten.
+Wir werden uns daran erinnern, dass Daniele Sesta zu diesem Eingeständnis gezwungen wurde, und wenn der Whistleblower nicht gewesen wäre, hätte er die Identität dieses verurteilten Betrügers weiterhin vor der Community geheim gehalten.
 
 Schmutzige Geheimnisse wie diese sind genau die Art von Kritik, der DeFi regelmäßig von Aufsichtsbehörden, TradFi und der breiten Öffentlichkeit ausgesetzt ist. Auch wenn die Mehrheit mit dem derzeitigen System unzufrieden ist, wie können wir neue Benutzer davon überzeugen, ihr Sicherheitsnetz mit Skandalen wie diesem, hinter sich zu lassen?
 
