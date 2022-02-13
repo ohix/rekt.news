@@ -29,14 +29,13 @@ _Quelle: [@ishwinder](https://twitter.com/ishwinder/status/1490227406824685569?s
 
 Der Angriff begann am 05.02.2022 um ca. 14:00 Uhr UTC, als [der Angreifer](https://etherscan.io/address/0x8d3d13cac607B7297Ff61A5E1E71072758AF4D01) böswillig eine beträchtliche Menge an BNB- und wETH-Tokens prägte und die Brückenreserve seiner BNB und wETH entleerte, bevor alle Brückentransaktionen von [Meter gestoppt](https://twitter.com/Meter_IO/status/1490103308421255168) werden konnten.
 
-Meter_io Passport ist ein ChainBridge Fork von [ChainSafe](https://twitter.com/ChainSafeth), jedoch mit einer Änderung, die an der Einzahlungsmethode der ERC20 Handler vorgenommen wurde.
+Meter_io Passport ist ein ChainBridge Fork von [ChainSafe](https://twitter.com/ChainSafeth), jedoch mit einer Änderung, die an der Einzahlungsmethode der ERC20 _Handler_ vorgenommen wurde.
 
->Diese Änderung geht grundsätzlich davon aus, dass, wenn der Token, der überbrückt wird, ein umhüllter nativer Token ist, dieser nicht verbrannt oder gesperrt wird, da der umhüllte native Token bereits entpackt und der Betrag an den Handler-Vertrag übertragen wurde.
-> 
+>Diese Änderung geht grundsätzlich davon aus, dass, wenn der Token, der überbrückt wird, ein umhüllter nativer Token ist, dieser nicht verbrannt oder gesperrt wird, da der umhüllte native Token bereits entpackt und der Betrag an den _Handler_-Contract übertragen wurde.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-code1.png)
 
->Diese Annahme gilt für eine der Einzahlungsmethoden depositEth, die auch den Wert des Betrags in calldata bestätigt (der dann letztendlich an die Einzahlungsmethode des Handlers weitergegeben wird):
+>Diese Annahme gilt für eine der Einzahlungsmethoden depositEth, die auch den Wert des Betrags in _calldata_ bestätigt (der dann letztendlich an die Einzahlungsmethode des Handlers weitergegeben wird):
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-code2.png)
 
@@ -44,7 +43,7 @@ Meter_io Passport ist ein ChainBridge Fork von [ChainSafe](https://twitter.com/C
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-code3.png)
 
->Der Hacker bemerkt dies und sendet einen beliebigen Betrag in den calldata, der an die Einzahlung des Handlers weitergegeben wird.
+>Der Hacker bemerkt dies und sendet einen beliebigen Betrag in den _calldata_, der an die Einzahlung des Handlers weitergegeben wird.
 
 >Die Beute wurde dann innerhalb einer Stunde über mehrere Transaktionen in Tornado Cash transferiert.
 
