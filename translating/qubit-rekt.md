@@ -24,7 +24,7 @@ _Aber wird sich irgendjemand nächste Woche noch daran erinnern?_
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/09/rekt-investigates-linebreak.png)
 
-Qubit ermöglicht eine [chainübergreifende Besicherung](https://docs.qbt.fi/protocol/bridge) und sperrt Vermögenswerte auf Ethereum, um sie über die QBridge-Einzahlungsfunktion auf BSC auszuleihen.
+Qubit ermöglicht eine [chainübergreifende Besicherung](https://docs.qbt.fi/protocol/bridge) und sperrt Assets auf Ethereum, um sie über die QBridge-Einzahlungsfunktion auf BSC auszuleihen.
 
 Der Angreifer nutzte einen Logikfehler im Code aus, der xETH für die Verwendung auf BSC verfügbar machte, ohne ETH auf Ethereum hinterlegt zu haben.
 

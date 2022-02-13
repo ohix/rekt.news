@@ -19,7 +19,7 @@ Ist CeFi sicherer als DeFi?
 
 **[BitMart](https://twitter.com/BitMartExchange), die selbsternannte „_Am Meisten Vertraute Crypto Trading Platform_“, hat ~196 Millionen US-Dollar von zwei seiner hot Wallets auf Ethereum und BSC verloren.**
 
-Die gestohlenen Vermögenswerte _(hauptsächlich Memecoins)_ belaufen sich auf ~100 Millionen Dollar auf Ethereum und ~96 Millionen Dollar auf BSC.
+Die gestohlenen Assets _(hauptsächlich Memecoins)_ belaufen sich auf ~100 Millionen Dollar auf Ethereum und ~96 Millionen Dollar auf BSC.
 
 Als die Nachrichten zu [kursieren](https://twitter.com/peckshield/status/1467302620000043013) begannen, wiesen die Admins von BitMart Telegram die Gerüchte als „[_fake News_](https://twitter.com/peckshield/status/1467316799977193476/photo/4)“ zurück, während sie erklärten, dass Anfragen bezüglich des möglichen Hacks „_unnötige Spannungen_“ erzeugten.
 
@@ -69,7 +69,7 @@ _Wenn diese Zahl wirklich zutrifft, sollte eine vollständige Rückerstattung f�
 
 **Zentralisierte Plattformen existieren als vertrauenswürdige Vermittler für diejenigen, die möglicherweise Vorbehalte gegen die direkte Interaktion mit Krypto haben.**
 
-Nutzer geben die Verwahrung ihrer Vermögenswerte in der Erwartung auf, dass die Personen, die sie verwalten, Experten für Sicherheit und anerkannte Branchenpraxis sind.
+Nutzer geben die Verwahrung ihrer Assets in der Erwartung auf, dass die Personen, die sie verwalten, Experten für Sicherheit und anerkannte Branchenpraxis sind.
 
 **Es bleibt abzuwarten, wie es dem Angreifer gelang, sich Zugang zu den fraglichen Wallets zu verschaffen.**
 

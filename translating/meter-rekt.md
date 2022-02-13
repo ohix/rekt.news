@@ -58,11 +58,9 @@ Hundred Finance gab den Verlust in [einem Tweet](https://twitter.com/HundredFina
 
 > Heute war [@MoonriverNW](https://twitter.com/MoonriverNW) von Hundred Finance von einem Brücken-Angriff auf [@Meter_IO](https://twitter.com/Meter_IO), betroffen, der zu einer lokalen Abwertung des Kurses von BNB.bsc führte.
 
->Konten konnten BNB.bsc zu einem reduzierten Preis erwerben und diese Token als Sicherheiten zum globalen Chainlink-Preis verwenden, um unkompromittierte Vermögenswerte auf unserer Plattform zu leihen. Von diesen sind derzeit MIM und FRAX betroffen.
-> 
+>Konten konnten BNB.bsc zu einem reduzierten Preis erwerben und diese Token als Sicherheiten zum globalen Chainlink-Preis verwenden, um unkompromittierte Assets auf unserer Plattform zu leihen. Von diesen sind derzeit MIM und FRAX betroffen.
 
->Wir möchten die Inhaber der Konten, die dies getan haben, bitten, die geliehenen Vermögenswerte zurückzugeben, damit andere Nutzer auf ihre Liquidität zugreifen können. 1 Kontoinhaber hat dies bereits getan, und wir sind bereit, den übrigen 3 Kontoinhabern weitere Prämien zu zahlen, wenn sie dasselbe tun.
-> 
+>Wir möchten die Inhaber der Konten, die dies getan haben, bitten, die geliehenen Assets zurückzugeben, damit andere Nutzer auf ihre Liquidität zugreifen können. 1 Kontoinhaber hat dies bereits getan, und wir sind bereit, den übrigen 3 Kontoinhabern weitere Prämien zu zahlen, wenn sie dasselbe tun.
 
 **Wir haben mit dem Gründer von Hundred Finance, [vfat](https://twitter.com/vfat0/status/1490398279267495944?s=20&t=dNKrs_3KbNuPpRTC5jPs5A), gesprochen:**
 

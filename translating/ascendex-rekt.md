@@ -50,7 +50,7 @@ Die gestohlenen Gelder befinden sich derzeit in der Adresse des Hackers unter:
 
 **[Polygon](https://polygonscan.com/address/0x2C6900b24221dE2B4A45c8c89482fFF96FFB7E55)**
 
-Eines der auf BSC gestohlenen Vermögenswerte, [Bemil Coin](https://www.coingecko.com/en/coins/bemil-coin), ist seit dem Vorfall um über 98% im Preis abstürzte, was dazu führte, dass der Wert der Beute auf BSC um etwa 6,5 Millionen Dollar fiel.
+Eines der auf BSC gestohlenen Assets, [Bemil Coin](https://www.coingecko.com/en/coins/bemil-coin), ist seit dem Vorfall um über 98% im Preis abstürzte, was dazu führte, dass der Wert der Beute auf BSC um etwa 6,5 Millionen Dollar fiel.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
 

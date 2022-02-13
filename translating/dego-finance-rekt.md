@@ -35,7 +35,7 @@ _Inkompetenz oder böse Absichten?_
 
 _Klarer Weise hat der Angreifer alles genommen._
 
-[Slowmist](https://twitter.com/SlowMist_Team/status/1491692468055592960?s=20&t=rjGvgk59_VcejquaKRRcEg) zeigt eine Liste der gestohlenen Vermögenswerte.
+[Slowmist](https://twitter.com/SlowMist_Team/status/1491692468055592960?s=20&t=rjGvgk59_VcejquaKRRcEg) zeigt eine Liste der gestohlenen Assets.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/dego-assets.png)
 
