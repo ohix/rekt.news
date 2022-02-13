@@ -41,7 +41,7 @@ Mehrere Quellen haben uns mitgeteilt, dass sich innerhalb von Sushiswap ein inne
 
 Wir wissen jetzt, dass 0xMaki von JOKR in eine Position gebracht wurde, in der er Sushi verlassen, musste ansonsten würden 6 andere Entwickler gehen, was dazu geführt hätte, dass Trident nicht ausgeliefert würde und ein Großteil seiner Arbeit umsonst gewesen wäre.
 
-Da 0xMaki der einzige bei Sushiswap mit einem 3-Jahres-Vertrag ist (andere Mitglieder haben 1 Jahr), konnte JOKR ihn nicht feuern, also baten sie ihn stattdessen, „_eine beratende Rolle zu übernehmen_“ , ohne die Community zu konsultieren.
+Da 0xMaki der einzige bei Sushiswap mit einem 3-Jahres-Vertrag ist (andere Mitglieder haben 1 Jahr), konnte JOKR ihn nicht feuern, also baten sie ihn stattdessen, „_eine beratende Rolle zu übernehmen_“, ohne die Community zu konsultieren.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/sushiscandal-makicorevote.png)
 

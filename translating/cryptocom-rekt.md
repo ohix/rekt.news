@@ -82,7 +82,7 @@ Der Hacker hat die bestehende 2FA umgangen, sie haben die Auszahlungs-Whitelist 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
 
-Selbst ein [„SOC2“-Audit von Deloitte](https://blog.crypto.com/crypto-com-the-most-secure-application-worldwide-adds-soc-2-compliance/) konnte diesen Angriff nicht verhindern, was Crypto.com Platz 29 in der [Rangliste](https://rekt.news/leaderboard/) beschert .
+Selbst ein [„SOC2“-Audit von Deloitte](https://blog.crypto.com/crypto-com-the-most-secure-application-worldwide-adds-soc-2-compliance/) konnte diesen Angriff nicht verhindern, was Crypto.com Platz 29 in der [Rangliste](https://rekt.news/leaderboard/) beschert.
 
 Wenn eine der bekanntesten Kryptomarken Opfer eines Exploits wird, schadet dies dem Ruf der gesamten Branche. Zentralisierte Börsen sind auf Kleinanleger angewiesen, die von solchen Ereignissen leicht abgeschreckt werden.
 

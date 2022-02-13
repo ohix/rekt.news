@@ -27,7 +27,7 @@ Daniele Sesta, der selbsternannte Anführer der Froschnation, kam in der DeFi-Co
 
 **Jedes Idol verlässt sich jedoch auf sein weniger bekanntes Team, das oft die meiste Arbeit erledigt.**
 
-Als die Fantasie aus Sesta's Wonderland verblasste, sahen wir, dass [$TIME](https://www.coingecko.com/en/coins/wonderland) [schlecht](https://twitter.com/adamscochran/status/1486713137860464658?s=21) [verwaltet](https://twitter.com/thedefiedge/status/1483910379436662791) wurde .
+Als die Fantasie aus Sesta's Wonderland verblasste, sahen wir, dass [$TIME](https://www.coingecko.com/en/coins/wonderland) [schlecht](https://twitter.com/adamscochran/status/1486713137860464658?s=21) [verwaltet](https://twitter.com/thedefiedge/status/1483910379436662791) wurde.
 
 **Der On-Chain Spürhund [ZachXBT](https://twitter.com/zachxbt/status/1486591682728673282?s=20&t=cBEml84fJqyrRYosUNv7Cw) zwang Sesta, die Identität seines CFO [0xSifu](https://twitter.com/0xSifu) zuzugeben.**
 
