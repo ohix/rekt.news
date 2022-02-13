@@ -14,27 +14,30 @@
                  <time> → hh:mm UTC
           <date>+<time> → am dd.mm.yyyy um hh:mm UTC
 
+                    TVL → TVL
                     CEX → CEX
                     DEX → DEX
                    CeFi → CeFi
                    DeFi → DeFi
 
                     gas → das Gas
-                airdrop → der Airdrop
-                   fork → der Fork
                    anon → der Anon
+                   fork → der Fork
+                  asset → das Asset
                   stake → der Stake
                   token → der Token
                  wallet → die Wallet
+                airdrop → der Airdrop
+               contract → der Contract
+               treasury → die Treasury
+              bagholder → der Bagholder
               community → die Community
               flashloan → der Flashloan
-               contract → der Contract
-              bagholder → der Bagholder
+              front-end → das Front-End
               rug(pull) → der Rug(pull)
-      (cross-/on-)chian → die (cross-/on-)Chain
+             governance → die Governance
             post-mortem → das Post-Mortem
+      (cross-/on-)chian → die (cross-/on-)Chain
 
                 wrapped → wrapped
-               treasury → Treasury
-             governance → Governance? Mitbestimmung?
 ```
