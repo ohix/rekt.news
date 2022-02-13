@@ -8,7 +8,7 @@ rekt:
 tags:
   - CEX
   - REKT
-excerpt: Ein weiterer CEX rekt, aber sie müssen es noch zugeben. ~33,7 Millionen US-Dollar eingenommen, Hunderte von Benutzern betroffen, und Crypto.com behauptet immer noch, dass „Gelder sicher sind“.
+excerpt: Ein weiterer CEX rekt, aber sie müssen es noch zugeben. ~33,7 Millionen USD eingenommen, Hunderte von Benutzern betroffen, und Crypto.com behauptet immer noch, dass „Gelder sicher sind“.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/cryptocom-header2.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/cryptocom-header2.png)
@@ -16,9 +16,9 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/cryp
 
 Nach unserer ersten Untersuchung deckte [ErgoBTC](https://twitter.com/ErgoBTC/status/1483540849434763264?s=20) noch mehr verlorene Gelder von Crypto.com auf.
 
-**Weitere 444 BTC: ~18,7 Millionen US-Dollar.**
+**Weitere 444 BTC: ~18,7 Millionen USD.**
 
-Das erhöht den verlorenen Gesamtwert auf 33,7 Millionen US-Dollar und bringt Crypto.com auf Platz 15 der Rangliste.
+Das erhöht den verlorenen Gesamtwert auf 33,7 Millionen USD und bringt Crypto.com auf Platz 15 der Rangliste.
 
 _Und noch immer keine Bestätigung eines Verlustes von Crypto.com._
 
@@ -70,7 +70,7 @@ _Wie hat der Angreifer die 2FA der Benutzer und ihre E-Mail-Entzugsgenehmigungen
 
 _Warum behaupten [so](https://twitter.com/CarlosJRegueir1/status/1483043157130547202?s=20) [viele](https://twitter.com/dogeofficialceo/status/1482977646116016130?s=20) [Nutzer](https://twitter.com/AlohanCharles/status/1483343632312774657?s=20), ihre ETH verloren zu haben?_
 
-[Peckshield geht davon aus](https://twitter.com/peckshield/status/1483246262371557378?s=20), dass der Gesamtverlust etwa 15 Millionen US-Dollar beträgt, wobei mindestens [4.600 ETH](https://etherscan.io/address/0x6e1218c55f1acb588fc5e55b721f1183d7d29d3d) direkt aus den Wallets von Hunderten verschiedener Benutzer entnommen wurden.
+[Peckshield geht davon aus](https://twitter.com/peckshield/status/1483246262371557378?s=20), dass der Gesamtverlust etwa 15 Millionen USD beträgt, wobei mindestens [4.600 ETH](https://etherscan.io/address/0x6e1218c55f1acb588fc5e55b721f1183d7d29d3d) direkt aus den Wallets von Hunderten verschiedener Benutzer entnommen wurden.
 
 [Certik hat geschrieben](https://twitter.com/certikorg/status/1483271631321583616?s=20):
 
@@ -88,7 +88,7 @@ Wenn eine der bekanntesten Kryptomarken Opfer eines Exploits wird, schadet dies 
 
 _Wird crypto.com jemals zugeben, dass die Gelder nicht sicher waren?_
 
-**Sicherlich ist ein Vergütungsplan mit 15 Millionen US-Dollar besser als der Versuch, alles zu vertuschen.**
+**Sicherlich ist ein Vergütungsplan mit 15 Millionen USD besser als der Versuch, alles zu vertuschen.**
 
 Oder vielleicht erstatten sie den betroffenen Nutzern stillschweigend eine Rückerstattung, anstatt etwas Offizielles anzukündigen.
 

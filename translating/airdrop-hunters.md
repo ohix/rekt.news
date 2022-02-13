@@ -39,7 +39,7 @@ Die strengen Kriterien sollen alle Akteure ausschließen, die versuchen, das Sys
 
 **2:** Haben > 50 Transaktionen durchgeführt oder über einem bestimmten Schwellenwert des nativen Tokens des Netzwerks gehalten (aktive Wallet im Allgemeinen)
 
-**3:** Wenn Teil eines Clusters (> 5) geeigneter Adressen, einen Portfoliowert von > 200 US-Dollar haben (Anti-Sybil-Mechanismus)
+**3:** Wenn Teil eines Clusters (> 5) geeigneter Adressen, einen Portfoliowert von > 200 USD haben (Anti-Sybil-Mechanismus)
 
 **Diese Regeln bedeuten, dass der Rückgang auf nur 1,5% der Adressen ging, die mit der Plattform interagiert haben – 20.000 „aktive Benutzer“ von 1,3 Millionen „eindeutigen Adressen“.**
 

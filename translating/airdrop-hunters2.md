@@ -40,11 +40,11 @@ Nutzer sollten in der Lage sein, $WTF basierend auf ihren bestehenden Gasausgabe
 
 Erstens hatten viele, bevor die Inanspruchnahme aktiv wurde, Bedenken hinsichtlich der für die Inanspruchnahme erforderlichen Freischaltgebühr (plus Gas für die zusätzliche Transaktion) sowie des Designs des Token-Contracts.
 
-Die Freischaltgebühr von 0,01 ETH geht direkt in die [Wallet des Teams](https://etherscan.io/address/0x5cb7880035bd592a66aad803ce1cdf6aa385e2a1#internaltx) (bisher über 175 ETH oder ~500.000 US-Dollar), sofern sie nicht über das Empfehlungsprogramm aufgeteilt wird. Nach der Beanspruchung können Nutzer einen Link generieren, um einen Teil der weiteren Gebühren mit dem Team zu teilen, [abhängig von der Menge an $WTF, die sie verbrannt hatten](https://fees.wtf/#/faqs).
+Die Freischaltgebühr von 0,01 ETH geht direkt in die [Wallet des Teams](https://etherscan.io/address/0x5cb7880035bd592a66aad803ce1cdf6aa385e2a1#internaltx) (bisher über 175 ETH oder ~500.000 USD), sofern sie nicht über das Empfehlungsprogramm aufgeteilt wird. Nach der Beanspruchung können Nutzer einen Link generieren, um einen Teil der weiteren Gebühren mit dem Team zu teilen, [abhängig von der Menge an $WTF, die sie verbrannt hatten](https://fees.wtf/#/faqs).
 
 Der Token selbst enthält auch eine Übertragungsgebühr, [derzeit 4%, aber einstellbar auf bis zu 10%](https://twitter.com/0xQuit/status/1481666169505415169). Diese wird hauptsächlich zwischen verschiedenen Belohnungsmechanismen für WTF-Inhaber, Staker und LPs aufgeteilt, wobei jedoch 5% der Gebühr (0,2% des Überweisungsbetrags) an die Vorratskasse gehen.
 
-**Zusätzlich zu den oben genannten Gebühren hatte die Spendenadresse des Teams bereits 500.000 US-Dollar [ausgezahlt](https://etherscan.io/tx/0x50dddd1022a625f2b08355aca3892b7c86aee4f27db70601f8dc1bb923fe2b0b).**
+**Zusätzlich zu den oben genannten Gebühren hatte die Spendenadresse des Teams bereits 500.000 USD [ausgezahlt](https://etherscan.io/tx/0x50dddd1022a625f2b08355aca3892b7c86aee4f27db70601f8dc1bb923fe2b0b).**
 
 Das [Chaos](https://twitter.com/WazzCrypto/status/1481810582005325829) nach dem Start führte dazu, dass einige Bots groß gewannen [(58 ETH)](https://etherscan.io/tx/0x1cfac232b226dd81c90f4925716b025d471ea5c16d656b68127a126cae51f8f0) und einige Benutzer stark rekt wurden ([42 ETH](https://etherscan.io/tx/0x0c1005a356c8bc6b48529ae9dd048124e89e472d3795fbdafe903ee5b584793c), [22 ETH](https://etherscan.io/tx/0x48699a888f73bf71290615297e6a5929460ddcd5a3dcb4bea0240066ae1e2f9d)) im schlüpfrigen Uniswap V2-Pool, der mit nur 2,200 WTF und 0,000001 ETH [ausgestattet war](https://etherscan.io/tx/0xec34f30b96707bf76f4d65ae3124d94124e6879c01aca3f39d2cba67799546f8).
 

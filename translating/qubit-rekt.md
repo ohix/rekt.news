@@ -16,7 +16,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/qubi
 
 **In anderen Nachrichten...**
 
-[Qubit Finance](https://qbt.fi/), ein BSC-basiertes Kreditprotokoll, das vom Team hinter dem Wiederholungstäter ([1](https://rekt.news/pancakebunny-rekt/), [2](https://rekt.news/pancakebunny2-rekt/)) PancakeBunny [gestartet wurde](https://pancakebunny.medium.com/introducing-qubit-qbt-innovating-lending-and-borrowing-on-the-bsc-9f3fe6438f44), ist Opfer eines 80 Millionen US-Dollar Exploits geworden.
+[Qubit Finance](https://qbt.fi/), ein BSC-basiertes Kreditprotokoll, das vom Team hinter dem Wiederholungstäter ([1](https://rekt.news/pancakebunny-rekt/), [2](https://rekt.news/pancakebunny2-rekt/)) PancakeBunny [gestartet wurde](https://pancakebunny.medium.com/introducing-qubit-qbt-innovating-lending-and-borrowing-on-the-bsc-9f3fe6438f44), ist Opfer eines 80 Millionen USD Exploits geworden.
 
 Das ist die Nummer sieben auf unserer [Rangliste](https://rekt.news/leaderboard/).
 
@@ -48,9 +48,9 @@ Nach Certiks [Analyse](https://certik.medium.com/qubit-bridge-collapse-exploited
 
 >_Eine der Hauptursachen für die Schwachstelle war die Tatsache, dass tokenAddress.safeTransferFrom() nicht zurückgesetzt wird, wenn die tokenAddress die Nulladresse (null) (0x0...000) ist._
 
-Obwohl keine ETH im Ethereum-Vertrag eingeschlossen waren, hatte die BSC-Adresse des Angreifers nun Zugriff auf [77.162 qXETH](https://bscscan.com/tx/0x50946e3e4ccb7d39f3512b7ecb75df66e6868b9af0eee8a7e4b61ef8a459518e) (185 Millionen US-Dollar), die als Sicherheit für Kredite auf Qubit verwendet werden konnten.
+Obwohl keine ETH im Ethereum-Vertrag eingeschlossen waren, hatte die BSC-Adresse des Angreifers nun Zugriff auf [77.162 qXETH](https://bscscan.com/tx/0x50946e3e4ccb7d39f3512b7ecb75df66e6868b9af0eee8a7e4b61ef8a459518e) (185 Millionen USD), die als Sicherheit für Kredite auf Qubit verwendet werden konnten.
 
-Sie nutzten diese Sicherheiten, um WETH, BTC-B, USD-Stablecoins, CAKE, BUNNY und MDX zu leihen, bevor sie alles gegen insgesamt 200.000 BNB (~80 Millionen US-Dollar) tauschten, die nach wie vor in der [BSC-Adresse](https://bscscan.com/address/0xd01ae1a708614948b2b5e0b7ab5be6afa01325c7) verbleiben.
+Sie nutzten diese Sicherheiten, um WETH, BTC-B, USD-Stablecoins, CAKE, BUNNY und MDX zu leihen, bevor sie alles gegen insgesamt 200.000 BNB (~80 Millionen USD) tauschten, die nach wie vor in der [BSC-Adresse](https://bscscan.com/address/0xd01ae1a708614948b2b5e0b7ab5be6afa01325c7) verbleiben.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
@@ -58,7 +58,7 @@ Sie nutzten diese Sicherheiten, um WETH, BTC-B, USD-Stablecoins, CAKE, BUNNY und
 
 Die gesamte X-Kollateral-Funktion (einschließlich Verträge und Skripte) wurde von Theori, einer professionellen Auditierungsfirma, geprüft. Das Prüfungsergebnis ist hier [veröffentlicht](https://github.com/PancakeBunny-finance/qubit-finance/blob/master/audits/mound_qubit_xChain_audit_rev1.1.pdf).
 
-Das Projekt hat eine maximale Prämie von 250.000 US-Dollar für [Immunefi](https://immunefi.com/bounty/qubit/), aber das Qubit-Team scheint zu Verhandlungen [bereit](https://twitter.com/QubitFin/status/1486984216072318977) zu sein.
+Das Projekt hat eine maximale Prämie von 250.000 USD für [Immunefi](https://immunefi.com/bounty/qubit/), aber das Qubit-Team scheint zu Verhandlungen [bereit](https://twitter.com/QubitFin/status/1486984216072318977) zu sein.
 
 Bereits im Mai 2021 [schenkte](https://twitter.com/RektHQ/status/1397195892327858181) uns der Pancake Bunny Hacker 100.000 DAI.
 

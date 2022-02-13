@@ -9,14 +9,14 @@ tags:
   - Wormhole
   - Solana
   - REKT
-excerpt: Wurmloch hatte ein Schlupfloch... Ein Hacker verzerrte das Gefüge von Solanas Raumzeit und erzielte dabei einen Nettogewinn von 326 Millionen US-Dollar. Wie hat Wormhole so schnell so viel ETH zurückgegeben?
+excerpt: Wurmloch hatte ein Schlupfloch... Ein Hacker verzerrte das Gefüge von Solanas Raumzeit und erzielte dabei einen Nettogewinn von 326 Millionen USD. Wie hat Wormhole so schnell so viel ETH zurückgegeben?
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/wormhole-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/wormhole-header.png)
 
 **Wurmloch hatte ein Schlupfloch...**
 
-_Ein Hacker verzerrte das Gefüge von Solanas Raumzeit und erzielte dabei einen Nettogewinn von 326 Millionen US-Dollar._
+_Ein Hacker verzerrte das Gefüge von Solanas Raumzeit und erzielte dabei einen Nettogewinn von 326 Millionen USD._
 
 Beim zweiten Brücken-Exploit in [weniger als einer Woche](https://rekt.news/qubit-rekt/) landet Solana's Wormhole direkt auf Platz 2 unserer [Rangliste](https://rekt.news/leaderboard/).
 
@@ -28,7 +28,7 @@ Der Exploit wurde später [direkt angesprochen](https://twitter.com/wormholecryp
 
 **Weniger als 24 Stunden später [war die Sicherheit wiederhergestellt](https://twitter.com/wormholecrypto/status/1489232008521859079).**
 
-_Wo hat Wormhole 326 Millionen US-Dollar gefunden?__
+_Wo hat Wormhole 326 Millionen USD gefunden?__
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/09/rekt-investigates-linebreak.png)
 
@@ -50,9 +50,9 @@ _Wo hat Wormhole 326 Millionen US-Dollar gefunden?__
 
 >Dies ist der Wormhole Deployer:
 >
->Wir haben festgestellt, dass du die Solana-VAA-Verifizierung ausnutzen und Tokens prägen konntest. Wir möchten dir eine Whitehat-Vereinbarung anbieten und dir eine Bug-Prämie von 10 Millionen US-Dollar für Exploit-Details und die Rückgabe der von Ihnen geprägten wETH präsentieren. Sie erreichen uns unter contact@certus.one.
+>Wir haben festgestellt, dass du die Solana-VAA-Verifizierung ausnutzen und Tokens prägen konntest. Wir möchten dir eine Whitehat-Vereinbarung anbieten und dir eine Bug-Prämie von 10 Millionen USD für Exploit-Details und die Rückgabe der von Ihnen geprägten wETH präsentieren. Sie erreichen uns unter contact@certus.one.
 
-**Eine Bug-Prämie von 10 Millionen US-Dollar ist die größte, die wir je gesehen haben.**
+**Eine Bug-Prämie von 10 Millionen USD ist die größte, die wir je gesehen haben.**
 
 **Bewahre deine Unschuld, plus 10 Millionen Dollar, oder gehe mit 326 Millionen Dollar auf die Flucht.**
 

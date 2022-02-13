@@ -13,7 +13,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/supe
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/superfluid-header.png)
 
-**8,7 Millionen US-Dollar wurden von Superfluid abgezogen.**
+**8,7 Millionen USD wurden von Superfluid abgezogen.**
 
 _Das Krypto-Streaming-Protokoll wurde am 08.02.22 um 06:17 UTC gehackt._
 
@@ -51,7 +51,7 @@ _Wie ist es passiert?_
 
 11k MATIC - Noch nicht verkauft
 
->Insgesamt - ~8,7 Millionen US-Dollar
+>Insgesamt - ~8,7 Millionen USD
 
 **~6 Stunden nach dem Angriff hat Superfluid den Fehler mit Hilfe von [Mudit Gupta](https://twitter.com/Mudit__Gupta) geflickt.**
 

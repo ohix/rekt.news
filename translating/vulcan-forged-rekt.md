@@ -44,7 +44,7 @@ Seitdem wurden Gelder an weitere Wallets weitergeleitet, zum Beispiel [diese](ht
 
 Das Team [behauptet](https://twitter.com/VulcanForged/status/1470209893114294282), eine Adresse identifiziert zu haben, die mit einem KYC-Exchange verbunden sein könnte.
 
-Insgesamt wurden über 4,5 Millionen PYR erbeutet, die zum Zeitpunkt des Angriffs einen Wert von ca. 140 Millionen US-Dollar hatten.
+Insgesamt wurden über 4,5 Millionen PYR erbeutet, die zum Zeitpunkt des Angriffs einen Wert von ca. 140 Millionen USD hatten.
 
 Nachfolgende Verkäufe der gestohlenen PYR hatten einen großen Einfluss auf den Token-Preis, der zunächst um etwa 30% von etwa 31 USD auf einen Tiefststand von 21,47 USD fiel.
 

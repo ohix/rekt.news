@@ -126,7 +126,7 @@ Könnte jemand versuchen, den Ruf von Cronjes neuem Unternehmen durch Assoziatio
 
 Neben persönlichen Sorgen hatte der Vorfall weitreichende Auswirkungen auf die DeFi-Märkte.
 
-MIM und UST FUD haben zu dem höchsten täglichen Volumen bei [Curve Finance](https://twitter.com/CurveFinance) geführt, da Wonderlands Stablecoin MIM unter extremem Verkaufsdruck stand. [Allein diese Wallet](https://etherscan.io/address/0x087e9c8ef2d97740340a471ff8bb49f5490f6cf6) hat seit Bekanntwerden der Nachricht stetig ~130 Millionen US-Dollar an MIM abgeladen.
+MIM und UST FUD haben zu dem höchsten täglichen Volumen bei [Curve Finance](https://twitter.com/CurveFinance) geführt, da Wonderlands Stablecoin MIM unter extremem Verkaufsdruck stand. [Allein diese Wallet](https://etherscan.io/address/0x087e9c8ef2d97740340a471ff8bb49f5490f6cf6) hat seit Bekanntwerden der Nachricht stetig ~130 Millionen USD an MIM abgeladen.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/sifu-curve.png)
 

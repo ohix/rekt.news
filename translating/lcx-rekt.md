@@ -10,14 +10,14 @@ tags:
   - CeFi
   - LCX
   - REKT
-excerpt: Hier gibt es nichts zu sehen... Ein weiterer CEX rekt, 7,94 Millionen US-Dollar gestohlen. Das Alleinstellungsmerkmal der zentralisierten Finanzierung schrumpft Tag für Tag.
+excerpt: Hier gibt es nichts zu sehen... Ein weiterer CEX rekt, 7,94 Millionen USD gestohlen. Das Alleinstellungsmerkmal der zentralisierten Finanzierung schrumpft Tag für Tag.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/lcx-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/lcx-header.png)
 
 **Hier gibt es nichts zu sehen...**
 
-_7,94 Millionen US-Dollar gestohlen._
+_7,94 Millionen USD gestohlen._
 
 [LCX](https://www.lcx.com/) ist die jüngste CEX, die einen Private-Key-Exploit erlitten hat.
 
@@ -31,7 +31,7 @@ _Das Alleinstellungsmerkmal der zentralisierten Finanzierung wird von Tag zu Tag
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/09/rekt-investigates-linebreak.png)
 
-**Der [offizielle Vorfallbericht](https://www.lcx.com/hot-wallet-incident-report/) besagt, dass insgesamt 7,94 Millionen US-Dollar gestohlen wurden und dass Ein- und Auszahlungen auf der Plattform pausiert wurden.**
+**Der [offizielle Vorfallbericht](https://www.lcx.com/hot-wallet-incident-report/) besagt, dass insgesamt 7,94 Millionen USD gestohlen wurden und dass Ein- und Auszahlungen auf der Plattform pausiert wurden.**
 
 **LCX Hot Wallet:** [0x4631018f63d5e31680fb53c11c9e1b11f1503e6f](https://etherscan.io/address/0x4631018f63d5e31680fb53c11c9e1b11f1503e6f)
 
@@ -57,9 +57,9 @@ _Das Alleinstellungsmerkmal der zentralisierten Finanzierung wird von Tag zu Tag
 
 4.76 MKR _(9,885 USD)_
 
-**$LCX im Wert von ~1 Million US-Dollar verbleiben in der Adresse, zusammen mit 611.000 EURe, die von Monerium eingefroren wurden.**
+**$LCX im Wert von ~1 Million USD verbleiben in der Adresse, zusammen mit 611.000 EURe, die von Monerium eingefroren wurden.**
 
-**Der Rest, insgesamt 1891 ETH (~6 Millionen US-Dollar), wurde an Tornado Cash geschickt.**
+**Der Rest, insgesamt 1891 ETH (~6 Millionen USD), wurde an Tornado Cash geschickt.**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 

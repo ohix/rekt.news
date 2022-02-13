@@ -16,7 +16,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/viso
 
 [Visor](https://www.visor.finance/) erlaubte bestimmten Smart-Contracts, unbegrenzte Belohnungen zu prägen.
 
-Gestern nutzte ein anonymer Täter dieses Geschenk und zog 8,8 Millionen VISR von der Plattform ab; 8,2 Millionen USD zu Vor-Hack-Preisen.
+Gestern nutzte ein anonymer Täter dieses Geschenk und zog 8,8 Millionen VISR von der Plattform ab; 8,2 Millionen US-Dollar zu Vor-Hack-Preisen.
 
 **Der Hacker musste jedoch leiden, als er VISR über den VISR-ETH-Pool von Uniswap ablud.**
 

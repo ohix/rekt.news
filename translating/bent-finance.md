@@ -8,7 +8,7 @@ rekt:
 tags:
   - Bent Finance
   - REKT
-excerpt: Wer hat bei Bent Finance die Regeln verbogen? ~1,75 Millionen US-Dollar gestohlen. Kommissar rekt bringt Ordnung.
+excerpt: Wer hat bei Bent Finance die Regeln verbogen? ~1,75 Millionen USD gestohlen. Kommissar rekt bringt Ordnung.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/bent-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/bent-header.png)
