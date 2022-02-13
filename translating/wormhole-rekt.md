@@ -38,7 +38,7 @@ _Wo hat Wormhole 326 Millionen US-Dollar gefunden?__
 
 **Das Wurmloch, Solanas Brücke, wurde dahingehend manipuliert, dass 120.000 ETH als auf Ethereum hinterlegt gutgeschrieben wurden, was es dem Hacker ermöglichte, das Äquivalent in umhüllter whETH _(Wormhole ETH)_ auf Solana zu prägen.**
 
-**1:** Mit einem _SignatureSet_, das in einer [früheren Transaktion](https://solscan.io/tx/5fKWY7XyW6PTzjviTDvCTpsqgfoGAAqUs1mC6w4DZm25Ppw7fX7aWDmrnkknewyZ81qMSix3c18ZuvjoZUF34tpa) erstellt wurde, war der Angreifer zunächst in der Lage, die „Wächter“ von Wormhole zu umgehen – (eingesetzt, um Übertragungen zwischen Chains zu überprüfen) und „_[verify_signatures](https://solscan.io/tx/25Zu1L2Q9uk998d5GMnX43t9u9eVBKvbVtgHndkc2GmUFed8Pu73LGW6hiDsmGXHykKUTLkvUdh4yXPdL3Jo4wVS)_“ auf der Hauptbrücke aufzurufen.
+**1:** Mit einem _SignatureSet_, das in einer [früheren Transaktion](https://solscan.io/tx/5fKWY7XyW6PTzjviTDvCTpsqgfoGAAqUs1mC6w4DZm25Ppw7fX7aWDmrnkknewyZ81qMSix3c18ZuvjoZUF34tpa) erstellt wurde, war der Angreifer zunächst in der Lage, die „Wächter“ von Wormhole zu umgehen – (eingesetzt, um Übertragungen zwischen Chains zu überprüfen) und „[_verify_signatures_](https://solscan.io/tx/25Zu1L2Q9uk998d5GMnX43t9u9eVBKvbVtgHndkc2GmUFed8Pu73LGW6hiDsmGXHykKUTLkvUdh4yXPdL3Jo4wVS)“ auf der Hauptbrücke aufzurufen.
 
 **2:** Die Funktion „_verify_signatures_“ des Vertrages delegiert dann die eigentliche Prüfung des „_SignatureSet_“ an ein separates Secp256k1-Programm. Aufgrund einer Diskrepanz zwischen „solana_program::sysvar::instructions“ (einer Art Vorkompilierung) und dem von Wormhole verwendeten „solana_program“ verifizierte der Vertrag die angegebene Adresse nicht korrekt, und der Angreifer konnte eine Adresse angeben mit nur 0,1 ETH.
 

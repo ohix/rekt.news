@@ -30,7 +30,7 @@ Bereits im Juni spielte Visor, ein Liquiditätsmanagementprotokoll für [Uni v3]
 
 Dann, letzten Monat, wurde das Projekt Opfer dessen, was das Visor-Team defensiv als „_Wirtschaftsarbitrage_“ [bezeichnete](https://twitter.com/VisorFinance/status/1464574917056385025).
 
-Zählt das „_[verlassen auf Kassapreise für die Ausgabe von Anteilen](https://twitter.com/Mudit__Gupta/status/1464657484367339527)_“ nicht als Smart-Contract-Bug?…
+Zählt das „[_verlassen auf Kassakurs für die Ausgabe von Anteilen_](https://twitter.com/Mudit__Gupta/status/1464657484367339527)“ nicht als Smart-Contract-Bug?...
 
 _Was war es diesmal?_
 

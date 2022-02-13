@@ -33,7 +33,7 @@ Es liegt in der Natur der Sache, dass ein unvermeidlicher Teil der Anschuldigung
 
 Am 09.09.2021 fand eine Abstimmung statt, bei der 11 von 17 Mitglieder eines Sushi-Dev-Chats darüber abstimmten, ob „_Maki gebeten werden soll, eine beratende Rolle für Sushi zu übernehmen und das Kernteam zu verlassen_“.
 
-91% stimmten mit Ja und 9 Tage später gab 0xMaki bekannt, dass er von seiner Rolle bei Sushiswap „_[zurücktritt](https://twitter.com/0xMaki/status/1439037342740729857?s=20)_“ .
+91% stimmten mit Ja und 9 Tage später gab 0xMaki bekannt, dass er von seiner Rolle bei Sushiswap „[_zurücktritt_](https://twitter.com/0xMaki/status/1439037342740729857?s=20)“.
 
 **Warum ist das passiert?**
 

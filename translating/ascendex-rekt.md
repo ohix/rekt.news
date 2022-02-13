@@ -62,7 +62,7 @@ In einem späteren [Update](https://twitter.com/AscendEX_Global/status/147002951
 
 Mal sehen, ob sie ihre Anwender priorisieren oder warten, bis weitere der gestohlenen Münzen an Wert verlieren...
 
-Dies war ein brutaler Verlust für Ascendex – wie ein Anon darauf hinwies; „_[Sie verloren mehr als ihr gesamter Serie b Raise](https://twitter.com/neon___glow/status/1469931106124320773)_“.
+Dies war ein brutaler Verlust für Ascendex – wie ein Anon darauf hinwies; „[_Sie verloren mehr als ihr gesamter Serie b Raise_](https://twitter.com/neon___glow/status/1469931106124320773)“.
 
 **Lassen Sie uns mit ein paar weiteren ausgewählten Tweets von diesem rekt CEX enden.**
 

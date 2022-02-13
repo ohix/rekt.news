@@ -55,7 +55,7 @@ _Wie ist es passiert?_
 
 **~6 Stunden nach dem Angriff hat Superfluid den Fehler mit Hilfe von [Mudit Gupta](https://twitter.com/Mudit__Gupta) geflickt.**
 
-_[Den Patch finden Sie hier.](https://github.com/superfluid-finance/protocol-monorepo/commit/4048fbc66c144e1afd5ae68b21160e1b25d96270)_
+[_Den Patch finden Sie hier_](https://github.com/superfluid-finance/protocol-monorepo/commit/4048fbc66c144e1afd5ae68b21160e1b25d96270).
 
 >Der folgende Text stammt aus [Superfluids eigenem Post-Mortem](https://medium.com/superfluid-blog/08-02-22-exploit-post-mortem-15ff9c97cdd).
 

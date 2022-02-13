@@ -26,7 +26,7 @@ _Und noch immer keine Bestätigung eines Verlustes von Crypto.com._
 
 **Sie lügen dich an.**
 
-_[ErgoBTC untersucht...](https://twitter.com/ErgoBTC/status/1483540849434763264?s=20)_
+[_ErgoBTC untersucht_](https://twitter.com/ErgoBTC/status/1483540849434763264?s=20)...
 
 Wir haben diese ungewöhnlich große Auszahlung aus @cryptocoms Payout Wallet [bc1q7cyrfmck2ffu2ud3rn5l5a8yv6f0chkp0zpemf](https://www.blockchain.com/btc/address/bc1q7cyrfmck2ffu2ud3rn5l5a8yv6f0chkp0zpemf) bemerkt mittels
 [06f7b6adac715ea7f30e2f23f52b3dfeed53...](https://t.co/D9yITrsei4)
