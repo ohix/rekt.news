@@ -8,7 +8,7 @@ rekt:
 tags:
   - Grim Finance
   - REKT
-excerpt: Fürchte den Sensenmann nicht. Grim Finance ist rekt. 30 Millionen USD weg; Position 18 auf der Rangliste.
+excerpt: Fürchte den Sensenmann nicht. Grim Finance ist rekt. 30 Millionen US-Dollar weg; Position 18 auf der Rangliste.
 
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/grim-header.png
 ---
@@ -80,7 +80,7 @@ Möglicherweise hatten diese Nachrichten jedoch nicht die gewünschte Wirkung. E
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/grim-discord.png)
 
-**Wenn man diesen Botschaften Glauben schenken darf, wird zumindest ein Teil der gestohlenen 30 Millionen USD für wohltätige Zwecke verwendet.**
+**Wenn man diesen Botschaften Glauben schenken darf, wird zumindest ein Teil der gestohlenen 30 Millionen US-Dollar für wohltätige Zwecke verwendet.**
 
 _Aber es wird ein düsteres Weihnachtsfest für die unwilligen Spender._
 

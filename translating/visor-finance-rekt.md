@@ -8,7 +8,7 @@ rekt:
 tags:
   - Visor Finance
   - REKT
-excerpt: Es ist die Zeit des Gebens und Visor Finance geht aufs Ganze. Visor ermöglichte es einem anonymen Täter, 8,2 Millionen USD in VISR zu prägen.
+excerpt: Es ist die Zeit des Gebens und Visor Finance geht aufs Ganze. Visor ermöglichte es einem anonymen Täter, 8,2 Millionen US-Dollar in VISR zu prägen.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/visor-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/visor-header.png)
@@ -26,7 +26,7 @@ Gestern nutzte ein anonymer Täter dieses Geschenk und zog 8,8 Millionen VISR vo
 
 >rekt.
 
-Bereits im Juni spielte Visor, ein Liquiditätsmanagementprotokoll für [Uni v3](https://rekt.news/uniswap-v3-lp-rekt/), den Verlust von 500.000 USD (damals 3 Millionen USD TVL) bei einem [Sicherheitsbruch](https://visorfinance.medium.com/visor-beta-incident-report-1b2521b9266) herunter.
+Bereits im Juni spielte Visor, ein Liquiditätsmanagementprotokoll für [Uni v3](https://rekt.news/uniswap-v3-lp-rekt/), den Verlust von 500.000 US-Dollar (damals 3 Millionen US-Dollar TVL) bei einem [Sicherheitsbruch](https://visorfinance.medium.com/visor-beta-incident-report-1b2521b9266) herunter.
 
 Dann, letzten Monat, wurde das Projekt Opfer dessen, was das Visor-Team defensiv als „_Wirtschaftsarbitrage_“ [bezeichnete](https://twitter.com/VisorFinance/status/1464574917056385025).
 
@@ -50,7 +50,7 @@ _Quelle: [@storming0x](https://twitter.com/storming0x/status/1473321779250802693
 
 **Der Angreifer [übertrug die Eigentümerschaft](https://etherscan.io/tx/0x27f2210536553392cf180c0b37055b3dc92094a5d585d7d2a51f790c9145e47c) des Contracts an seine eigene Adresse, bevor er die Exploit-Transaktion ausführte und 195.000 vVISR-Tokens [prägte](https://etherscan.io/tx/0x69272d8c84d67d1da2f6425b339192fa472898dce936f24818fda415c1c1ff3f).**
 
-Diese wurden dann für 8,8 Millionen VISR [verbrannt](https://etherscan.io/tx/0x6eabef1bf310a1361041d97897c192581cd9870f6a39040cd24d7de2335b4546), bevor sie über Uniswap v2 gegen ETH getauscht und über Tornado Cash in [dieser](https://etherscan.io/tx/0x0e16210218ecc487a35b9ff48fe3d9f3e9b0f50330f9e7805e38135732b85270) und 6 nachfolgenden Transaktionen mit insgesamt 113 ETH (450.000 USD) gewaschen wurden.
+Diese wurden dann für 8,8 Millionen VISR [verbrannt](https://etherscan.io/tx/0x6eabef1bf310a1361041d97897c192581cd9870f6a39040cd24d7de2335b4546), bevor sie über Uniswap v2 gegen ETH getauscht und über Tornado Cash in [dieser](https://etherscan.io/tx/0x0e16210218ecc487a35b9ff48fe3d9f3e9b0f50330f9e7805e38135732b85270) und 6 nachfolgenden Transaktionen mit insgesamt 113 ETH (450.000 US-Dollar) gewaschen wurden.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 

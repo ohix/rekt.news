@@ -8,7 +8,7 @@ rekt:
 tags:
   - 8ight Finance
   - REKT
-excerpt: Obwohl dies unsere erste Geschichte ist, die sich auf der Harmony Chain abspielt, gibt es nichts Neues am Protokoll. Ein weiterer Olympus Fork, ein weiterer Satz „kompromittierter Schlüssel“. 1,75 Millionen USD weg.
+excerpt: Obwohl dies unsere erste Geschichte ist, die sich auf der Harmony Chain abspielt, gibt es nichts Neues am Protokoll. Ein weiterer Olympus Fork, ein weiterer Satz „kompromittierter Schlüssel“. 1,75 Millionen US-Dollar weg.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/8ight-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/8ight-header.png)
@@ -71,7 +71,7 @@ _Würden Sie?_
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/8ight-8ball.png)
 
-**1,75 Millionen USD sind weg, und der vielleicht interessanteste Teil der Geschichte ist, dass die Entwickler immer noch Facebook benutzten.**
+**1,75 Millionen US-Dollar sind weg, und der vielleicht interessanteste Teil der Geschichte ist, dass die Entwickler immer noch Facebook benutzten.**
 
 _Wann werden wir aufhören, eine eklatante Missachtung der Cybersicherheit als „gehackt werden“ zu bezeichnen?_
 

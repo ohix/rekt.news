@@ -9,13 +9,13 @@ tags:
   - Meter
   - Hundred
   - REKT
-excerpt: Brücken bauen ist ein gefährliches Geschäft. Bei einem weiteren Angriff werden Meter.io auf BSC 4,4 Millionen USD abgenommen, wodurch Hundred Finance 3,3 Millionen USD an Kollateralschäden verliert.
+excerpt: Brücken bauen ist ein gefährliches Geschäft. Bei einem weiteren Angriff werden Meter.io auf BSC 4,4 Millionen US-Dollar abgenommen, wodurch Hundred Finance 3,3 Millionen US-Dollar an Kollateralschäden verliert.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-header.png)
 **Brücken bauen ist ein gefährliches Geschäft.**
 
-Bei einem weiteren Angriff werden [Meter.io](https://meter.io/) auf BSC 4,4 Millionen USD abgenommen, wodurch [Hundred Finance](https://hundred.finance/) 3,3 Millionen USD an Kollateralschäden verliert.
+Bei einem weiteren Angriff werden [Meter.io](https://meter.io/) auf BSC 4,4 Millionen US-Dollar abgenommen, wodurch [Hundred Finance](https://hundred.finance/) 3,3 Millionen US-Dollar an Kollateralschäden verliert.
 
 Dies ist der siebte Brücken-Angriff auf unserer [Rangliste](https://rekt.news/leaderboard/), der einen steigenden Trend in der Cross-Chain-Kriminalität zeigt.
 
@@ -51,7 +51,7 @@ Meter_io Passport ist ein ChainBridge Fork von [ChainSafe](https://twitter.com/C
 
 **Dieser Angriff verursachte Kollateralschäden.**
 
-**Hundred Finance verlor 3,3 Millionen USD aufgrund ihrer Abhängigkeit von der Meter Brücke.**
+**Hundred Finance verlor 3,3 Millionen US-Dollar aufgrund ihrer Abhängigkeit von der Meter Brücke.**
 
 Hundred Finance gab den Verlust in [einem Tweet](https://twitter.com/HundredFinance/status/1490394875459682309) bekannt.
 
@@ -77,7 +77,7 @@ Wird Hundred Finance nach diesem Vorfall irgendwelche Änderungen vornehmen? Sie
 
 >Interessant ist, dass es bei Hundred insgesamt 4 opportunistische Darlehen gab, von denen die ersten beiden zurückgezahlt wurden, so dass es für die anderen beiden noch einen Funken Hoffnung gibt.
 
->Der derzeitige Verlust für Hundred Nutzer beträgt 3,3 Millionen USD.
+>Der derzeitige Verlust für Hundred Nutzer beträgt 3,3 Millionen US-Dollar.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 

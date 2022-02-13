@@ -8,12 +8,12 @@ rekt:
 tags:
   - Superfluid
   - REKT
-excerpt: 8,7 Millionen USD wurden von Superfluid abgezogen. Das Krypto-Streaming-Protokoll wurde von einem anonymen Angreifer ausgenutzt, wodurch mehrere andere DAOs Kollateralschäden erlitten.
+excerpt: 8,7 Millionen US-Dollar wurden von Superfluid abgezogen. Das Krypto-Streaming-Protokoll wurde von einem anonymen Angreifer ausgenutzt, wodurch mehrere andere DAOs Kollateralschäden erlitten.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/superfluid-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/superfluid-header.png)
 
-**8,7 Millionen USD wurden von Superfluid abgezogen.**
+**8,7 Millionen US-Dollar wurden von Superfluid abgezogen.**
 
 _Das Krypto-Streaming-Protokoll wurde am 08.02.22 um 06:17 UTC gehackt._
 
@@ -35,23 +35,23 @@ _Wie ist es passiert?_
 
 **Entnommenes Vermögen:**
 
-19.4 Millionen QI (Wert vor dem Hack: 24 Mio. USD) [wurden](https://polygonscan.com/tx/0xc37151aaefa7e937c97156ca43e3d486299aa89a603d22355592ddd00bfe687a) [in](https://polygonscan.com/tx/0x741908f9707d9dd3a52525380d69f9e74a26d52350308227b84c3ad2db45449f) [vier](https://polygonscan.com/tx/0x026032084b3f7c658b7c3467d8567922e3ad93c755669ab0d92f01f040a18dea) [Transaktionen](https://polygonscan.com/tx/0x8dd5e00a54742f182eee7277a3326efd434f893fd94f5473f9ca1f0fd0358577) für insgesamt 2.300 WETH (~6,2 Mio. USD) verkauft.
+19.4 Millionen QI (Wert vor dem Hack: 24 Millionen US-Dollar) [wurden](https://polygonscan.com/tx/0xc37151aaefa7e937c97156ca43e3d486299aa89a603d22355592ddd00bfe687a) [in](https://polygonscan.com/tx/0x741908f9707d9dd3a52525380d69f9e74a26d52350308227b84c3ad2db45449f) [vier](https://polygonscan.com/tx/0x026032084b3f7c658b7c3467d8567922e3ad93c755669ab0d92f01f040a18dea) [Transaktionen](https://polygonscan.com/tx/0x8dd5e00a54742f182eee7277a3326efd434f893fd94f5473f9ca1f0fd0358577) für insgesamt 2.300 WETH (~6,2 Millionen US-Dollar) verkauft.
 
-24,4 WETH – (~76.000 USD)
+24,4 WETH – (~76.000 US-Dollar)
 
 563.000 USDC [wurden für 173 WETH](https://polygonscan.com/tx/0x9fdbcaefcd2bae1d873720ae8dfb741986818bfc1b5cf8af0a891b99b7bd14b1) verkauft.
 
-45.000 SDT – [verkauft für ~17 WETH](https://polygonscan.com/tx/0xd12c38ce2346bbc29a845dd9099a8d3626ad12e74579be46485e31653a3888bc) – (~54.000 USD)
+45.000 SDT – [verkauft für ~17 WETH](https://polygonscan.com/tx/0xd12c38ce2346bbc29a845dd9099a8d3626ad12e74579be46485e31653a3888bc) – (~54.000 US-Dollar)
 
-24.000 STACK – [verkauft für ~6,2 WETH](https://polygonscan.com/tx/0x32df8bbeba3a8fcdba51c2a7daa316078cd65345a74b765b8fa2ce6787c91f28) – (~19.000 USD)
+24.000 STACK – [verkauft für ~6,2 WETH](https://polygonscan.com/tx/0x32df8bbeba3a8fcdba51c2a7daa316078cd65345a74b765b8fa2ce6787c91f28) – (~19.000 US-Dollar)
 
 39.000 sdam3CRV - getauscht zu [am3CRV](https://polygonscan.com/tx/0x0553be6c6f969c4f91850532f68f4e8bae5824392140edb13c3bfd6f6cb8d35e), dann zu ~44.000 [amDAI](https://polygonscan.com/tx/0x7a9b9ad4634fea8681e34c150ef561bf0ced199a3347888dfc448e4164583f7d)
 
-1,5 Mio. MOCA – [1 Mio. von 1,5 Mio. verkauft](https://polygonscan.com/tx/0x554f5688fb8d31bcd9affc90d16f0326a8d09b0469dbb581580c7187201ef6ba) für 173 WETH (~500.000 USD)
+1,5 Mio. MOCA – [1 Mio. von 1,5 Mio. verkauft](https://polygonscan.com/tx/0x554f5688fb8d31bcd9affc90d16f0326a8d09b0469dbb581580c7187201ef6ba) für 173 WETH (~500.000 US-Dollar)
 
 11k MATIC - Noch nicht verkauft
 
->Insgesamt - ~8,7 Millionen USD
+>Insgesamt - ~8,7 Millionen US-Dollar
 
 **~6 Stunden nach dem Angriff hat Superfluid den Fehler mit Hilfe von [Mudit Gupta](https://twitter.com/Mudit__Gupta) geflickt.**
 

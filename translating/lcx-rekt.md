@@ -10,14 +10,14 @@ tags:
   - CeFi
   - LCX
   - REKT
-excerpt: Hier gibt es nichts zu sehen... Ein weiterer CEX rekt, 7,94 Millionen USD gestohlen. Das Alleinstellungsmerkmal der zentralisierten Finanzierung schrumpft Tag für Tag.
+excerpt: Hier gibt es nichts zu sehen... Ein weiterer CEX rekt, 7,94 Millionen US-Dollar gestohlen. Das Alleinstellungsmerkmal der zentralisierten Finanzierung schrumpft Tag für Tag.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/lcx-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/lcx-header.png)
 
 **Hier gibt es nichts zu sehen...**
 
-_7,94 Millionen USD gestohlen._
+_7,94 Millionen US-Dollar gestohlen._
 
 [LCX](https://www.lcx.com/) ist die jüngste CEX, die einen Private-Key-Exploit erlitten hat.
 
@@ -31,7 +31,7 @@ _Das Alleinstellungsmerkmal der zentralisierten Finanzierung wird von Tag zu Tag
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/09/rekt-investigates-linebreak.png)
 
-**Der [offizielle Vorfallbericht](https://www.lcx.com/hot-wallet-incident-report/) besagt, dass insgesamt 7,94 Millionen USD gestohlen wurden und dass Ein- und Auszahlungen auf der Plattform pausiert wurden.**
+**Der [offizielle Vorfallbericht](https://www.lcx.com/hot-wallet-incident-report/) besagt, dass insgesamt 7,94 Millionen US-Dollar gestohlen wurden und dass Ein- und Auszahlungen auf der Plattform pausiert wurden.**
 
 **LCX Hot Wallet:** [0x4631018f63d5e31680fb53c11c9e1b11f1503e6f](https://etherscan.io/address/0x4631018f63d5e31680fb53c11c9e1b11f1503e6f)
 
@@ -39,27 +39,27 @@ _Das Alleinstellungsmerkmal der zentralisierten Finanzierung wird von Tag zu Tag
 
 **Gestohlene Gelder:**
 
-162.68 ETH _(502,671 USD)_
+162.68 ETH _(502,671 US-Dollar)_
 
-3,437,783.23 USDC _(3,437,783 USD)_
+3,437,783.23 USDC _(3,437,783 US-Dollar)_
 
-761,236.94 EURe _(864,840 USD)_
+761,236.94 EURe _(864,840 US-Dollar)_
 
-101,249.71 SAND Token _(485,995 USD)_
+101,249.71 SAND Token _(485,995 US-Dollar)_
 
-1,847.65 LINK _(48,557 USD)_
+1,847.65 LINK _(48,557 US-Dollar)_
 
-17,251,192.30 LCX Token _(2,466,558 USD)_
+17,251,192.30 LCX Token _(2,466,558 US-Dollar)_
 
-669.00 QNT _(115,609 USD)_
+669.00 QNT _(115,609 US-Dollar)_
 
-4,819.74 ENJ _(10,890 USD)_
+4,819.74 ENJ _(10,890 US-Dollar)_
 
-4.76 MKR _(9,885 USD)_
+4.76 MKR _(9,885 US-Dollar)_
 
-**$LCX im Wert von ~1 Million USD verbleiben in der Adresse, zusammen mit 611.000 EURe, die von Monerium eingefroren wurden.**
+**$LCX im Wert von ~1 Million US-Dollar verbleiben in der Adresse, zusammen mit 611.000 EURe, die von Monerium eingefroren wurden.**
 
-**Der Rest, insgesamt 1891 ETH (~6 Millionen USD), wurde an Tornado Cash geschickt.**
+**Der Rest, insgesamt 1891 ETH (~6 Millionen US-Dollar), wurde an Tornado Cash geschickt.**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 

@@ -40,13 +40,13 @@ Adresse des Hackers auf:
 
 **[Polygon](https://polygonscan.com/address/0x48ad05a3B73c9E7fAC5918857687d6A11d2c73B1)**
 
-Seitdem wurden Gelder an weitere Wallets weitergeleitet, zum Beispiel [diese](https://etherscan.io/address/0xe3cd90be37a79d9da86b5e14e2f6042cd0e53b66) mit ~40 Millionen USD in PYR und ~600.000 USD in ETH.
+Seitdem wurden Gelder an weitere Wallets weitergeleitet, zum Beispiel [diese](https://etherscan.io/address/0xe3cd90be37a79d9da86b5e14e2f6042cd0e53b66) mit ~40 Millionen US-Dollar in PYR und ~600.000 US-Dollar in ETH.
 
 Das Team [behauptet](https://twitter.com/VulcanForged/status/1470209893114294282), eine Adresse identifiziert zu haben, die mit einem KYC-Exchange verbunden sein könnte.
 
-Insgesamt wurden über 4,5 Millionen PYR erbeutet, die zum Zeitpunkt des Angriffs einen Wert von ca. 140 Millionen USD hatten.
+Insgesamt wurden über 4,5 Millionen PYR erbeutet, die zum Zeitpunkt des Angriffs einen Wert von ca. 140 Millionen US-Dollar hatten.
 
-Nachfolgende Verkäufe der gestohlenen PYR hatten einen großen Einfluss auf den Token-Preis, der zunächst um etwa 30% von etwa 31 USD auf einen Tiefststand von 21,47 USD fiel.
+Nachfolgende Verkäufe der gestohlenen PYR hatten einen großen Einfluss auf den Token-Preis, der zunächst um etwa 30% von etwa 31 US-Dollar auf einen Tiefststand von 21,47 US-Dollar fiel.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 

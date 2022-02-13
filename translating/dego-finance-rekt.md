@@ -9,7 +9,7 @@ tags:
   - Dego Finance
   - Cocos-BSX
   - REKT
-excerpt: 10 Millionen USD gestohlen von Dego Finance und ihrem Partner Cocos-BCX. Dego hat behauptet, dies sei ein Fall von kompromittierten Schlüsseln, und wir fragen uns, warum sie keine Multi-Sig verwendet haben?
+excerpt: 10 Millionen US-Dollar gestohlen von Dego Finance und ihrem Partner Cocos-BCX. Dego hat behauptet, dies sei ein Fall von kompromittierten Schlüsseln, und wir fragen uns, warum sie keine Multi-Sig verwendet haben?
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/dego-header.png
 ---
 
@@ -17,7 +17,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/dego
 
 **Auf Wiedersehen Dego Finance.**
 
-~10 Millionen USD, die von Dego und ihrem [strategischen Partner](https://cocosbcx.medium.com/cocos-bcx-builds-a-strategic-alliance-with-dego-finance-in-metaverse-gamefi-and-more-23cc838fbde0) Cocos-BCX über [drei Chains](https://twitter.com/WuBlockchain/status/1491729892920393729?s=20&t=y9_nC1Vvyfi87n84jrOeQA) hinweg entnommen wurden.
+~10 Millionen US-Dollar, die von Dego und ihrem [strategischen Partner](https://cocosbcx.medium.com/cocos-bcx-builds-a-strategic-alliance-with-dego-finance-in-metaverse-gamefi-and-more-23cc838fbde0) Cocos-BCX über [drei Chains](https://twitter.com/WuBlockchain/status/1491729892920393729?s=20&t=y9_nC1Vvyfi87n84jrOeQA) hinweg entnommen wurden.
 
 Dego hat behauptet, dies sei ein Fall von kompromittierten Schlüsseln, was uns fragen lässt:
 

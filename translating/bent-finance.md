@@ -8,7 +8,7 @@ rekt:
 tags:
   - Bent Finance
   - REKT
-excerpt: Wer hat bei Bent Finance die Regeln verbogen? ~1,75 Millionen USD gestohlen. Kommissar rekt bringt Ordnung.
+excerpt: Wer hat bei Bent Finance die Regeln verbogen? ~1,75 Millionen US-Dollar gestohlen. Kommissar rekt bringt Ordnung.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/bent-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/bent-header.png)
@@ -46,7 +46,7 @@ Wenn wir uns die Token [Transaktionen](https://etherscan.io/tokentxns?a=0xd23cff
 
 Die Tokens wurden dann an die [sekundäre Adresse](https://etherscan.io/address/0x9e966a54082427d7ac56aeaee4baae7d11a6e468) des Exploiters gesendet, wo sie gegen CRV ausgezahlt, gegen ETH getauscht und an Tornado Cash gesendet wurden.
 
-**Insgesamt wurden zwischen dem 12.12. und heute 440 ETH (~1,75 Millionen USD) über Tornado Cash gewaschen.**
+**Insgesamt wurden zwischen dem 12.12. und heute 440 ETH (~1,75 Millionen US-Dollar) über Tornado Cash gewaschen.**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/bent-linebreak.png)
 

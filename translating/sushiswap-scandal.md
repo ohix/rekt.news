@@ -49,7 +49,7 @@ Da 0xMaki der einzige bei Sushiswap mit einem 3-Jahres-Vertrag ist (andere Mitgl
 
 **Nachdem 0xMaki aus dem Amt gedrängt wurde, wurde das Verhalten von JOKR noch fragwürdiger.**
 
-9.000 USD Abendessen in NYC während der NFTNYC für „Sushi-Partner“, die dem DAO nie gemeldet wurden, 5.000 USD Tickets für VC-Mixer-Events für Joseph, Rachel und Keno, bei denen keine Spenden gesammelt wurden...
+9.000 US-Dollar Abendessen in NYC während der NFTNYC für „Sushi-Partner“, die dem DAO nie gemeldet wurden, 5.000 US-Dollar Tickets für VC-Mixer-Events für Joseph, Rachel und Keno, bei denen keine Spenden gesammelt wurden...
 
 _Dezentrale Finanzen, der große Ausgleicher._
 
@@ -71,7 +71,7 @@ Eine ungleiche Verteilung der Mittel, die _dennoch_ auf das Kernteam aufgeteilt 
 
 Als er von anderen Teammitgliedern dazu befragt wurde, sagte Omakase, dass die ungleiche Verteilung 0xMakis Idee gewesen sei, obwohl es in Wirklichkeit Rachel war, die 0xMaki als Sündenbock benutzte, und 0xMaki eigentlich gefordert hatte, dass der gesamte Bonus direkt an die xSushi-Inhaber gehen sollte.
 
-Ein normaler Bonus ist zum Zeitpunkt des Schreibens etwa 200.000 USD wert. Der größere Bonus ist rund 700.000 USD wert.
+Ein normaler Bonus ist zum Zeitpunkt des Schreibens etwa 200.000 US-Dollar wert. Der größere Bonus ist rund 700.000 US-Dollar wert.
 
 Als 0xMaki seinen Bonus zurückgab, stieg die Spannung unter den anderen Teammitgliedern.
 
@@ -115,7 +115,7 @@ Er [erhielt Tokens](https://etherscan.io/tx/0xb70240b0bb960f03e32c4871d021f5d734
 
 _Die Verwendung und Verwaltung des Geldes des Teams ohne dessen Zustimmung ist offensichtlich inakzeptabel, insbesondere wenn man erfahrt, wie das Kernmitglied seine persönlichen Finanzen verwaltet..._
 
-Nach dem [letzten Cream-Exploit](https://rekt.news/cream-rekt-2/) teilte das Kernmitglied anderen Teammitgliedern mit, dass er 111591 SUSHI (damals im Wert von ~ 1,2 Millionen USD) verloren habe.
+Nach dem [letzten Cream-Exploit](https://rekt.news/cream-rekt-2/) teilte das Kernmitglied anderen Teammitgliedern mit, dass er 111591 SUSHI (damals im Wert von ~1,2 Millionen US-Dollar) verloren habe.
 
 Dann versuchte er, eine Transaktion anzutreiben, um [sich selbst](https://etherscan.io/address/0x2cd28139abdc9e91f8fe7c1b4a49fc41555a5607) aus dem Multisig der operativen Sushiswap Wallet zurückzuerstatten. Diese Transaktion wurde abgelehnt.
 
