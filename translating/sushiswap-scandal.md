@@ -17,7 +17,7 @@ Nachdem Chef Nomi gegangen war, wurde 0xMaki angerechnet, dass er geholfen hatte
 
 **Ein kürzlich entlassenes Sushiswap-Teammitglied ging mit der Behauptung [an die Öffentlichkeit](https://twitter.com/AGdyor/status/1463756236264988672), dass „_Sushi aufgrund interner Konflikte versagt_“.**
 
-Andere Teammitglieder (_die sich als andere Informanten bestätigt haben_) kontaktierten uns dann, um weitere Informationen bereitzustellen. Sie lieferten Beweise, die Anschuldigungen bestätigten, die wir bereits anderswo gesehen hatten.
+Andere Teammitglieder _(die sich als andere Informanten bestätigt haben)_ kontaktierten uns dann, um weitere Informationen bereitzustellen. Sie lieferten Beweise, die Anschuldigungen bestätigten, die wir bereits anderswo gesehen hatten.
 
 In den letzten Tagen traten die Turbulenzen innerhalb von Sushiswap allmählich an die Öffentlichkeit, aber vieles blieb ungesagt.
 
