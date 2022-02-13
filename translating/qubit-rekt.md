@@ -42,13 +42,13 @@ Aus dem [Post-Mortem](https://medium.com/@QubitFin/protocol-exploit-report-305c3
 
 **5.** Außerdem war tokenAddress die WETH-Adresse, bevor depositETH hinzugefügt wurde, aber wenn depositETH hinzugefügt wird, wird sie durch die Nulladresse ersetzt, die die tokenAddress von ETH ist.
 
-**6.** Zusammenfassend war die Deposit-Funktion eine Funktion, die nach der Neuentwicklung von depositETH nicht genutzt werden sollte, aber im Vertrag verblieb.
+**6.** Zusammenfassend war die Deposit-Funktion eine Funktion, die nach der Neuentwicklung von depositETH nicht genutzt werden sollte, aber im Contract verblieb.
 
 Nach Certiks [Analyse](https://certik.medium.com/qubit-bridge-collapse-exploited-to-the-tune-of-80-million-a7ab9068e1a0):
 
 >_Eine der Hauptursachen für die Schwachstelle war die Tatsache, dass tokenAddress.safeTransferFrom() nicht zurückgesetzt wird, wenn die tokenAddress die Nulladresse (null) (0x0...000) ist._
 
-Obwohl keine ETH im Ethereum-Vertrag eingeschlossen waren, hatte die BSC-Adresse des Angreifers nun Zugriff auf [77.162 qXETH](https://bscscan.com/tx/0x50946e3e4ccb7d39f3512b7ecb75df66e6868b9af0eee8a7e4b61ef8a459518e) (185 Millionen USD), die als Sicherheit für Kredite auf Qubit verwendet werden konnten.
+Obwohl keine ETH im Ethereum-Contract eingeschlossen waren, hatte die BSC-Adresse des Angreifers nun Zugriff auf [77.162 qXETH](https://bscscan.com/tx/0x50946e3e4ccb7d39f3512b7ecb75df66e6868b9af0eee8a7e4b61ef8a459518e) (185 Millionen USD), die als Sicherheit für Kredite auf Qubit verwendet werden konnten.
 
 Sie nutzten diese Sicherheiten, um WETH, BTC-B, USD-Stablecoins, CAKE, BUNNY und MDX zu leihen, bevor sie alles gegen insgesamt 200.000 BNB (~80 Millionen USD) tauschten, die nach wie vor in der [BSC-Adresse](https://bscscan.com/address/0xd01ae1a708614948b2b5e0b7ab5be6afa01325c7) verbleiben.
 

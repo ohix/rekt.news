@@ -119,7 +119,7 @@ Um dies zu lösen, fügte Superfluid dem Vereinbarungsvertrag einen Verifizierun
 
 _ISuperfluid.isCtxValid._ Dieser verifiziert den decodierten ctx durch Vergleich seines im Hostvertrag gespeicherten Stempels (Hash).
 
-Diese Überprüfung war bereits für die Verarbeitung von ctx-Daten vorhanden, die von SuperApp-Callbacks bereitgestellt wurden, war jedoch nicht vorhanden für Daten, die vom vertrauenswürdigen Host-Vertrag übergeben wurden.
+Diese Überprüfung war bereits für die Verarbeitung von ctx-Daten vorhanden, die von SuperApp-Callbacks bereitgestellt wurden, war jedoch nicht vorhanden für Daten, die vom vertrauenswürdigen Host-Contract übergeben wurden.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
