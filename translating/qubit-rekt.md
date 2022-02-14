@@ -28,7 +28,7 @@ Qubit ermöglicht eine [chainübergreifende Besicherung](https://docs.qbt.fi/pro
 
 Der Angreifer nutzte einen Logikfehler im Code aus, der xETH für die Verwendung auf BSC verfügbar machte, ohne ETH auf Ethereum hinterlegt zu haben.
 
-Die Ethereum [Adresse](https://etherscan.io/address/0xd01ae1a708614948b2b5e0b7ab5be6afa01325c7) des Angreifers wurde kurz vor Beginn des Exploits am 27.01.2022 um ca. 21:30 Uhr +UTC aus Tornado Cash [finanziert](https://etherscan.io/tx/0x8d2e9fd13c3e3f59eac17ff55bb0a0b10eee965a2e768e60832b1b3d5b80ebfb).
+Die Ethereum [Adresse](https://etherscan.io/address/0xd01ae1a708614948b2b5e0b7ab5be6afa01325c7) des Angreifers wurde kurz vor Beginn des Exploits am 27.01.2022 um ca. 21:30 UTC aus Tornado Cash [finanziert](https://etherscan.io/tx/0x8d2e9fd13c3e3f59eac17ff55bb0a0b10eee965a2e768e60832b1b3d5b80ebfb).
 
 Aus dem [Post-Mortem](https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3) des Qubit-Teams:
 
@@ -46,7 +46,7 @@ Aus dem [Post-Mortem](https://medium.com/@QubitFin/protocol-exploit-report-305c3
 
 Nach Certiks [Analyse](https://certik.medium.com/qubit-bridge-collapse-exploited-to-the-tune-of-80-million-a7ab9068e1a0):
 
->_Eine der Hauptursachen für die Schwachstelle war die Tatsache, dass tokenAddress.safeTransferFrom() nicht zurückgesetzt wird, wenn die tokenAddress die Nulladresse (null) (0x0...000) ist._
+>_Eine der Hauptursachen für die Schwachstelle war die Tatsache, dass tokenAddress.safeTransferFrom() nicht zurückgesetzt wird, wenn die tokenAddress die Nulladresse (0x0...000) ist._
 
 Obwohl keine ETH im Ethereum-Contract eingeschlossen waren, hatte die BSC-Adresse des Angreifers nun Zugriff auf [77.162 qXETH](https://bscscan.com/tx/0x50946e3e4ccb7d39f3512b7ecb75df66e6868b9af0eee8a7e4b61ef8a459518e) (185 Millionen US-Dollar), die als Sicherheit für Kredite auf Qubit verwendet werden konnten.
 
@@ -56,7 +56,7 @@ Sie nutzten diese Sicherheiten, um WETH, BTC-B, US-Dollar-Stablecoins, CAKE, BUN
 
 **Laut den Qubit-Unterlagen wurde die Cross-Chain-Kollateral-Funktion im Dezember 2021 geprüft.**
 
-Die gesamte X-Kollateral-Funktion (einschließlich Verträge und Skripte) wurde von Theori, einer professionellen Auditierungsfirma, geprüft. Das Prüfungsergebnis ist hier [veröffentlicht](https://github.com/PancakeBunny-finance/qubit-finance/blob/master/audits/mound_qubit_xChain_audit_rev1.1.pdf).
+Die gesamte X-Kollateral-Funktion (einschließlich Contracts und Skripte) wurde von Theori, einer professionellen Auditierungsfirma, geprüft. Das Prüfungsergebnis ist hier [veröffentlicht](https://github.com/PancakeBunny-finance/qubit-finance/blob/master/audits/mound_qubit_xChain_audit_rev1.1.pdf).
 
 Das Projekt hat eine maximale Prämie von 250.000 US-Dollar für [Immunefi](https://immunefi.com/bounty/qubit/), aber das Qubit-Team scheint zu Verhandlungen [bereit](https://twitter.com/QubitFin/status/1486984216072318977) zu sein.
 
