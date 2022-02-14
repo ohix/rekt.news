@@ -18,7 +18,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/worm
 
 _Ein Hacker verzerrte das Gefüge von Solanas Raumzeit und erzielte dabei einen Nettogewinn von 326 Millionen US-Dollar._
 
-Beim zweiten Brücken-Exploit in [weniger als einer Woche](https://rekt.news/qubit-rekt/) landet Solana's Wormhole direkt auf Platz 2 unserer [Rangliste](https://rekt.news/leaderboard/).
+Beim zweiten _Bridge_-Exploit in [weniger als einer Woche](https://rekt.news/qubit-rekt/) landet Solana's Wormhole direkt auf Platz 2 unserer [Rangliste](https://rekt.news/leaderboard/).
 
 Minuten nachdem [samczsun](https://twitter.com/samczsun/status/1488974372756987906) auf ein Problem hingewiesen hatte, [erklärte](https://twitter.com/wormholecrypto/status/1488976115750383626) das Wormhole-Team, dass das Netzwerk einfach „_wegen Wartungsarbeiten heruntergefahren_“ sei, während es einen „_potenziellen Exploit_“ untersuchte.
 
@@ -36,17 +36,17 @@ _Wo hat Wormhole 326 Millionen US-Dollar gefunden?__
 
 **Adresse des Angreifers:** [0x629e7da20197a5429d30da36e77d06cdf796b71a](https://etherscan.io/address/0x629e7da20197a5429d30da36e77d06cdf796b71a)
 
-**Das Wurmloch, Solanas Brücke, wurde dahingehend manipuliert, dass 120.000 ETH als auf Ethereum hinterlegt gutgeschrieben wurden, was es dem Hacker ermöglichte, das Äquivalent in umhüllter whETH _(Wormhole ETH)_ auf Solana zu prägen.**
+**Das Wurmloch, Solanas _Bridge_, wurde dahingehend manipuliert, dass 120.000 ETH als auf Ethereum hinterlegt gutgeschrieben wurden, was es dem Hacker ermöglichte, das Äquivalent in wrapped whETH _(Wormhole ETH)_ auf Solana zu prägen.**
 
-**1:** Mit einem _SignatureSet_, das in einer [früheren Transaktion](https://solscan.io/tx/5fKWY7XyW6PTzjviTDvCTpsqgfoGAAqUs1mC6w4DZm25Ppw7fX7aWDmrnkknewyZ81qMSix3c18ZuvjoZUF34tpa) erstellt wurde, war der Angreifer zunächst in der Lage, die „Wächter“ von Wormhole zu umgehen – (eingesetzt, um Übertragungen zwischen Chains zu überprüfen) und „[_verify_signatures_](https://solscan.io/tx/25Zu1L2Q9uk998d5GMnX43t9u9eVBKvbVtgHndkc2GmUFed8Pu73LGW6hiDsmGXHykKUTLkvUdh4yXPdL3Jo4wVS)“ auf der Hauptbrücke aufzurufen.
+**1:** Mit einem _SignatureSet_, das in einer [früheren Transaktion](https://solscan.io/tx/5fKWY7XyW6PTzjviTDvCTpsqgfoGAAqUs1mC6w4DZm25Ppw7fX7aWDmrnkknewyZ81qMSix3c18ZuvjoZUF34tpa) erstellt wurde, war der Angreifer zunächst in der Lage, die „Wächter“ von Wormhole zu umgehen – (eingesetzt, um Übertragungen zwischen Chains zu überprüfen) und „[_verify_signatures_](https://solscan.io/tx/25Zu1L2Q9uk998d5GMnX43t9u9eVBKvbVtgHndkc2GmUFed8Pu73LGW6hiDsmGXHykKUTLkvUdh4yXPdL3Jo4wVS)“ auf der Haupt-_Bridge_ aufzurufen.
 
 **2:** Die Funktion „_verify_signatures_“ des Contracts delegiert dann die eigentliche Prüfung des „_SignatureSet_“ an ein separates Secp256k1-Programm. Aufgrund einer Diskrepanz zwischen „solana_program::sysvar::instructions“ (einer Art Vorkompilierung) und dem von Wormhole verwendeten „solana_program“ verifizierte der Contract die angegebene Adresse nicht korrekt, und der Angreifer konnte eine Adresse angeben mit nur 0,1 ETH.
 
 **3:** Unter Verwendung eines Stunden zuvor erstellten Kontos mit einer einzigen serialisierten Anweisung, die dem Sep256k1-Contract entsprach, war [der Angreifer](https://etherscan.io/address/0x629e7da20197a5429d30da36e77d06cdf796b71a#internaltx) in der Lage, das „_SignatureSet_“ zu fälschen, „_complete_wrapped_“ aufzurufen und 120.000 whETH auf Solana unter Verwendung der VAA-Verifizierung auf [betrügerische weise zu prägen](https://solscan.io/tx/2zCz2GgSoSS68eNJENWrYB48dMM1zmH8SZkgYneVDv2G4gRsVfwu5rNXtK5BKFxn7fSqX9BvrBc1rdPAeBEcD6Es), die in einer [vorherigen Transaktion](https://solscan.io/tx/2SohoVoPDSdzgsGCgKQPByKQkLAXHrYmvtE7EEqwKi3qUBTGDDJ7DcfYS7YJC2f8xwKVVa6SFUpH5MZ5xcyn1BCK) erstellt worden war.
 
-**4:** 93.750 ETH wurden im Laufe von 3 Transaktionen ([eins](https://etherscan.io/tx/0x4d5201dd4a377f20e61fb8f42e6f929ec16bcec918f0584e39241d15b254a80f), [zwei](https://etherscan.io/tx/0xd31b155e259a403ebe69831fae0ec2b4bd33dfa090c43b605a57d5c72c4fbbc7), [drei](https://etherscan.io/tx/0xacd309b02e4b533484d148de9ab0adf367ed4e70ed751d1ff036152dc3bc0479)) zurück zu Ethereum überbrückt, wo sie immer noch in der [Wallet des Hackers](https://etherscan.io/address/0x629e7da20197a5429d30da36e77d06cdf796b71a) verbleiben. Die verbleibenden ~36.000 whETH wurden auf Solana in USDC und SOL liquidiert.
+**4:** 93.750 ETH wurden im Laufe von 3 Transaktionen ([eins](https://etherscan.io/tx/0x4d5201dd4a377f20e61fb8f42e6f929ec16bcec918f0584e39241d15b254a80f), [zwei](https://etherscan.io/tx/0xd31b155e259a403ebe69831fae0ec2b4bd33dfa090c43b605a57d5c72c4fbbc7), [drei](https://etherscan.io/tx/0xacd309b02e4b533484d148de9ab0adf367ed4e70ed751d1ff036152dc3bc0479)) zurück zu Ethereum _gebridged_, wo sie immer noch in der [Wallet des Hackers](https://etherscan.io/address/0x629e7da20197a5429d30da36e77d06cdf796b71a) verbleiben. Die verbleibenden ~36.000 whETH wurden auf Solana in USDC und SOL liquidiert.
 
-**Eine [Nachricht](https://etherscan.io/tx/0x2d8b7901bff18ae6abe1a50aebe44b70559f39ff357b21340843d368b9486859) wurde auf der Chain von Certus One, dem Team hinter der Wurmholebrücke, an den Hacker gesandt:**
+**Eine [Nachricht](https://etherscan.io/tx/0x2d8b7901bff18ae6abe1a50aebe44b70559f39ff357b21340843d368b9486859) wurde auf der Chain von Certus One, dem Team hinter der Wurmhole-_Bridge_, an den Hacker gesandt:**
 
 >Dies ist der Wormhole Deployer:
 >

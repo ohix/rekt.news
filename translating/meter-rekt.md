@@ -17,7 +17,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/mete
 
 Bei einem weiteren Angriff werden [Meter.io](https://meter.io/) auf BSC 4,4 Millionen US-Dollar abgenommen, wodurch [Hundred Finance](https://hundred.finance/) 3,3 Millionen US-Dollar an Kollateralschäden verliert.
 
-Dies ist der siebte Brücken-Angriff auf unserer [Rangliste](https://rekt.news/leaderboard/), der einen steigenden Trend in der Cross-Chain-Kriminalität zeigt.
+Dies ist der siebte _Bridge_-Angriff auf unserer [Rangliste](https://rekt.news/leaderboard/), der einen steigenden Trend in der Cross-Chain-Kriminalität zeigt.
 
 **Wie lange wird es dauern, die Technologie zu perfektionieren, um diese Verluste zu verhindern?**
 
@@ -27,11 +27,11 @@ _Der Zähler läuft._
 
 _Quelle: [@ishwinder](https://twitter.com/ishwinder/status/1490227406824685569?s=20&t=XsNHTZUI5AEDEppn3xxwUQ)_
 
-Der Angriff begann am 05.02.2022 um ca. 14:00 Uhr UTC, als [der Angreifer](https://etherscan.io/address/0x8d3d13cac607B7297Ff61A5E1E71072758AF4D01) böswillig eine beträchtliche Menge an BNB- und wETH-Tokens prägte und die Brückenreserve seiner BNB und wETH entleerte, bevor alle Brückentransaktionen von [Meter gestoppt](https://twitter.com/Meter_IO/status/1490103308421255168) werden konnten.
+Der Angriff begann am 05.02.2022 um ca. 14:00 Uhr UTC, als [der Angreifer](https://etherscan.io/address/0x8d3d13cac607B7297Ff61A5E1E71072758AF4D01) böswillig eine beträchtliche Menge an BNB- und wETH-Tokens prägte und die Bridgereserve seiner BNB und wETH entleerte, bevor alle Bridgetransaktionen von [Meter gestoppt](https://twitter.com/Meter_IO/status/1490103308421255168) werden konnten.
 
 Meter_io Passport ist ein ChainBridge Fork von [ChainSafe](https://twitter.com/ChainSafeth), jedoch mit einer Änderung, die an der Einzahlungsmethode der ERC20 _Handler_ vorgenommen wurde.
 
->Diese Änderung geht grundsätzlich davon aus, dass, wenn der Token, der überbrückt wird, ein umhüllter nativer Token ist, dieser nicht verbrannt oder gesperrt wird, da der umhüllte native Token bereits entpackt und der Betrag an den _Handler_-Contract übertragen wurde.
+>Diese Änderung geht grundsätzlich davon aus, dass, wenn der Token, der _gebridged_ wird, ein wrapped nativer Token ist, dieser nicht verbrannt oder gesperrt wird, da der wrapped native Token bereits unwrapped und der Betrag an den _Handler_-Contract übertragen wurde.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-code1.png)
 
@@ -51,11 +51,11 @@ Meter_io Passport ist ein ChainBridge Fork von [ChainSafe](https://twitter.com/C
 
 **Dieser Angriff verursachte Kollateralschäden.**
 
-**Hundred Finance verlor 3,3 Millionen US-Dollar aufgrund ihrer Abhängigkeit von der Meter Brücke.**
+**Hundred Finance verlor 3,3 Millionen US-Dollar aufgrund ihrer Abhängigkeit von der Meter Bridge**
 
 Hundred Finance gab den Verlust in [einem Tweet](https://twitter.com/HundredFinance/status/1490394875459682309) bekannt.
 
-> Heute war [@MoonriverNW](https://twitter.com/MoonriverNW) von Hundred Finance von einem Brücken-Angriff auf [@Meter_IO](https://twitter.com/Meter_IO), betroffen, der zu einer lokalen Abwertung des Kurses von BNB.bsc führte.
+> Heute war [@MoonriverNW](https://twitter.com/MoonriverNW) von Hundred Finance von einem Bridge-Angriff auf [@Meter_IO](https://twitter.com/Meter_IO), betroffen, der zu einer lokalen Abwertung des Kurses von BNB.bsc führte.
 
 >Konten konnten BNB.bsc zu einem reduzierten Preis erwerben und diese Token als Sicherheiten zum globalen Chainlink-Preis verwenden, um unkompromittierte Assets auf unserer Plattform zu leihen. Von diesen sind derzeit MIM und FRAX betroffen.
 
@@ -69,9 +69,9 @@ Wird Hundred Finance nach diesem Vorfall irgendwelche Änderungen vornehmen? Sie
 
 **vfat:**
 
->Hallo, also ja, natürlich ist dies ein Problem, dessen wir uns nur allzu bewusst sind. Jede neue Chain/Brücke, die wir hinzufügen, birgt ihre eigenen Risiken, und ein Kreditprotokoll ist ein natürliches Ziel für Brückenangreifer.
+>Hallo, also ja, natürlich ist dies ein Problem, dessen wir uns nur allzu bewusst sind. Jede neue Chain/Bridge die wir hinzufügen, birgt ihre eigenen Risiken, und ein Kreditprotokoll ist ein natürliches Ziel für Bridgeangreifer.
 
->Wir haben Meter verwendet, da sie die Hauptquelle für ümhülltem BTC auf Moonriver waren. Zusammen mit der nativen Brücke und Multichain sind wir damit bei 3 Brücken auf dieser Chain, was das Maximum ist, das wir verwenden würden. In Zukunft werden wir strenger sein und detailliertere Informationen darüber veröffentlichen, welche Brücken für welche Assets verwendet werden. Wir werden auch eine zusätzliche Überwachung für mögliche Angriffe wie diesen in Betracht ziehen.
+>Wir haben Meter verwendet, da sie die Hauptquelle für ümhülltem BTC auf Moonriver waren. Zusammen mit der nativen Bridge und Multichain sind wir damit bei 3 Bridges auf dieser Chain, was das Maximum ist, das wir verwenden würden. In Zukunft werden wir strenger sein und detailliertere Informationen darüber veröffentlichen, welche Bridges für welche Assets verwendet werden. Wir werden auch eine zusätzliche Überwachung für mögliche Angriffe wie diesen in Betracht ziehen.
 
 >Meter hat natürlich die Verantwortung für diesen Hack übernommen und beabsichtigt, ihren eigenen Token für die Rückerstattung zu verwenden, soweit es ihm möglich ist; derzeit befinden wir uns in der Phase des Sammelns von Adressen und Beträgen.
 
