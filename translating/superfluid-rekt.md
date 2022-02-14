@@ -15,15 +15,15 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/supe
 
 **8,7 Millionen US-Dollar wurden von Superfluid abgezogen.**
 
-_Das Krypto-Streaming-Protokoll wurde am 08.02.22 um 06:17 UTC gehackt._
+_Das Krypto-Streaming-Protokoll wurde am 08.02.2022 um 06:17 UTC gehackt._
 
 Andere Projekte, die den Dienst für Beitragszahlungen oder Investoren-Treuhandverträge nutzten, erlitten negative Preisauswirkungen, als der Angreifer ihre nativen Token ablud.
 
 Zu den betroffenen Protokollen gehörten Mai Finance ([QI](https://www.coingecko.com/en/coins/qi-dao)), Stacker Ventures ([STACK](https://www.coingecko.com/en/coins/stackos)), Stake DAO ([SDT](https://www.coingecko.com/en/coins/stake-dao)) und Museum of Crypto Art ([MOCA](https://www.coingecko.com/en/coins/museum-of-crypto-art)).
 
-QI war der am stärksten betroffene Token und fiel nach dem Dump zunächst um fast 80%, hat sich aber seitdem auf ~62 % seines Preises vor dem Hack erholt.
+QI war der am stärksten betroffene Token und fiel nach dem Dump zunächst um fast 80%, hat sich aber seitdem auf ~62% seines Preises vor dem Hack erholt.
 
-[@francescorenzia](https://twitter.com/francescorenzia) von Superfluid sagte gegenüber rekt.news, dass sich der Angriff nur auf die größeren Wallet-Guthaben der Plattform konzentriert habe. In der Zeit vor dem flicken der Schwachstelle ließ der Hacker jede Menge ETH, USDC und DAI unangetastet, vermutlich weil der Angreifer „_die Nase voll hatte_“.
+[@francescorenzia](https://twitter.com/francescorenzia) von Superfluid sagte gegenüber rekt.news, dass sich der Angriff nur auf die größeren Wallet-Guthaben der Plattform konzentriert habe. In der Zeit vor dem flicken der Schwachstelle ließ der Hacker jede Menge ETH, USDC und DAI unangetastet, vermutlich weil der Angreifer „_genug hatte_“.
 
 _Wie ist es passiert?_
 
@@ -47,15 +47,15 @@ _Wie ist es passiert?_
 
 39.000 sdam3CRV - getauscht zu [am3CRV](https://polygonscan.com/tx/0x0553be6c6f969c4f91850532f68f4e8bae5824392140edb13c3bfd6f6cb8d35e), dann zu ~44.000 [amDAI](https://polygonscan.com/tx/0x7a9b9ad4634fea8681e34c150ef561bf0ced199a3347888dfc448e4164583f7d)
 
-1,5 Mio. MOCA – [1 Mio. von 1,5 Mio. verkauft](https://polygonscan.com/tx/0x554f5688fb8d31bcd9affc90d16f0326a8d09b0469dbb581580c7187201ef6ba) für 173 WETH (~500.000 US-Dollar)
+1,5 Millionen MOCA – [1 Mio. von 1,5 Mio. verkauft](https://polygonscan.com/tx/0x554f5688fb8d31bcd9affc90d16f0326a8d09b0469dbb581580c7187201ef6ba) für 173 WETH (~500.000 US-Dollar)
 
-11k MATIC - Noch nicht verkauft
+11.000 MATIC - Noch nicht verkauft
 
 >Insgesamt - ~8,7 Millionen US-Dollar
 
 **~6 Stunden nach dem Angriff hat Superfluid den Fehler mit Hilfe von [Mudit Gupta](https://twitter.com/Mudit__Gupta) geflickt.**
 
-[_Den Patch finden Sie hier_](https://github.com/superfluid-finance/protocol-monorepo/commit/4048fbc66c144e1afd5ae68b21160e1b25d96270).
+_Den Patch kannst du dir [hier ansehen](https://github.com/superfluid-finance/protocol-monorepo/commit/4048fbc66c144e1afd5ae68b21160e1b25d96270)._
 
 >Der folgende Text stammt aus [Superfluids eigenem Post-Mortem](https://medium.com/superfluid-blog/08-02-22-exploit-post-mortem-15ff9c97cdd).
 
@@ -85,21 +85,21 @@ Bei der eigentlichen [Exploit-Transaktion](https://polygonscan.com/tx/0x396b6ee9
 
 **deleteAnyFlowBad**
 
-Die Konvention von callAgreement besteht darin, den Platzhalter ctx zu verwenden, damit ein späterer Vereinbarungscode von solidity ihn direkt als Argument „ctx“ lesen kann.
+Die Konvention von _callAgreement_ besteht darin, den Platzhalter ctx zu verwenden, damit ein späterer Vereinbarungscode von solidity ihn direkt als Argument „ctx“ lesen kann.
 
-_Weitere Informationen zu diesem Konzept finden Sie unter [About-Placeholder-Ctx](https://github.com/superfluid-finance/protocol-monorepo/wiki/About-Placeholder-Ctx)_.
+_Weitere Informationen zu diesem Konzept findest du unter [About-Placeholder-Ctx](https://github.com/superfluid-finance/protocol-monorepo/wiki/About-Placeholder-Ctx)_.
 
 Hier gelang es dem Angreifer, ein gefälschtes „ctx“ einzuschleusen, wo ein beliebiger Absender gesetzt werden konnte.
 
 **Superfluid.callAgreement**
 
-Im Normalfall erstellt Superfluid.callAgreement den ctx und versieht ihn mit einem Stempel (speichert seinen Hash in einer Zustandsvariable), sodass er mit _Superfluid.isCtxValid_ validiert werden kann.
+Im Normalfall erstellt _Superfluid.callAgreement_ den ctx und versieht ihn mit einem Stempel (speichert seinen Hash in einer Zustandsvariable), sodass er mit _Superfluid.isCtxValid_ validiert werden kann.
 
 **ConstantFlowAgreementV1.createFlow**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/superfluid-createflow-code.png)
 
-Die Vereinbarung verwendet dann AgreementLibrary.authorizeTokenAccess, um zu überprüfen, ob der aufrufende Host-Contract berechtigt ist, Zustandsänderungsaufrufe für den Token-Contract durchzuführen.
+Die Vereinbarung verwendet dann _AgreementLibrary.authorizeTokenAccess_, um zu überprüfen, ob der aufrufende Host-Contract berechtigt ist, Zustandsänderungsaufrufe für den Token-Contract durchzuführen.
 
 **AgreementLibrary.authorizeTokenAccess**
 
@@ -131,6 +131,6 @@ Obwohl dies nicht der größte Exploit war (Nummer 42 auf unserer [Rangliste](ht
 
 Der wachsende Bereich der DAO-Infrastruktur bietet mehr Ziele für die anonymen Angreifer, die in DeFi so weit verbreitet sind.
 
-**Das gestohlene Geld befindet sich immer noch in der Wallet des Angreifers.**
+**Das gestohlene Geld befindet sich noch immer in der Wallet des Angreifers.**
 
-_Werden sie das Kopfgeld nehmen oder Superfluid im trockenen lassen?_
+_Werden sie die Prämie nehmen oder Superfluid im trockenen lassen?_
