@@ -9,7 +9,7 @@ tags:
   - Meter
   - Hundred
   - REKT
-excerpt: Brücken bauen ist ein gefährliches Geschäft. Bei einem weiteren Angriff werden Meter.io auf BSC 4,4 Millionen US-Dollar abgenommen, wodurch Hundred Finance 3,3 Millionen US-Dollar an Kollateralschäden verliert.
+excerpt: Brücken bauen ist ein gefährliches Geschäft. Bei einem weiteren Angriff werden Meter.io auf BSC 4,4 Millionen US-Dollar abgenommen, wodurch Hundred Finance 3,3 Millionen US-Dollar an Kollateralschäden erlitt.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-header.png)
@@ -27,7 +27,7 @@ _Der Zähler läuft._
 
 _Quelle: [@ishwinder](https://twitter.com/ishwinder/status/1490227406824685569?s=20&t=XsNHTZUI5AEDEppn3xxwUQ)_
 
-Der Angriff begann am 05.02.2022 um ca. 14:00 Uhr UTC, als [der Angreifer](https://etherscan.io/address/0x8d3d13cac607B7297Ff61A5E1E71072758AF4D01) böswillig eine beträchtliche Menge an BNB- und wETH-Tokens prägte und die Bridgereserve seiner BNB und wETH entleerte, bevor alle Bridgetransaktionen von [Meter gestoppt](https://twitter.com/Meter_IO/status/1490103308421255168) werden konnten.
+Der Angriff begann am 05.02.2022 um ca. 14:00 UTC, als [der Angreifer](https://etherscan.io/address/0x8d3d13cac607B7297Ff61A5E1E71072758AF4D01) böswillig eine beträchtliche Menge an BNB- und wETH-Tokens prägte und die Bridge-Reserve seiner BNB und wETH entleerte, bevor alle Bridge-Transaktionen von [Meter gestoppt](https://twitter.com/Meter_IO/status/1490103308421255168) werden konnten.
 
 Meter_io Passport ist ein ChainBridge Fork von [ChainSafe](https://twitter.com/ChainSafeth), jedoch mit einer Änderung, die an der Einzahlungsmethode der ERC20 _Handler_ vorgenommen wurde.
 
@@ -35,7 +35,7 @@ Meter_io Passport ist ein ChainBridge Fork von [ChainSafe](https://twitter.com/C
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-code1.png)
 
->Diese Annahme gilt für eine der Einzahlungsmethoden depositEth, die auch den Wert des Betrags in _calldata_ bestätigt (der dann letztendlich an die Einzahlungsmethode des Handlers weitergegeben wird):
+>Diese Annahme gilt für eine der Einzahlungsmethoden _depositEth_, die auch den Wert des Betrags in _calldata_ bestätigt (der dann letztendlich an die Einzahlungsmethode des Handlers weitergegeben wird):
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/meter-code2.png)
 
@@ -59,19 +59,19 @@ Hundred Finance gab den Verlust in [einem Tweet](https://twitter.com/HundredFina
 
 >Konten konnten BNB.bsc zu einem reduzierten Preis erwerben und diese Token als Sicherheiten zum globalen Chainlink-Preis verwenden, um unkompromittierte Assets auf unserer Plattform zu leihen. Von diesen sind derzeit MIM und FRAX betroffen.
 
->Wir möchten die Inhaber der Konten, die dies getan haben, bitten, die geliehenen Assets zurückzugeben, damit andere Nutzer auf ihre Liquidität zugreifen können. 1 Kontoinhaber hat dies bereits getan, und wir sind bereit, den übrigen 3 Kontoinhabern weitere Prämien zu zahlen, wenn sie dasselbe tun.
+>Wir möchten die Inhaber der Konten, die dies getan haben, bitten, die geliehenen Assets zurückzugeben, damit andere Nutzer auf ihre Liquidität zugreifen können. Ein Kontoinhaber hat dies bereits getan, und wir sind bereit, den übrigen drei Kontoinhabern weitere Prämien zu zahlen, wenn sie dasselbe tun.
 
 **Wir haben mit dem Gründer von Hundred Finance, [vfat](https://twitter.com/vfat0/status/1490398279267495944?s=20&t=dNKrs_3KbNuPpRTC5jPs5A), gesprochen:**
 
 **rekt:**
 
-Wird Hundred Finance nach diesem Vorfall irgendwelche Änderungen vornehmen? Sie erwähnen, dass Sie mit Meter an einer möglichen Lösung arbeiten - können Sie weitere Einzelheiten nennen?
+Wird Hundred Finance nach diesem Vorfall irgendwelche Änderungen vornehmen? Du hast erwähnt, dass du mit Meter an einer möglichen Lösung arbeitest - kannst du weitere Einzelheiten nennen?
 
 **vfat:**
 
->Hallo, also ja, natürlich ist dies ein Problem, dessen wir uns nur allzu bewusst sind. Jede neue Chain/Bridge die wir hinzufügen, birgt ihre eigenen Risiken, und ein Kreditprotokoll ist ein natürliches Ziel für Bridgeangreifer.
+>Hallo, also ja, natürlich ist dies ein Problem, dessen wir uns nur allzu bewusst sind. Jede neue Chain/Bridge die wir hinzufügen, birgt ihre eigenen Risiken, und ein Kreditprotokoll ist ein natürliches Ziel für Bridge-Angreifer.
 
->Wir haben Meter verwendet, da sie die Hauptquelle für ümhülltem BTC auf Moonriver waren. Zusammen mit der nativen Bridge und Multichain sind wir damit bei 3 Bridges auf dieser Chain, was das Maximum ist, das wir verwenden würden. In Zukunft werden wir strenger sein und detailliertere Informationen darüber veröffentlichen, welche Bridges für welche Assets verwendet werden. Wir werden auch eine zusätzliche Überwachung für mögliche Angriffe wie diesen in Betracht ziehen.
+>Wir haben Meter verwendet, da sie die Hauptquelle für _wrapped_ BTC auf Moonriver waren. Zusammen mit der nativen Bridge und Multichain sind wir damit bei 3 Bridges auf dieser Chain, was das Maximum ist, das wir verwenden würden. In Zukunft werden wir strenger sein und detailliertere Informationen darüber veröffentlichen, welche Bridges für welche Assets verwendet werden. Wir werden auch eine zusätzliche Überwachung für mögliche Angriffe wie diesen in Betracht ziehen.
 
 >Meter hat natürlich die Verantwortung für diesen Hack übernommen und beabsichtigt, ihren eigenen Token für die Rückerstattung zu verwenden, soweit es ihm möglich ist; derzeit befinden wir uns in der Phase des Sammelns von Adressen und Beträgen.
 
