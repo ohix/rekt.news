@@ -13,27 +13,27 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/supe
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/superfluid-header.png)
 
-**8,7 Millionen US-Dollar wurden von Superfluid abgezogen.**
+**8,7 Millionen US-Dollar von Superfluid abgezogen.**
 
 _Das Krypto-Streaming-Protokoll wurde am 08.02.2022 um 06:17 UTC gehackt._
 
-Andere Projekte, die den Dienst für Beitragszahlungen oder Investoren-Treuhandverträge nutzten, erlitten negative Preisauswirkungen, als der Angreifer ihre nativen Token ablud.
+Andere Projekte, die den Dienst für Zahlungen an Mitwirkende oder Treuhandverträge für Investoren nutzten, erlitten negative Preisauswirkungen, da der Angreifer ihre nativen Tokens abwarf.
 
 Zu den betroffenen Protokollen gehörten Mai Finance ([QI](https://www.coingecko.com/en/coins/qi-dao)), Stacker Ventures ([STACK](https://www.coingecko.com/en/coins/stackos)), Stake DAO ([SDT](https://www.coingecko.com/en/coins/stake-dao)) und Museum of Crypto Art ([MOCA](https://www.coingecko.com/en/coins/museum-of-crypto-art)).
 
 QI war der am stärksten betroffene Token und fiel nach dem Dump zunächst um fast 80%, hat sich aber seitdem auf ~62% seines Preises vor dem Hack erholt.
 
-[@francescorenzia](https://twitter.com/francescorenzia) von Superfluid sagte gegenüber rekt.news, dass sich der Angriff nur auf die größeren Wallet-Guthaben der Plattform konzentriert habe. In der Zeit vor dem flicken der Schwachstelle ließ der Hacker jede Menge ETH, USDC und DAI unangetastet, vermutlich weil der Angreifer „_genug hatte_“.
+Superfluid's [@francescorenzia](https://twitter.com/francescorenzia) sagte gegenüber rekt.news, dass sich der Angriff nur auf die größeren Wallet-Guthaben der Plattform konzentrierte. In der Zeit, bevor die Schwachstelle gepatcht wurde, ließ der Hacker viele ETH, USDC und DAI unangetastet, vermutlich weil der Angreifer „_genug hatte_“.
 
-_Wie ist es passiert?_
+_Wie ist es dazu gekommen?_
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/09/rekt-investigates-linebreak.png)
 
-**Adresse des Angreifers:** [0x1574f7f4c9d3aca2ebce918e5d19d18ae853c090](https://polygonscan.com/address/0x1574f7f4c9d3aca2ebce918e5d19d18ae853c090)
+**Die Adresse des Angreifers:** [0x1574f7f4c9d3aca2ebce918e5d19d18ae853c090](https://polygonscan.com/address/0x1574f7f4c9d3aca2ebce918e5d19d18ae853c090)
 
 **Exploit Transaktion:** [0xdee86cae2e1bab16496a49...](https://polygonscan.com/tx/0xdee86cae2e1bab16496a49b2ec61aae0472a7ccf06f79744d42473e96edd6af6)
 
-**Entnommenes Vermögen:**
+**Erbeutetet Assets:**
 
 19.4 Millionen QI (Wert vor dem Hack: 24 Millionen US-Dollar) [wurden](https://polygonscan.com/tx/0xc37151aaefa7e937c97156ca43e3d486299aa89a603d22355592ddd00bfe687a) [in](https://polygonscan.com/tx/0x741908f9707d9dd3a52525380d69f9e74a26d52350308227b84c3ad2db45449f) [vier](https://polygonscan.com/tx/0x026032084b3f7c658b7c3467d8567922e3ad93c755669ab0d92f01f040a18dea) [Transaktionen](https://polygonscan.com/tx/0x8dd5e00a54742f182eee7277a3326efd434f893fd94f5473f9ca1f0fd0358577) für insgesamt 2.300 WETH (~6,2 Millionen US-Dollar) verkauft.
 
@@ -53,31 +53,31 @@ _Wie ist es passiert?_
 
 >Insgesamt - ~8,7 Millionen US-Dollar
 
-**~6 Stunden nach dem Angriff hat Superfluid den Fehler mit Hilfe von [Mudit Gupta](https://twitter.com/Mudit__Gupta) geflickt.**
+**~6 Stunden nach dem Angriff hat Superfluid den Fehler mit Hilfe von [Mudit Gupta](https://twitter.com/Mudit__Gupta) gepatcht.**
 
-_Den Patch kannst du dir [hier ansehen](https://github.com/superfluid-finance/protocol-monorepo/commit/4048fbc66c144e1afd5ae68b21160e1b25d96270)._
+_[Der Patch kann hier gefunden werden](https://github.com/superfluid-finance/protocol-monorepo/commit/4048fbc66c144e1afd5ae68b21160e1b25d96270)._
 
 >Der folgende Text stammt aus [Superfluids eigenem Post-Mortem](https://medium.com/superfluid-blog/08-02-22-exploit-post-mortem-15ff9c97cdd).
 
-**Erklärung der Schwachstelle**
+**Erläuterung der Schwachstelle**
 
 Superfluid.sol, bekannt als der Host-Contract, ist der Contract, der zusammensetzbare Superfluid-Contracts _(ConstantFlowAgreement, InstantDistributionAgreement)_ in einer einzigen Transaktion ermöglicht. Die zusammengesetzten Systeme werden oft als Super Apps bezeichnet.
 
-Um jedoch während der gesamten Transaktion zwischen verschiedenen Vereinbarungsaufrufen einen vertrauenswürdigen und gemeinsam genutzten Zustand zu haben, wird ein Konzept namens „_ctx_“ (ein vom Host-Contract verwalteter serialisierter Zustand) eingeführt.
+Um jedoch einen vertrauenswürdigen und gemeinsam genutzten Zustand während der gesamten Transaktion zwischen verschiedenen Vertragsaufrufen zu haben, wird ein Konzept namens _„ctx“_ (ein serialisierter Zustand, der vom Host-Contract verwaltet wird) eingeführt.
 
 Das „ctx“ enthält den gesamten Kontext, den eine Vereinbarungsfunktion kennen muss, insbesondere, wer der „_msg.sender_“ des ersten Anrufs ist.
 
-Dort wurde eine unglückliche Schwachstelle ausgenutzt.
+Hier wurde eine unglückliche Sicherheitslücke ausgenutzt.
 
-**Der Angreifer war in der Lage, _calldata_ geschickt so zu manipulieren, dass der Prozess der Serialisierung im Host-Contract und die anschließende Deserialisierung im Vereinbarungs-Contract dazu führten, dass der Vereinbarungs-Contract auf einem Kontextobjekt operierte, das speziell dafür geschaffen wurde, andere Konten zu imitieren.**
+**Der Angreifer war in der Lage, die _calldata_ so zu manipulieren, dass der Prozess der Serialisierung im Host-Contract und der anschließenden De-Serialisierung im Vereinbarungs-Contract dazu führte, dass der Vereinbarungs-Contract mit einem Kontextobjekt arbeitete, das speziell für die Identifizierung anderer Konten gefälscht wurde.**
 
-Dieser Mechanismus wurde verwendet, um IDA-Indizes „im Auftrag“ anderer Konten zu erstellen und ihre Tokens auf diese Weise zu extrahieren.
+Dieser Mechanismus wurde genutzt, um IDA-Indizes „im Namen“ anderer Konten zu erstellen und deren Token auf diese Weise zu übertragen.
 
-**Der Exploiter Contract:**
+**Der Exploiter-Contract:**
 
-Der folgende Exploiter-Contract zeigt, wie die Schwachstelle genutzt werden könnte, um andere Konten vorzutäuschen, um deren offenen Streams zu schließen.
+Der folgende Exploiter-Contract zeigt, wie die Schwachstelle genutzt werden kann, um sich als andere Konten auszugeben und deren offene Streams zu schließen.
 
-Bei der eigentlichen [Exploit-Transaktion](https://polygonscan.com/tx/0x396b6ee91216cf6e7c89f0c6044dfc97e84647f5007a658ca899040471ab4d67) nutzte der Angreifer den IDA-Contract, um mit derselben Technik Gelder von anderen Konten abzuziehen:
+In der eigentlichen [Exploit-Transaktion](https://polygonscan.com/tx/0x396b6ee91216cf6e7c89f0c6044dfc97e84647f5007a658ca899040471ab4d67) verwendete der Angreifer den IDA-Contract, um mit der gleichen Technik Geld von anderen Konten abzuziehen:
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/superfluid-badcall-code.png)
 
@@ -85,52 +85,52 @@ Bei der eigentlichen [Exploit-Transaktion](https://polygonscan.com/tx/0x396b6ee9
 
 **deleteAnyFlowBad**
 
-Die Konvention von _callAgreement_ besteht darin, den Platzhalter ctx zu verwenden, damit ein späterer Vereinbarungscode von solidity ihn direkt als Argument „ctx“ lesen kann.
+Die Konvention für _callAgreement_ ist die Verwendung des Platzhalters ctx, so dass späterer agreement solidity Code diesen direkt als Argument „ctx“ lesen kann.
 
-_Weitere Informationen zu diesem Konzept findest du unter [About-Placeholder-Ctx](https://github.com/superfluid-finance/protocol-monorepo/wiki/About-Placeholder-Ctx)_.
+_Um mehr über dieses Konzept zu erfahren, siehe [About-Placeholder-Ctx](https://github.com/superfluid-finance/protocol-monorepo/wiki/About-Placeholder-Ctx)._
 
-Hier gelang es dem Angreifer, ein gefälschtes „ctx“ einzuschleusen, wo ein beliebiger Absender gesetzt werden konnte.
+Hier ist es dem Angreifer gelungen, ein gefälschtes „ctx“ zu injizieren, in dem ein beliebiger Absender gesetzt werden konnte.
 
 **Superfluid.callAgreement**
 
-Im Normalfall erstellt _Superfluid.callAgreement_ den ctx und versieht ihn mit einem Stempel (speichert seinen Hash in einer Zustandsvariable), sodass er mit _Superfluid.isCtxValid_ validiert werden kann.
+Im Normalfall erstellt Superfluid.callAgreement das ctx und versieht es mit einem Stempel (speichert seinen Hash in einer Zustandsvariablen), so dass es mit _Superfluid.isCtxValid_ validiert werden kann.
 
 **ConstantFlowAgreementV1.createFlow**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/superfluid-createflow-code.png)
 
-Die Vereinbarung verwendet dann _AgreementLibrary.authorizeTokenAccess_, um zu überprüfen, ob der aufrufende Host-Contract berechtigt ist, Zustandsänderungsaufrufe für den Token-Contract durchzuführen.
+Die Vereinbarung verwendet dann AgreementLibrary.authorizeTokenAccess, um zu überprüfen, ob der aufrufende Host-Contract berechtigt ist, zustandsändernde Aufrufe des Token-Contracts durchzuführen.
 
 **AgreementLibrary.authorizeTokenAccess**
 
-Sobald der aufrufende Host authentifiziert ist, würde die Vereinbarung transitiv auch dem übergebenen ctx vertrauen und es in eine Speicherstruktur dekodieren (deserialisieren).
+Sobald der aufrufende Host authentifiziert ist, würde die Vereinbarung transitorisch auch dem übergebenen ctx vertrauen und es in eine Speicherstruktur dekodieren (de-serialisieren).
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/superfluid-authorize-code.png)
 
 **Aber Fake Ctx!**
 
-Das Problem war, dass man wie in der Exploit-Funktion _deleteAnyFlowBad_, einen gefälschten ctx einschleusen kann.
+Das Problem war, dass man, wie bei der Exploit-Funktion _deleteAnyFlowBad_, eine gefälschte ctx einschleusen kann.
 
-Nachdem es von _Superfluid.replacePlaceholderCtx_ zu einem Byte-Objekt zusammengeführt wurde (der Host macht keine Annahmen über vereinbarungsspezifische Daten), enthält das resultierende _dataWithCtx_ nun 2 ctx-Varianten, die _legitime_ und die _injizierte_.
+Nach dem Zusammenführen in ein Byte-Objekt durch _Superfluid.replacePlaceholderCtx_ (der Host macht keine Annahmen über vertragsspezifische Daten), enthält das resultierende _dataWithCtx_ nun 2 ctx-Varianten, die legitime und die injizierte.
 
-**Wenn der Vereinbarungsvertrag diese Daten decodiert, nimmt der abi-Decoder die erste (injizierte) Variante und ignoriert die verbleibenden Daten, die das legitime ctx enthalten.**
+**Wenn der Vereinbarungs-Contract diese Daten dekodiert, nimmt der abi-Decoder die erste (injizierte) Variante und ignoriert die restlichen Daten, die das legitime ctx enthalten.**
 
-Um dies zu lösen, fügte Superfluid dem Vereinbarungsvertrag einen Verifizierungsschritt hinzu:
+Um dieses Problem zu lösen, fügte Superfluid einen Überprüfungsschritt in den Contract ein:
 
-_ISuperfluid.isCtxValid._ Dieser verifiziert den decodierten ctx durch Vergleich seines im Hostvertrag gespeicherten Stempels (Hash).
+_ISuperfluid.isCtxValid_. Damit wird die dekodierte ctx überprüft, indem ihr im Host-Contract gespeicherter Stempel (Hash) verglichen wird.
 
-Diese Überprüfung war bereits für die Verarbeitung von ctx-Daten vorhanden, die von SuperApp-Callbacks bereitgestellt wurden, war jedoch nicht vorhanden für Daten, die vom vertrauenswürdigen Host-Contract übergeben wurden.
+Diese Prüfung war bereits für die Behandlung von ctx-Daten vorhanden, die von SuperApp-Callbacks bereitgestellt wurden, aber nicht für Daten, die vom vertrauenswürdigen Host-Contract übergeben wurden.
 
-![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
+![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
 
-Superfluid hat sich an den Angreifer in der Chain [gewandt](https://polygonscan.com/tx/0x5f9fd626df2fcfef5899c10cea2ec329e76dc0d4350b4c8cf28ce776785e1952), und laut Post-Mortem bleibt ein Kopfgeld von 1 Million Dollar als Gegenleistung für die Rückgabe des Geldes auf dem Tisch.
+**Superfluid hat sich mit dem Angreifer [on-Chain](https://polygonscan.com/tx/0x5f9fd626df2fcfef5899c10cea2ec329e76dc0d4350b4c8cf28ce776785e1952) in Verbindung gesetzt, und laut dem Post-Mortem liegt ein Kopfgeld von 1 Million Dollar auf dem Tisch, wenn er das gestohlene Geld zurückgibt.**
 
-Das Team gibt auch an, dass die meisten betroffenen Konten bereits erstattet wurden, während die größeren QI- und MOCA-Verluste schrittweise kompensiert werden.
+Das Team gibt außerdem an, dass die meisten der betroffenen Konten bereits erstattet wurden, während die größeren QI- und MOCA-Verluste nach und nach ausgeglichen werden.
 
-Obwohl dies nicht der größte Exploit war (Nummer 42 auf unserer [Rangliste](https://rekt.news/leaderboard/)) und keine Nutzergelder verloren gingen, ist er bemerkenswert für die Art und Weise, wie er andere Protokolle beeinflusste.
+Obwohl es sich nicht um den größten Exploit handelte _(Platz 42 auf unserer [Rangliste](https://rekt.news/leaderboard/))_ und keine Gelder der Nutzer verloren gingen, ist er aufgrund der Art und Weise, wie er andere Protokolle betraf, bemerkenswert.
 
 Der wachsende Bereich der DAO-Infrastruktur bietet mehr Ziele für die anonymen Angreifer, die in DeFi so weit verbreitet sind.
 
 **Das gestohlene Geld befindet sich noch immer in der Wallet des Angreifers.**
 
-_Werden sie die Prämie nehmen oder Superfluid im trockenen lassen?_
+_Werden sie die Prämie annehmen oder Superfluid auf dem Trockenen sitzen lassen?_
