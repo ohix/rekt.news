@@ -29,7 +29,7 @@ Das „[_Lego der dezentralisierten Welt_](https://dego.finance/home)“ Protoko
 
 _Inkompetenz oder böse Absichten?_
 
-![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
+![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
 **Ein weiterer Fall von „kompromittierten Schlüsseln“ lässt uns wenig zu sagen übrig.**
 
@@ -39,7 +39,7 @@ _Klarer Weise hat der Angreifer alles genommen._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/dego-assets.png)
 
-**Adresse des Angreifers auf ETH:** [0x118203b0f2a3ef9e749d871c8fef5e5e55ef5c91](https://etherscan.io/address/0x118203b0f2a3ef9e749d871c8fef5e5e55ef5c91) 
+**Adresse des Angreifers auf ETH:** [0x118203b0f2a3ef9e749d871c8fef5e5e55ef5c91](https://etherscan.io/address/0x118203b0f2a3ef9e749d871c8fef5e5e55ef5c91)
 
 _Und [Binance Smart Chain](https://bscscan.com/address/0x118203b0f2a3ef9e749d871c8fef5e5e55ef5c91) und [Cronos](https://cronos.crypto.org/explorer/address/0x118203B0f2A3ef9e749D871C8fEF5e5e55ef5C91/token-transfers)_
 
