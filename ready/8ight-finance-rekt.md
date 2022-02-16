@@ -43,13 +43,13 @@ _Und dann zu Tornado._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/8ight-discord.png)
 
-**Man würde hoffen, dass wir das jetzt nicht sagen müssten, aber...**
+**Man könnte meinen, dass wir das jetzt nicht sagen müssten, aber...**
 
 _Poste deine privaten Schlüssel nicht auf Facebook._
 
-_Poste deine privaten Schlüssel nicht in einem Google Dokument._
+_Packe deine privaten Schlüssel nicht in ein Google Dokument._
 
-**Schwache OPSEC macht arme Nutzer.**
+**Schlechte OPSEC macht Nutzer arm.**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/8ight-art.png)
 
