@@ -31,7 +31,7 @@ _Inkompetenz oder böse Absichten?_
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
 
-**Bei einem weiteren Fall von „kompromittierten Schlüsseln“ gibt es nicht viel zu sagen.**
+**Ein weiterer Fall von „kompromittierten Schlüsseln“ lässt uns wenig zu sagen übrig.**
 
 _Klarer Weise hat der Angreifer alles genommen._
 
@@ -47,7 +47,7 @@ Der Angreifer bediente sich mehrerer LP-Tokens sowohl auf BSC als auch auf ETH u
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/dego-chart.png)
 
-Trotz ihrer schlechten Sicherheitsentscheidungen zeigt das DEGO-Preisdiagramm eine stetige Erholung, vielleicht aufgrund ihrer großen Fangemeinde auf [Twitter](https://twitter.com/dego_finance) (ca. 194.000) und anderen Medien.
+Trotz ihrer schlechten Sicherheitsentscheidungen zeigt das DEGO-Preisdiagramm eine stetige Erholung, vielleicht aufgrund ihrer großen Anhängerschaft auf [Twitter](https://twitter.com/dego_finance) (ca. 194.000) und anderen Medien.
 
 Seit dem Angriff hat Cocos-BCX den [Besitz umgestellt](https://alert.peckshield.com/detail?id=a58cd748-8a17-11ec-886a-00163e3673cd) auf eine Multi-Sig.
 
