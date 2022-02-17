@@ -38,7 +38,7 @@ Nutzer sollten in der Lage sein, $WTF basierend auf ihren bestehenden Gasausgabe
 
 **Wie erwartet wurde die Lancierung eine „[Shitshow](https://twitter.com/feeswtf/status/1482296554765819904)“.**
 
-Erstens hatten viele, bevor die Inanspruchnahme aktiv wurde, Bedenken hinsichtlich der für die Inanspruchnahme erforderlichen Freischaltgebühr (plus Gas für die zusätzliche Transaktion) sowie des Designs des Token-Contracts.
+Erstens hatten viele, bevor Claim aktiv wurde, Bedenken hinsichtlich der für die Inanspruchnahme erforderlichen Freischaltgebühr (plus Gas für die zusätzliche Transaktion) sowie des Designs des Token-Contracts.
 
 Die Freischaltgebühr von 0,01 ETH geht direkt in die [Wallet des Teams](https://etherscan.io/address/0x5cb7880035bd592a66aad803ce1cdf6aa385e2a1#internaltx) (bisher über 175 ETH oder ~500.000 US-Dollar), sofern sie nicht über das Empfehlungsprogramm aufgeteilt wird. Nach der Beanspruchung können Nutzer einen Link generieren, um einen Teil der weiteren Gebühren mit dem Team zu teilen, [abhängig von der Menge an $WTF, die sie verbrannt hatten](https://fees.wtf/#/faqs).
 
@@ -54,11 +54,11 @@ _Zum Zeitpunkt des Verfassens dieses Artikels ist [$WTF](https://www.coingecko.c
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
-**Die Community ist enttäuscht wegen fast [jedem Element](https://twitter.com/LefterisJP/status/1481935666363654145) dieses Projekts. Die zusätzlichen Transaktionen, die für die Inanspruchnahme erforderlich sind, plus eine zusätzliche NFT, die gebündelt ist, erhöhen am Ende die Gasgebühren... was haben sie sich dabei gedacht?**
+**Die Community ist enttäuscht wegen fast [jedem Element](https://twitter.com/LefterisJP/status/1481935666363654145) dieses Projekts. Die zusätzlichen Transaktionen, die für den Claim erforderlich sind, plus eine zusätzliche NFT, die gebündelt ist, erhöhen am Ende die Gasgebühren... was haben sie sich dabei gedacht?**
 
 _Wie jedoch im Post-Mortem festgestellt wurde, hat das Team von fee.wtf „genau das geliefert, was [sie] angeboten haben“, und es ist schwer, dem zu widersprechen._
 
-Die Contracts wurden überprüft und [angekündigt](https://twitter.com/feeswtf/status/1481596609926672384), bevor die Inanspruchnahme aktiv wurde, sodass die Benutzer Zeit hatten, sie zu überprüfen und zu entscheiden, ob sie teilnehmen möchten.
+Die Contracts wurden überprüft und [angekündigt](https://twitter.com/feeswtf/status/1481596609926672384), bevor der Claim aktiv wurde, sodass die Benutzer Zeit hatten, sie zu überprüfen und zu entscheiden, ob sie teilnehmen möchten.
 
 Wie so oft erreichten FOMO und Gier eine kritische Masse, und im darauffolgenden Fressrausch war es unvermeidbar, dass einige gebissen wurden.
 
