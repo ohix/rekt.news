@@ -59,7 +59,7 @@ BSC: [0x25fb126b6c6b5c8ef732b86822fa0f0024e16c61](https://bscscan.com/address/0x
 
 _BitMart untersucht noch immer, was die Sicherheitsverletzung verursacht hat, und hat sich noch nicht zu einer Erstattung für betroffene Nutzer geäußert._
 
-Der [Sicherheitsabschnitt](https://www.bitmart.com/security/en) ihrer Website gibt an, dass <0,5 % ihres Vermögens in Hot Wallets aufbewahrt werden.
+Der [Sicherheitsabschnitt](https://www.bitmart.com/security/en) ihrer Website gibt an, dass < 0,5% ihres Vermögens in Hot Wallets aufbewahrt werden.
 
 **Damit beläuft sich das Gesamtvermögen von BitMart auf über 39 Milliarden US-Dollar...**
 
