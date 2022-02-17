@@ -46,7 +46,7 @@ Wie nachfolgend gezeigt, kann der Nutzer das Einzahlungstoken auswählen, in das
 
 **2)** Füge SpiritSwap Liquidität hinzu
 
-**3)** Präge SPIRIT-LPs
+**3)** Mint SPIRIT-LPs
 
 **4)** Rufe depositFor() in GrimBoostVault mit token==ATTACKER, user==ATTACKER auf
 

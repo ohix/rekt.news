@@ -19,7 +19,7 @@ Obwohl dies unsere erste Geschichte ist, die sich auf der Harmony Chain abspielt
 
 Ein weiterer Olympus [Fork](https://twitter.com/gsg0127/status/1467862357644910597?t=sbcC3R6ZqbW-1U1r4KuSHg&s=09), ein weiterer Satz „[kompromittierter Schlüssel](https://twitter.com/8ight_finance/status/1468073179784486912)“.
 
-**1,75 Millionen Dollar entwendet.**
+**1,75 Millionen US-Dollar entwendet.**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/09/rekt-investigates-linebreak.png)
 

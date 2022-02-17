@@ -154,7 +154,7 @@ _Trotz des Rufschadens, den dies der Branche zufügen wird, ist DeFi ein Dauerbr
  
 **Seit Cronje und der Einführung von YFI hat sich in DeFi ein schädlicher (wenn auch [nicht erwünschter](https://andrecronje.medium.com/not-so-smart-contracts-8c9ab4368d21)) Trend zur Vergötterung entwickelt, und Sesta ist das jüngste Beispiel.**
 
-Wir haben eine Situation geschaffen, in der Einzelpersonen wie Götter verehrt werden. Wo [Multimillionen-Dollar-Rugs und Hacks](https://rekt.news/leaderboard/) abgeschüttelt werden und sofort vergessen sind. Wo anonyme DAO-Mitglieder mit Protokoll-Treasuries im Wert von Hunderten von Millionen Dollar machen können, was sie wollen.
+Wir haben eine Situation geschaffen, in der Einzelpersonen wie Götter verehrt werden. Wo [Multimillionen-Dollar-Rugs und Hacks](https://rekt.news/leaderboard/) abgeschüttelt werden und sofort vergessen sind. Wo anonyme DAO-Mitglieder mit Protokoll-Treasuries im Wert von Hunderten von Millionen US-Dollar machen können, was sie wollen.
 
 _Das ist sicherlich nicht das, was wir schaffen wollten._
 

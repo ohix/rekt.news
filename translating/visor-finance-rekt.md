@@ -8,13 +8,13 @@ rekt:
 tags:
   - Visor Finance
   - REKT
-excerpt: Es ist die Zeit des Gebens und Visor Finance geht aufs Ganze. Visor ermöglichte es einem anonymen Täter, 8,2 Millionen US-Dollar in VISR zu prägen.
+excerpt: Es ist die Zeit des Gebens und Visor Finance geht aufs Ganze. Visor ermöglichte es einem anonymen Täter, 8,2 Millionen US-Dollar in VISR zu minten.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/visor-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/visor-header.png)
 **Es ist die Zeit des Gebens und Visor Finance geht aufs Ganze.**
 
-[Visor](https://www.visor.finance/) erlaubte bestimmten Smart-Contracts, unbegrenzte Belohnungen zu prägen.
+[Visor](https://www.visor.finance/) erlaubte bestimmten Smart-Contracts, unbegrenzte Belohnungen zu minten.
 
 Gestern nutzte ein anonymer Täter dieses Geschenk und zog 8,8 Millionen VISR von der Plattform ab; 8,2 Millionen US-Dollar zu Vor-Hack-Preisen.
 
@@ -40,11 +40,11 @@ _Was war es diesmal?_
 
 [Finanziert](https://etherscan.io/tx/0x660b97542ade1e533bd5e098dbe53da26b63d53a3c2c4dd46b481a91bd075ead) durch Tornado Cash wenige Minuten vor der [Ausführung](https://etherscan.io/tx/0x69272d8c84d67d1da2f6425b339192fa472898dce936f24818fda415c1c1ff3f) des Angriffs.
 
-Aufgrund einer anfälligen _require()_-Prüfung in der _deposit()_-Funktion des [vVISR Rewards Contract](https://etherscan.io/address/0xc9f27a50f82571c1c8423a42970613b8dbda14ef#code) konnte der Hacker unbegrenzt Anteile mit seinem eigenen [Contract](https://etherscan.io/address/0x10c509aa9ab291c76c45414e7cdbd375e1d5ace8) prägen.
+Aufgrund einer anfälligen _require()_-Prüfung in der _deposit()_-Funktion des [vVISR Rewards Contract](https://etherscan.io/address/0xc9f27a50f82571c1c8423a42970613b8dbda14ef#code) konnte der Hacker unbegrenzt Anteile mit seinem eigenen [Contract](https://etherscan.io/address/0x10c509aa9ab291c76c45414e7cdbd375e1d5ace8) minten.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/visor-code.png)
 
-**Solange der Hacker seinen eigenen Contract als „_from_“ übergibt und der Contract eine _Owner()_-Methode von _msg.sender_ hat, kann er mit _vvisr.mint()_ beliebig viele Anteile an jede beliebige Adresse prägen.**
+**Solange der Hacker seinen eigenen Contract als „_from_“ übergibt und der Contract eine _Owner()_-Methode von _msg.sender_ hat, kann er mit _vvisr.mint()_ beliebig viele Anteile an jede beliebige Adresse minten.**
 
 _Quelle: [@storming0x](https://twitter.com/storming0x/status/1473321779250802693)_
 

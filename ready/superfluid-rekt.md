@@ -123,7 +123,7 @@ Diese Prüfung war bereits für die Behandlung von ctx-Daten vorhanden, die von 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
 
-**Superfluid hat sich mit dem Angreifer [on-Chain](https://polygonscan.com/tx/0x5f9fd626df2fcfef5899c10cea2ec329e76dc0d4350b4c8cf28ce776785e1952) in Verbindung gesetzt, und laut dem Post-Mortem liegt ein Kopfgeld von 1 Million Dollar auf dem Tisch, wenn er das gestohlene Geld zurückgibt.**
+**Superfluid hat sich mit dem Angreifer [on-Chain](https://polygonscan.com/tx/0x5f9fd626df2fcfef5899c10cea2ec329e76dc0d4350b4c8cf28ce776785e1952) in Verbindung gesetzt, und laut dem Post-Mortem liegt ein Kopfgeld von 1 Million US-Dollar auf dem Tisch, wenn er das gestohlene Geld zurückgibt.**
 
 Das Team gibt außerdem an, dass die meisten der betroffenen Konten bereits erstattet wurden, während die größeren QI- und MOCA-Verluste nach und nach ausgeglichen werden.
 

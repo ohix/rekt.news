@@ -40,7 +40,7 @@ _Ist es nicht ärgerlich, wenn dir deine privaten Schlüssel aus den Ohren falle
 
 _AscendEX untersucht immer noch, was dazu geführt hat, dass die Wallet kompromittiert wurde._
 
-**[Peckshield](https://twitter.com/peckshield/status/1469915194004766722?s=19) beziffert die Verluste auf 60 Millionen Dollar bei Ethereum, 9,2 Millionen Dollar bei BSC und 8,5 Millionen Dollar bei Polygon.**
+**[Peckshield](https://twitter.com/peckshield/status/1469915194004766722?s=19) beziffert die Verluste auf 60 Millionen US-Dollar bei Ethereum, 9,2 Millionen US-Dollar bei BSC und 8,5 Millionen US-Dollar bei Polygon.**
 
 Die gestohlenen Gelder befinden sich derzeit in der Adresse des Hackers unter:
 
@@ -50,7 +50,7 @@ Die gestohlenen Gelder befinden sich derzeit in der Adresse des Hackers unter:
 
 **[Polygon](https://polygonscan.com/address/0x2C6900b24221dE2B4A45c8c89482fFF96FFB7E55)**
 
-Eines der auf BSC gestohlenen Assets, [Bemil Coin](https://www.coingecko.com/en/coins/bemil-coin), ist seit dem Vorfall um über 98% im Preis abstürzte, was dazu führte, dass der Wert der Beute auf BSC um etwa 6,5 Millionen Dollar fiel.
+Eines der auf BSC gestohlenen Assets, [Bemil Coin](https://www.coingecko.com/en/coins/bemil-coin), ist seit dem Vorfall um über 98% im Preis abstürzte, was dazu führte, dass der Wert der Beute auf BSC um etwa 6,5 Millionen US-Dollar fiel.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
 
@@ -70,7 +70,7 @@ Dies war ein brutaler Verlust für Ascendex – wie ein Anon darauf hinwies; „
 
 _Okay George._ 
 
-Und was ist mit [diesem](https://twitter.com/AscendEX_Global/status/1469864588011315206), der nur wenige Stunden nach dem Verlust von 77 Millionen Dollar gepostet wurde?
+Und was ist mit [diesem](https://twitter.com/AscendEX_Global/status/1469864588011315206), der nur wenige Stunden nach dem Verlust von 77 Millionen US-Dollar gepostet wurde?
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/ascendex-longterm.png)
 

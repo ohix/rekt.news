@@ -25,7 +25,7 @@ Der Angriff begann am 08.01.2022 um 22:30 UTC.
 
 [Peckshield](https://twitter.com/peckshield/status/1479975560743129092) entdeckte es zuerst; kurz darauf eine [offizielle Ankündigung](https://twitter.com/lcx/status/1479976459766833152).
 
-Wir haben es [schon](https://rekt.news/bitmart-rekt/) zuvor [gesagt](https://rekt.news/ascendex-rekt/); Wenn etablierte Unternehmen, die Millionen von Dollar an Nutzergeldern verwahren, ihre eigene Hot-Wallet-Sicherheit nicht verwalten können, welchem Zweck dienen sie dann?
+Wir haben es [schon](https://rekt.news/bitmart-rekt/) zuvor [gesagt](https://rekt.news/ascendex-rekt/); Wenn etablierte Unternehmen, die Millionen von US-Dollar an Nutzergeldern verwahren, ihre eigene Hot-Wallet-Sicherheit nicht verwalten können, welchem Zweck dienen sie dann?
 
 _Das Alleinstellungsmerkmal der zentralisierten Finanzierung wird von Tag zu Tag kleiner._
 

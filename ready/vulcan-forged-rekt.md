@@ -9,14 +9,14 @@ tags:
   - Vulcan Forged
   - CEX
   - REKT
-excerpt: Vier Fälle in zehn Tagen. 415 Millionen Dollar weg von Vulcan Forged. „Kompromittierte Schlüssel“ sind derzeit so angesagt.
+excerpt: Vier Fälle in zehn Tagen. 415 Millionen US-Dollar weg von Vulcan Forged. „Kompromittierte Schlüssel“ sind derzeit so angesagt.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/vulcan-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/vulcan-header.png)
 
 **Vier Fälle in zehn Tagen.**
 
-~415 Millionen Dollar weg.
+~415 Millionen US-Dollar weg.
 
 _„Kompromittierte Schlüssel“ sind derzeit so angesagt._
 
