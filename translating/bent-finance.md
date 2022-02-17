@@ -36,7 +36,7 @@ _Quelle: [BlockSecTeam](https://twitter.com/BlockSecTeam/status/1473188863136780
 
 Dieser Fall ist weitaus einfacher als eine technische Smart-Contract-Manipulation.
 
-Der Bent Finance [cvxCRV-Contract](https://etherscan.io/address/0x270b6aff561284ef380cdd6d8b036f4981049a86) wurde am 30. November [aktualisiert](https://etherscan.io/tx/0xf711641ea9814d78780c8a51ad734ad44d58baf3f97256a3f5ec3200a29eadc7), wobei der Saldo der [Adresse](https://etherscan.io/address/0xd23cfffa066f81c7640e3f0dc8bb2958f7686d1f) des Exploiters manuell angepasst wurde.
+Der Bent Finance [cvxCRV-Contract](https://etherscan.io/address/0x270b6aff561284ef380cdd6d8b036f4981049a86) wurde am 30. November [aktualisiert](https://etherscan.io/tx/0xf711641ea9814d78780c8a51ad734ad44d58baf3f97256a3f5ec3200a29eadc7), wobei der Betrag der [Adresse](https://etherscan.io/address/0xd23cfffa066f81c7640e3f0dc8bb2958f7686d1f) des Exploiters manuell angepasst wurde.
 
 **Dies wies dem Ausbeuter enorme Belohnungen zu, die selbst die TVL von Bent Finance weit überstiegen.**
 
