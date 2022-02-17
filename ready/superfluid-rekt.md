@@ -45,7 +45,7 @@ _Wie ist es dazu gekommen?_
 
 24.000 STACK – [verkauft für ~6,2 WETH](https://polygonscan.com/tx/0x32df8bbeba3a8fcdba51c2a7daa316078cd65345a74b765b8fa2ce6787c91f28) – (~19.000 US-Dollar)
 
-39.000 sdam3CRV - getauscht zu [am3CRV](https://polygonscan.com/tx/0x0553be6c6f969c4f91850532f68f4e8bae5824392140edb13c3bfd6f6cb8d35e), dann zu ~44.000 [amDAI](https://polygonscan.com/tx/0x7a9b9ad4634fea8681e34c150ef561bf0ced199a3347888dfc448e4164583f7d)
+39.000 sdam3CRV - geswapt zu [am3CRV](https://polygonscan.com/tx/0x0553be6c6f969c4f91850532f68f4e8bae5824392140edb13c3bfd6f6cb8d35e), dann zu ~44.000 [amDAI](https://polygonscan.com/tx/0x7a9b9ad4634fea8681e34c150ef561bf0ced199a3347888dfc448e4164583f7d)
 
 1,5 Millionen MOCA – [1 Mio. von 1,5 Mio. verkauft](https://polygonscan.com/tx/0x554f5688fb8d31bcd9affc90d16f0326a8d09b0469dbb581580c7187201ef6ba) für 173 WETH (~500.000 US-Dollar)
 

@@ -44,7 +44,7 @@ Der Bent Finance [cvxCRV-Contract](https://etherscan.io/address/0x270b6aff561284
 
 Wenn wir uns die Token [Transaktionen](https://etherscan.io/tokentxns?a=0xd23cfffa066f81c7640e3f0dc8bb2958f7686d1f) der Hauptgeldbörse ansehen, sehen wir eine Handvoll kleiner Einzahlungen, gefolgt von einigen sehr großen Abhebungen, eine am [12. Dezember](https://etherscan.io/tx/0x11961c4df0b27bd7188d451dd18005dc8aff7ad4a80c7f7441b56495cae219c5) (263.000 cvxcrv-f) und eine weitere [heute](https://etherscan.io/tx/0x52d4d5a9a83ff8ca6a7fd102954c4c5d2658043d9049abfc47cd8c37692b95be) um 02:45 UTC (250.000 cvxcrv-f).
 
-Die Tokens wurden dann an die [sekundäre Adresse](https://etherscan.io/address/0x9e966a54082427d7ac56aeaee4baae7d11a6e468) des Exploiters gesendet, wo sie gegen CRV ausgezahlt, gegen ETH getauscht und an Tornado Cash gesendet wurden.
+Die Tokens wurden dann an die [sekundäre Adresse](https://etherscan.io/address/0x9e966a54082427d7ac56aeaee4baae7d11a6e468) des Exploiters gesendet, wo sie gegen CRV ausgezahlt, gegen ETH geswapt und an Tornado Cash gesendet wurden.
 
 **Insgesamt wurden zwischen dem 12.12. und heute 440 ETH (~1,75 Millionen US-Dollar) über Tornado Cash gewaschen.**
 

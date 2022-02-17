@@ -55,7 +55,7 @@ Ethereum 2: [0x4bb7d80282f5e0616705d7f832acfc59f89f7091](https://etherscan.io/ad
 
 BSC: [0x25fb126b6c6b5c8ef732b86822fa0f0024e16c61](https://bscscan.com/address/0x25fb126b6c6b5c8ef732b86822fa0f0024e16c61)
 
-**Von dort wurden die verschiedenen Memecoins über 1inch zu ETH und BNB getauscht, bevor sie über TornadoCash gewaschen wurden.**
+**Von dort wurden die verschiedenen Memecoins über 1inch zu ETH und BNB geswapt, bevor sie über TornadoCash gewaschen wurden.**
 
 _BitMart untersucht noch immer, was die Sicherheitsverletzung verursacht hat, und hat sich noch nicht zu einer Erstattung für betroffene Nutzer geäußert._
 

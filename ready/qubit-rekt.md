@@ -50,7 +50,7 @@ Nach Certiks [Analyse](https://certik.medium.com/qubit-bridge-collapse-exploited
 
 Obwohl keine ETH im Ethereum-Contract eingeschlossen waren, hatte die BSC-Adresse des Angreifers nun Zugriff auf [77.162 qXETH](https://bscscan.com/tx/0x50946e3e4ccb7d39f3512b7ecb75df66e6868b9af0eee8a7e4b61ef8a459518e) (185 Millionen US-Dollar), die als Sicherheit für Kredite auf Qubit verwendet werden konnten.
 
-Sie nutzten diese Sicherheiten, um WETH, BTC-B, US-Dollar-Stablecoins, CAKE, BUNNY und MDX zu leihen, bevor sie alles gegen insgesamt 200.000 BNB (~80 Millionen US-Dollar) tauschten, die nach wie vor in der [BSC-Adresse](https://bscscan.com/address/0xd01ae1a708614948b2b5e0b7ab5be6afa01325c7) verbleiben.
+Sie nutzten diese Sicherheiten, um WETH, BTC-B, US-Dollar-Stablecoins, CAKE, BUNNY und MDX zu leihen, bevor sie alles gegen insgesamt 200.000 BNB (~80 Millionen US-Dollar) swapten, die nach wie vor in der [BSC-Adresse](https://bscscan.com/address/0xd01ae1a708614948b2b5e0b7ab5be6afa01325c7) verbleiben.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
