@@ -23,9 +23,12 @@
                     gas → das Gas
                    anon → der Anon
                    fork → der Fork
+                   pool → der Pool
                   asset → das Asset
                   stake → der Stake
                   token → der Token
+                  trade → der Trade
+                 bridge → die Bridge
                  wallet → die Wallet
                 airdrop → der Airdrop
                contract → der Contract
@@ -39,5 +42,6 @@
             post-mortem → das Post-Mortem
       (cross-/on-)chian → die (cross-/on-)Chain
 
+                   mint → prägen oder mint (je nach situation)
                 wrapped → wrapped
 ```
