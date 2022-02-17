@@ -31,7 +31,7 @@ Bei der Suche nach einem Gleichgewicht zwischen der Belohnung echter Nutzer und 
 
 _In diesem Fall scheint ParaSwap [keine Gnade](https://twitter.com/paraswap/status/1460242806929342464) walten zu lassen._
 
-Die strengen Kriterien zielen darauf ab, alle Akteure auszuschließen, die versuchen, das System zu manipulieren, auch wenn dadurch einige echte Benutzer ausgeschlossen werden.
+Die strengen Kriterien zielen darauf ab, alle Akteure auszuschließen, die versuchen, das System zu manipulieren, auch wenn dadurch einige echte Nutzer ausgeschlossen werden.
 
 **Adressen mussten folgende Anforderungen erfüllen:**
 
