@@ -8,11 +8,11 @@ rekt:
 tags:
   - Ascendex
   - REKT
-excerpt: Zwei CEX rekt in einer Woche. Warum sehen wir in unsicheren Märkten mehr „kompromittierte Schlüssel“? 77,7 Millionen US-Dollar entwendet von Ascendex.
+excerpt: Zwei CEXs rekt in einer Woche. Warum sehen wir in unsicheren Märkten mehr „kompromittierte Schlüssel“? 77,7 Millionen US-Dollar entwendet von Ascendex.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/ascendex-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/ascendex-header.png)
-**Zwei CEX rekt in einer Woche.**
+**Zwei CEXs rekt in einer Woche.**
 
 Zuerst verlor [BitMart](https://rekt.news/bitmart-rekt/) ~196 Millionen US-Dollar, jetzt hat [AscendEX](https://ascendex.com/en/global-digital-asset-platform) 77,7 Millionen US-Dollar verloren, wieder von einer „kompromittierten“ hot Wallet.
 
