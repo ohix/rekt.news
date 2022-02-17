@@ -42,7 +42,7 @@ Erstens hatten viele, bevor Claim aktiv wurde, Bedenken hinsichtlich der für di
 
 Die Freischaltgebühr von 0,01 ETH geht direkt in die [Wallet des Teams](https://etherscan.io/address/0x5cb7880035bd592a66aad803ce1cdf6aa385e2a1#internaltx) (bisher über 175 ETH oder ~500.000 US-Dollar), sofern sie nicht über das Empfehlungsprogramm aufgeteilt wird. Nach der Beanspruchung können Nutzer einen Link generieren, um einen Teil der weiteren Gebühren mit dem Team zu teilen, [abhängig von der Menge an $WTF, die sie verbrannt hatten](https://fees.wtf/#/faqs).
 
-Der Token selbst enthält auch eine Übertragungsgebühr, [derzeit 4%, aber einstellbar auf bis zu 10%](https://twitter.com/0xQuit/status/1481666169505415169). Diese wird hauptsächlich zwischen verschiedenen Belohnungsmechanismen für WTF-Inhaber, Staker und LPs aufgeteilt, wobei jedoch 5% der Gebühr (0,2% des Überweisungsbetrags) an die Vorratskasse gehen.
+Der Token selbst enthält auch eine Übertragungsgebühr, [derzeit 4%, aber einstellbar auf bis zu 10%](https://twitter.com/0xQuit/status/1481666169505415169). Diese wird hauptsächlich zwischen verschiedenen Belohnungsmechanismen für WTF-Inhaber, Staker und LPs aufgeteilt, wobei jedoch 5% der Gebühr (0,2% des Überweisungsbetrags) an die Treasury gehen.
 
 **Zusätzlich zu den oben genannten Gebühren hatte die Spendenadresse des Teams bereits 500.000 US-Dollar [ausgezahlt](https://etherscan.io/tx/0x50dddd1022a625f2b08355aca3892b7c86aee4f27db70601f8dc1bb923fe2b0b).**
 
