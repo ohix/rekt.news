@@ -28,7 +28,7 @@ _Diagramm von [@cptn3m0x](https://twitter.com/cptn3m0x/status/148080345275409613
 
 Dann kam der aktiv böswillige [$MASK](https://etherscan.io/address/0x241357313e802e16eeb9380f2b027224e90b56dd) Betrug, der von dem Hype profitierte, der durch die obigen Beispiele erzeugt wurde, und Spekulationen darüber, ob MetaMask sein eigenes Token veröffentlichen würde.
 
-Der Betrüger war in der Lage, [DEXTools](https://www.dextools.io/) so zu manipulieren, dass eine Bestätigung mit einem blauen Häkchen und ein Popup- Fenster angezeigt wurden, das den [Token als legitim](https://twitter.com/cobynft/status/1475569815821733894?t=70hQUG4G4CscBAfrMZNyiw&s=19) anzeigte. Nachdem sich Benutzer angehäuft hatten, wurden [462 ETH](https://etherscan.io/tx/0x32ba9db40a0f8d82c90d6a68c9599148a80872fbc48b93c73085ec8883334076) aus dem Uni v2-Pool gezogen. Der Contract beinhaltete auch [Überweisungsgebühren](https://twitter.com/CryptoCatVC/status/1475770783511334916), die direkt an [diese Adresse](https://etherscan.io/address/0x8134d909215d577eac4fe2b35623efd1b57d549d#internaltx) gesendet wurden. 127 ETH davon wurden [inzwischen](https://etherscan.io/tx/0xb13466f6457d699b6b631620b59eb37115c0e56244b24c1ffa0048732c9ff8ad) an eine [andere Adresse](https://etherscan.io/address/0xbd8cc56e4c4369a2000e188300036eb9f52cd01a) und dann an Tornado Cash gesendet.
+Der Betrüger war in der Lage, [DEXTools](https://www.dextools.io/) so zu manipulieren, dass eine Bestätigung mit einem blauen Häkchen und ein Popup- Fenster angezeigt wurden, das den [Token als legitim](https://twitter.com/cobynft/status/1475569815821733894?t=70hQUG4G4CscBAfrMZNyiw&s=19) anzeigte. Nachdem sich Nutzer angehäuft hatten, wurden [462 ETH](https://etherscan.io/tx/0x32ba9db40a0f8d82c90d6a68c9599148a80872fbc48b93c73085ec8883334076) aus dem Uni v2-Pool gezogen. Der Contract beinhaltete auch [Überweisungsgebühren](https://twitter.com/CryptoCatVC/status/1475770783511334916), die direkt an [diese Adresse](https://etherscan.io/address/0x8134d909215d577eac4fe2b35623efd1b57d549d#internaltx) gesendet wurden. 127 ETH davon wurden [inzwischen](https://etherscan.io/tx/0xb13466f6457d699b6b631620b59eb37115c0e56244b24c1ffa0048732c9ff8ad) an eine [andere Adresse](https://etherscan.io/address/0xbd8cc56e4c4369a2000e188300036eb9f52cd01a) und dann an Tornado Cash gesendet.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
@@ -46,9 +46,9 @@ Der Token selbst enthält auch eine Übertragungsgebühr, [derzeit 4%, aber eins
 
 **Zusätzlich zu den oben genannten Gebühren hatte die Spendenadresse des Teams bereits 500.000 US-Dollar [ausgezahlt](https://etherscan.io/tx/0x50dddd1022a625f2b08355aca3892b7c86aee4f27db70601f8dc1bb923fe2b0b).**
 
-Das [Chaos](https://twitter.com/WazzCrypto/status/1481810582005325829) nach dem Start führte dazu, dass einige Bots groß gewannen [(58 ETH)](https://etherscan.io/tx/0x1cfac232b226dd81c90f4925716b025d471ea5c16d656b68127a126cae51f8f0) und einige Benutzer stark rekt wurden ([42 ETH](https://etherscan.io/tx/0x0c1005a356c8bc6b48529ae9dd048124e89e472d3795fbdafe903ee5b584793c), [22 ETH](https://etherscan.io/tx/0x48699a888f73bf71290615297e6a5929460ddcd5a3dcb4bea0240066ae1e2f9d)) im schlüpfrigen Uniswap V2-Pool, der mit nur 2,200 WTF und 0,000001 ETH [ausgestattet war](https://etherscan.io/tx/0xec34f30b96707bf76f4d65ae3124d94124e6879c01aca3f39d2cba67799546f8).
+Das [Chaos](https://twitter.com/WazzCrypto/status/1481810582005325829) nach dem Start führte dazu, dass einige Bots groß gewannen [(58 ETH)](https://etherscan.io/tx/0x1cfac232b226dd81c90f4925716b025d471ea5c16d656b68127a126cae51f8f0) und einige Nutzer stark rekt wurden ([42 ETH](https://etherscan.io/tx/0x0c1005a356c8bc6b48529ae9dd048124e89e472d3795fbdafe903ee5b584793c), [22 ETH](https://etherscan.io/tx/0x48699a888f73bf71290615297e6a5929460ddcd5a3dcb4bea0240066ae1e2f9d)) im schlüpfrigen Uniswap V2-Pool, der mit nur 2,200 WTF und 0,000001 ETH [ausgestattet war](https://etherscan.io/tx/0xec34f30b96707bf76f4d65ae3124d94124e6879c01aca3f39d2cba67799546f8).
 
-Das [Post-Mortem](https://medium.com/@feeswtf/fees-wtf-full-transparency-post-mortem-77dce12f4018) des Vorfalls besagt, dass das Team später 20 ETH hinzufügte, um zu vermeiden, dass es in den ersten Minuten von Bots rekt wird, und die frühen Verluste stattdessen gerne durch vom Benutzer bereitgestellte Liquidität absorbiert.
+Das [Post-Mortem](https://medium.com/@feeswtf/fees-wtf-full-transparency-post-mortem-77dce12f4018) des Vorfalls besagt, dass das Team später 20 ETH hinzufügte, um zu vermeiden, dass es in den ersten Minuten von Bots rekt wird, und die frühen Verluste stattdessen gerne durch vom Nutzer bereitgestellte Liquidität absorbiert.
 
 _Zum Zeitpunkt des Verfassens dieses Artikels ist [$WTF](https://www.coingecko.com/en/coins/wtf-token) weniger als 36 Stunden nach dem Start um 67% gefallen._
 
@@ -58,7 +58,7 @@ _Zum Zeitpunkt des Verfassens dieses Artikels ist [$WTF](https://www.coingecko.c
 
 _Wie jedoch im Post-Mortem festgestellt wurde, hat das Team von fee.wtf „genau das geliefert, was [sie] angeboten haben“, und es ist schwer, dem zu widersprechen._
 
-Die Contracts wurden überprüft und [angekündigt](https://twitter.com/feeswtf/status/1481596609926672384), bevor der Claim aktiv wurde, sodass die Benutzer Zeit hatten, sie zu überprüfen und zu entscheiden, ob sie teilnehmen möchten.
+Die Contracts wurden überprüft und [angekündigt](https://twitter.com/feeswtf/status/1481596609926672384), bevor der Claim aktiv wurde, sodass die Nutzer Zeit hatten, sie zu überprüfen und zu entscheiden, ob sie teilnehmen möchten.
 
 Wie so oft erreichten FOMO und Gier eine kritische Masse, und im darauffolgenden Fressrausch war es unvermeidbar, dass einige gebissen wurden.
 

@@ -68,7 +68,7 @@ _Nach einiger Wartezeit teilten sie uns nur mit, dass sie derzeit einen detailli
 
 **Für Solana war es kein guter Start ins Jahr.**
 
-In den letzten Monaten kam es im Netzwerk zu einer Reihe von Ausfällen und Unterbrechungen. Beim jüngsten Absturz im Januar konnten die Benutzer jedoch ihre Sicherheiten [nicht aufladen](https://twitter.com/solendprotocol/status/1485315186797936646) um eine Liquidation vermeiden, da [Oracle-Probleme](https://twitter.com/solendprotocol/status/1485315192716083202) zu weiteren fehlerhaften Liquidationen führten.
+In den letzten Monaten kam es im Netzwerk zu einer Reihe von Ausfällen und Unterbrechungen. Beim jüngsten Absturz im Januar konnten die Nutzer jedoch ihre Sicherheiten [nicht aufladen](https://twitter.com/solendprotocol/status/1485315186797936646) um eine Liquidation vermeiden, da [Oracle-Probleme](https://twitter.com/solendprotocol/status/1485315192716083202) zu weiteren fehlerhaften Liquidationen führten.
 
 Davon abgesehen ist Solana noch nicht das kampferprobte Netzwerk, zu dem Ethereum herangewachsen ist. Jeder Exploit bietet trotz all des Schadens, den er anrichtet, eine Lektion darüber, wie man ein sich entwickelndes Ökosystem sichert. Neuere L1 werden ins kalte Wasser geworfen, in eine Welt altgedienter Ausbeuter, in der sie entweder untergehen oder schwimmen lernen.
 

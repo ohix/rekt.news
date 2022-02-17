@@ -41,13 +41,13 @@ Die strengen Kriterien sollen alle Akteure ausschließen, die versuchen, das Sys
 
 **3:** Wenn Teil eines Clusters (> 5) geeigneter Adressen, einen Portfoliowert von > 200 US-Dollar haben (Anti-Sybil-Mechanismus)
 
-**Diese Regeln bedeuten, dass der Rückgang auf nur 1,5% der Adressen ging, die mit der Plattform interagiert haben – 20.000 „aktive Benutzer“ von 1,3 Millionen „eindeutigen Adressen“.**
+**Diese Regeln bedeuten, dass der Rückgang auf nur 1,5% der Adressen ging, die mit der Plattform interagiert haben – 20.000 „aktive Nutzer“ von 1,3 Millionen „eindeutigen Adressen“.**
 
 Laut Shresth Agrawal von ParaSwap machen diese 20.000 Adressen jedoch ~80% des Gesamtvolumens auf der Plattform aus.
 
-Angesichts vieler enttäuschter Benutzer veröffentlichte ParaSwap seine Begründung für die strengen Regeln in einem [Medium-Beitrag](https://medium.com/paraswap/whats-an-active-user-clarifying-psp-token-distribution-filtering-logic-81df6096d410). Sie betonen den Wunsch, eine konsistente und langfristige Nutzung gegenüber volumenbasierten Berechnungen zu belohnen:
+Angesichts vieler enttäuschter Nutzer veröffentlichte ParaSwap seine Begründung für die strengen Regeln in einem [Medium-Beitrag](https://medium.com/paraswap/whats-an-active-user-clarifying-psp-token-distribution-filtering-logic-81df6096d410). Sie betonen den Wunsch, eine konsistente und langfristige Nutzung gegenüber volumenbasierten Berechnungen zu belohnen:
 
->_Warum sollte ein zufälliger Wal, der einen Tag vor dem Snapshot-Datum 1000 ETH auf einmal tauscht, mehr Tokens erhalten als ein durchschnittlicher Benutzer, der mehr als zwei Jahre lang häufig 1–5 ETH-Tausche auf ParaSwap durchführt?_
+>_Warum sollte ein zufälliger Wal, der einen Tag vor dem Snapshot-Datum 1000 ETH auf einmal tauscht, mehr Tokens erhalten als ein durchschnittlicher Nutzer, der mehr als zwei Jahre lang häufig 1–5 ETH-Tausche auf ParaSwap durchführt?_
 
 Der Fortschritt der Airdrop-Ansprüche kann [hier nachverfolgt werden](https://uniwhales.metabaseapp.com/public/dashboard/32d4a4a7-de71-4fb5-9d0c-bd39cacf2adc), wobei etwas mehr als die Hälfte der PSP zum Zeitpunkt des Schreibens eingefordert wurde.
 
@@ -59,7 +59,7 @@ Während sich DeFi weiterentwickelt und wächst, werden wir viele Experimente se
 
 **Wir haben auch den [ENS](https://twitter.com/ensdomains) Airdrop gesehen.**
 
-Diese Verteilung basierte auf einfachen [Kriterien](https://twitter.com/ensdomains/status/1455754470894317570), die entwickelt wurden, um Benutzer für ihre Loyalität, Langlebigkeit und aktive Nutzung des Dienstes zu belohnen.
+Diese Verteilung basierte auf einfachen [Kriterien](https://twitter.com/ensdomains/status/1455754470894317570), die entwickelt wurden, um Nutzer für ihre Loyalität, Langlebigkeit und aktive Nutzung des Dienstes zu belohnen.
 
 Die on-chain [Ermittlung](https://twitter.com/mevbandit/status/1455911491148914689?s=20) deckte jedoch schnell ein Sybil-Schema auf:
 
@@ -79,7 +79,7 @@ Nutzer mögen enttäuscht sein, aber sollte die Verwendung eines Protokolls das 
 
 Weshalb sollte jemand eine Plattform nutzen, wenn er dessen Airdrop verpasst hat? Warum sollte sich der Nutzer nicht zu einer Alternative übergehen, bei der möglicherweise ein zukünftiger Airdrop geplant ist?
 
-**Da sich die Technologie weiterentwickelt und der Markt wächst, müssen Projekte schwierigere Entscheidungen zwischen ihren Benutzern treffen und gleichzeitig Sybil-Angriffe bekämpfen.**
+**Da sich die Technologie weiterentwickelt und der Markt wächst, müssen Projekte schwierigere Entscheidungen zwischen ihren Nutzern treffen und gleichzeitig Sybil-Angriffe bekämpfen.**
 
 _Wann werden wir den ersten „Airdrop as a Service“ sehen?_
 

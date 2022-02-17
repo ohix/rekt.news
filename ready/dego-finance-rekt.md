@@ -25,7 +25,7 @@ _Warum haben sie kein Multi-Sig verwendet?_
 
 Das „[_Lego der dezentralisierten Welt_](https://dego.finance/home)“ Protokoll hat Binance gebeten, die Einzahlungen ihres nativen Tokens zu pausieren.
 
-**Sie haben [Uniswap auch gebeten](https://twitter.com/dego_finance/status/1491633450792538116?s=20&t=M4LhH6CTUmnAIWfCZ87NeQ), Benutzer am Handel mit $DEGO zu hindern, was darauf hindeutet, dass die Gründer die DeFi-Legos, die in ihrem Branding enthalten sind, möglicherweise nicht verstehen.**
+**Sie haben [Uniswap auch gebeten](https://twitter.com/dego_finance/status/1491633450792538116?s=20&t=M4LhH6CTUmnAIWfCZ87NeQ), Nutzer am Handel mit $DEGO zu hindern, was darauf hindeutet, dass die Gründer die DeFi-Legos, die in ihrem Branding enthalten sind, möglicherweise nicht verstehen.**
 
 _Inkompetenz oder böse Absichten?_
 

@@ -23,7 +23,7 @@ Die gestohlenen Assets _(hauptsächlich Memecoins)_ belaufen sich auf ~100 Milli
 
 Als die Nachrichten zu [kursieren](https://twitter.com/peckshield/status/1467302620000043013) begannen, wiesen die Admins von BitMart Telegram die Gerüchte als „[_fake News_](https://twitter.com/peckshield/status/1467316799977193476/photo/4)“ zurück, während sie erklärten, dass Anfragen bezüglich des möglichen Hacks „_unnötige Spannungen_“ erzeugten.
 
-Schließlich gab Sheldon Xia, CEO von BitMart, [bekannt](https://twitter.com/sheldonbitmart/status/1467316252855226368), dass die Auszahlungen tatsächlich auf eine „_Sicherheitsverletzung_“ zurückzuführen seien, und informierte die Benutzer weiter, dass „_wir derzeit Auszahlungen bis auf weiteres vorübergehend aussetzen_”.
+Schließlich gab Sheldon Xia, CEO von BitMart, [bekannt](https://twitter.com/sheldonbitmart/status/1467316252855226368), dass die Auszahlungen tatsächlich auf eine „_Sicherheitsverletzung_“ zurückzuführen seien, und informierte die Nutzer weiter, dass „_wir derzeit Auszahlungen bis auf weiteres vorübergehend aussetzen_”.
 
 Xia bezifferte den Gesamtverlust jedoch auf 150 Millionen US-Dollar, obwohl bereits bekannt war, dass der Gesamtverlust [~196 Millionen US-Dollar](https://twitter.com/peckshield/status/1467310381073047552) betrug, eine Zahl, die BitMart weiterhin in seiner [offiziellen Erklärung](https://twitter.com/BitMartExchange/status/1467350568481878016) verwendet.
 
@@ -63,7 +63,7 @@ Der [Sicherheitsabschnitt](https://www.bitmart.com/security/en) ihrer Website gi
 
 **Damit beläuft sich das Gesamtvermögen von BitMart auf über 39 Milliarden US-Dollar...**
 
-_Wenn diese Zahl wirklich zutrifft, sollte eine vollständige Rückerstattung für betroffene Benutzer kein Problem darstellen._
+_Wenn diese Zahl wirklich zutrifft, sollte eine vollständige Rückerstattung für betroffene Nutzer kein Problem darstellen._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
@@ -81,7 +81,7 @@ Ein auf den Kaimaninseln registriertes Unternehmen hat fast 200 Millionen US-Dol
 
 **Verdienen diese Zwischenhändler es, einen Gewinn mitzunehmen?**
 
-_Und wenn sie darauf bestehen, wird sich BitMart dann zumindest dazu verpflichten, ihren Benutzern eine Rückerstattung zu leisten?_
+_Und wenn sie darauf bestehen, wird sich BitMart dann zumindest dazu verpflichten, ihren Nutzern eine Rückerstattung zu leisten?_
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/08/rekt-outline-conc.png)
 

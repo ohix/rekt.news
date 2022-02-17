@@ -61,7 +61,7 @@ So grundlegend sogar, dass viele den Entwickler beschuldigen, die Mittel selbst 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/8ight-insider.png)
 
-**Wie immer planen einige der finanziell _oder emotional_ stärker involvierten Benutzer ihre Rache. Hat eine dieser Opfergruppen jemals ihren Angreifer gefasst?**
+**Wie immer planen einige der finanziell _oder emotional_ stärker involvierten Nutzer ihre Rache. Hat eine dieser Opfergruppen jemals ihren Angreifer gefasst?**
 
 Wenn dies ein geplantes Ereignis war, dann ist es wahrscheinlich, dass die Entwickler entsprechende Erfahrungen haben.
 

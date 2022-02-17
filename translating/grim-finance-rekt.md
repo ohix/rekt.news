@@ -36,7 +36,7 @@ _Quelle: [RugDoc](https://twitter.com/RugDocIO/status/1472293717725913089)_
 
 Dies ermöglichte es dem Hacker, zusätzliche falsche Einzahlungen innerhalb des ersten Anrufs zu wiederholen und seinen Anteil am Tresor erheblich zu erhöhen.
 
-Wie nachfolgend gezeigt, kann der Benutzer das Einzahlungstoken auswählen, in das der Angreifer seinen eigenen Contract eingefügt hat, der die _reentrancy_ Einzahlungsschleifen enthält.
+Wie nachfolgend gezeigt, kann der Nutzer das Einzahlungstoken auswählen, in das der Angreifer seinen eigenen Contract eingefügt hat, der die _reentrancy_ Einzahlungsschleifen enthält.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/12/grim-code.png)
 

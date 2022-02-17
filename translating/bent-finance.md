@@ -20,7 +20,7 @@ Diesmal, so scheint es, aufgrund eines strukturellen Versagens von innen.
 
 **In den letzten Wochen hat eine Adresse die Regeln des Protokolls verbogen und ~1,75 Millionen Dollar extrahiert, bevor alles wieder gerade gebogen wurden.**
 
-Als die Nachricht bekannt wurde und der Preis von [$BENT](https://www.coingecko.com/en/coins/bent-finance) einknickte, gab das Team eine lauwarme [Warnung](https://twitter.com/BENT_Finance/status/1473109745942687745) heraus, in der es die Benutzer darüber informierte, dass die Belohnungen ausgesetzt wurden, _aber kein Geld verloren gegangen war_.
+Als die Nachricht bekannt wurde und der Preis von [$BENT](https://www.coingecko.com/en/coins/bent-finance) einknickte, gab das Team eine lauwarme [Warnung](https://twitter.com/BENT_Finance/status/1473109745942687745) heraus, in der es die Nutzer darüber informierte, dass die Belohnungen ausgesetzt wurden, _aber kein Geld verloren gegangen war_.
 
 **Als PeckShield jedoch [behauptete](https://twitter.com/peckshield/status/1473175071560994816), den Exploit als von innen kommend identifiziert zu haben...**
 

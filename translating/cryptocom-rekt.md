@@ -8,7 +8,7 @@ rekt:
 tags:
   - CEX
   - REKT
-excerpt: Ein weiterer CEX rekt, aber sie müssen es noch zugeben. ~33,7 Millionen US-Dollar eingenommen, Hunderte von Benutzern betroffen, und Crypto.com behauptet immer noch, dass „Gelder sicher sind“.
+excerpt: Ein weiterer CEX rekt, aber sie müssen es noch zugeben. ~33,7 Millionen US-Dollar eingenommen, Hunderte von Nutzern betroffen, und Crypto.com behauptet immer noch, dass „Gelder sicher sind“.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/cryptocom-header2.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/cryptocom-header2.png)
@@ -62,7 +62,7 @@ _Unser ursprünglicher Artikel wird unten fortgesetzt._
 
 **Später an diesem Tag, um 18:44 UTC, wurden Hunderte Wallets von crypto.com Nutzern geleert. Die Gelder waren nicht sicher.**
 
-_Wie hat der Angreifer die 2FA der Benutzer und ihre E-Mail-Abhebungsgenehmigungen umgangen?_
+_Wie hat der Angreifer die 2FA der Nutzer und ihre E-Mail-Abhebungsgenehmigungen umgangen?_
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/09/rekt-investigates-linebreak.png)
 

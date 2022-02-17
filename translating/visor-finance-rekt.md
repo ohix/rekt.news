@@ -60,7 +60,7 @@ Sie erklären auch, dass:
 
 „_Wir arbeiten sowohl mit Quantstamp als auch mit ConsenSys Diligence für [Audits](https://docs.visor.finance/learn/audits) im Dezember und Januar zusammen, und dieser neue Staking-Contract wird Teil davon sein._”
 
-Da die Benutzer zurückerstattet werden sollen, scheint einzig der Ruf des Visor-Teams einen Schaden davonzutragen.
+Da die Nutzer zurückerstattet werden sollen, scheint einzig der Ruf des Visor-Teams einen Schaden davonzutragen.
 
 **Immerhin sammeln sie Erfahrungen in der Post-Hack-PR…**
 
