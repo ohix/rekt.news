@@ -25,6 +25,7 @@
                    fork → der Fork
                    pool → der Pool
                   asset → das Asset
+				  claim → der Claim
                   stake → der Stake
                   token → der Token
                   trade → der Trade
