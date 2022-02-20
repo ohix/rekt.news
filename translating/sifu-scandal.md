@@ -5,7 +5,7 @@ tags:
   - 0xSifu
   - Sesta
   - Wonderland
-excerpt: Alle Mittel sind Sifu. Ein On-Chain-Spürhund entdeckte, dass in Sestas Wunderland nicht alles in Ordnung war, und die Auswirkungen der Quadriga sind noch lange nicht vergessen.
+excerpt: Alle Mittel sind Sifu. Ein on-Chain-Detektiv fand heraus, dass in Sestas Wunderland nicht alles in Ordnung war und die Auswirkungen von Quadriga noch lange nicht vergessen sind.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/sifu-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/sifu-header.png)
@@ -13,23 +13,23 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/01/sifu
 
 _Die Gewinne werden intensiviert, aber ein schlechter Trip enthüllt dunkle Geheimnisse._
 
-Gier, Täuschung und verurteilte Straftäter haben alle ihren Platz im Wunderland dezentraler Finanzen.
+Gier, Betrug und verurteilte Straftäter haben alle ihren Platz im Wunderland der dezentralen Finanzen.
 
-**Wie sind wir hier gelandet?**
+**Wie sind wir hierher gekommen?**
 
-_rekt taucht ein in den Kaninchenbau._
+_rekt geht in den Kaninchenbau._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
-_Als der Olymp fiel, mussten sich andere Schneeballsysteme [neu erfinden](https://twitter.com/danielesesta/status/1483182059002957824)._
+_Als der Olymp fiel, mussten sich andere Schneeballsysteme [umorientieren](https://twitter.com/danielesesta/status/1483182059002957824)._
 
 Daniele Sesta, der selbsternannte Anführer der _Frosch-Nation_, kam in der DeFi-Community schnell zu „Ruhm“ mit einer Mischung aus populistischen Twitter-Inhalten und Tokens, die viele Menschen reich machte.
 
-**Jedes Idol verlässt sich jedoch auf sein weniger bekanntes Team, das oft die meiste Arbeit erledigt.**
+**Jedes Idol ist jedoch auf sein weniger bekanntes Team angewiesen, das oft die meiste Arbeit leistet.**
 
-Als die Fantasie in Sestas Wonderland verblasste, sahen wir, dass [$TIME](https://www.coingecko.com/en/coins/wonderland) [schlecht](https://twitter.com/adamscochran/status/1486713137860464658?s=21) [verwaltet](https://twitter.com/thedefiedge/status/1483910379436662791) wurde.
+Als die Fantasie von Sesta's Wonderland verblasste, sahen wir, dass [$TIME](https://www.coingecko.com/en/coins/wonderland) [schlecht](https://twitter.com/adamscochran/status/1486713137860464658?s=21) [gemanagt](https://twitter.com/thedefiedge/status/1483910379436662791) wurde.
 
-**Der On-Chain Spürhund [ZachXBT](https://twitter.com/zachxbt/status/1486591682728673282?s=20&t=cBEml84fJqyrRYosUNv7Cw) zwang Sesta, die Identität seines CFO, [0xSifu](https://twitter.com/0xSifu), zuzugeben.**
+**Der On-Chain-Detektiv [ZachXBT](https://twitter.com/zachxbt/status/1486591682728673282?s=20&t=cBEml84fJqyrRYosUNv7Cw) zwang Sesta, die Identität seines CFO, [0xSifu](https://twitter.com/0xSifu), zuzugeben.**
 
 Michael Patryn, ehemals Omar Dhanani, war der Mitbegründer von QuadrigaCX, das für seine betrügerischen Aktivitäten und das mysteriöse Verschwinden des Gründers Gerald Cotten berüchtigt ist.
 
@@ -50,7 +50,7 @@ Wie ZachXBT [schrieb](https://twitter.com/zachxbt/status/1486591682728673282?s=2
 
 **Dieser Tweet hat in ca. 24 Stunden ca. 3 Millionen Aufrufe erhalten. Die Geschichte hat eine enorme Wirkung.**
 
-_Wir haben mit Zach gesprochen, um mehr zu erfahren:_
+_Wir haben mit Zach gesprochen, um mehr darüber zu erfahren:_
 
 **rekt:**
 
