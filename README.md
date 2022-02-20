@@ -24,8 +24,9 @@
                    anon → der Anon
                    fork → der Fork
                    pool → der Pool
+                   swap → der Swap
                   asset → das Asset
-				  claim → der Claim
+                  claim → der Claim
                   stake → der Stake
                   token → der Token
                   trade → der Trade
@@ -43,6 +44,6 @@
             post-mortem → das Post-Mortem
       (cross-/on-)chian → die (cross-/on-)Chain
 
-                   mint → prägen oder mint (je nach situation)
+                   mint → minten
                 wrapped → wrapped
 ```
