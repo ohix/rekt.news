@@ -21,7 +21,7 @@ _rekt geht in den Kaninchenbau._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png)
 
-_Als der Olymp fiel, mussten sich andere Schneeballsysteme [umorientieren](https://twitter.com/danielesesta/status/1483182059002957824)._
+_Als der Olymp fiel, mussten sich andere Ponzis [umorientieren](https://twitter.com/danielesesta/status/1483182059002957824)._
 
 Daniele Sesta, der selbsternannte Anführer der _Frosch-Nation_, kam in der DeFi-Community schnell zu „Ruhm“ mit einer Mischung aus populistischen Twitter-Inhalten und Tokens, die viele Menschen reich machte.
 
