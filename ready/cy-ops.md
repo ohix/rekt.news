@@ -21,7 +21,7 @@ _Wenn Kryptowährungen es Nationalstaaten ermöglichen, Wirtschaftssanktionen zu
 
 Die digitale Infrastruktur bildet die Grundlage für einen Großteil der modernen Kriegsführung und ist ein Ziel, das die Bodentruppen nicht schützen können.
 
-[Russia](https://www.nbcnews.com/news/world/putin-talks-hacking-navalny-capitol-riot-ahead-biden-summit-n1270640) [war bereits](https://www.bbc.co.uk/news/technology-60378009) für Black-Hat-Hacking auf nationaler Ebene bekannt, so dass es nicht überrascht, dass dieser Konflikt nicht nur mit Kugeln, sondern auch mit Code ausgetragen wird.
+[Russland](https://www.nbcnews.com/news/world/putin-talks-hacking-navalny-capitol-riot-ahead-biden-summit-n1270640) [war bereits](https://www.bbc.co.uk/news/technology-60378009) für Black-Hat-Hacking auf nationaler Ebene bekannt, so dass es nicht überrascht, dass dieser Konflikt nicht nur mit Kugeln, sondern auch mit Code ausgetragen wird.
 
 In [Vorbereitung](https://www.bbc.com/news/technology-60500618) auf die aktuelle Invasion wurden DDoS-Angriffe auf ukrainische Banken und Regierungsstellen durchgeführt, während auch datenlöschende Malware im ganzen Land verbreitet wurde.
 
