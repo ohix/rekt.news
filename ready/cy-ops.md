@@ -5,7 +5,7 @@ tags:
   - Propaganda
   - Russia
   - Ukraine
-excerpt: Während die ukrainischen Streitkräfte Kiew gegen die russische Aggression verteidigen, findet parallel eine digitale Schlacht statt. Wenn Kryptowährungen es Nationalstaaten ermöglichen, Wirtschaftssanktionen zu umgehen, wie werden wir dann in Zukunft diplomatischen Druck ausüben?
+excerpt: Während die ukrainischen Streitkräfte Kiew gegen die russische Invasion verteidigen, findet parallel eine digitale Schlacht statt. Wenn Kryptowährungen es Nationalstaaten ermöglichen, Wirtschaftssanktionen zu umgehen, wie werden wir dann in Zukunft diplomatischen Druck ausüben?
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/cyops-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/cyops-header.png)
@@ -13,19 +13,19 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/02/cyop
 
 Aber wenn westliche Mächte Putin den Zugang zu SWIFT sperren, dann könnte Krypto zu einem Werkzeug für den Diktator werden.
 
-_Wenn Kryptowährungen es Nationalstaaten ermöglichen, Wirtschaftssanktionen zu umgehen, wie werden wir dann in Zukunft diplomatischen Druck ausüben?_
+_Wenn Kryptowährungen Nationalstaaten ermöglichen, Wirtschaftssanktionen zu umgehen, wie werden wir dann in Zukunft diplomatischen Druck ausüben?_
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
 
-**Während die ukrainischen Streitkräfte kämpfen, um Kiew gegen die russische Aggression zu verteidigen, findet ein paralleler Kampf statt.**
+**Während die ukrainischen Streitkräfte kämpfen, um Kiew gegen die russische Invasion zu verteidigen, findet ein paralleler Kampf statt.**
 
 Die digitale Infrastruktur bildet die Grundlage für einen Großteil der modernen Kriegsführung und ist ein Ziel, das die Bodentruppen nicht schützen können.
 
-[Russland](https://www.nbcnews.com/news/world/putin-talks-hacking-navalny-capitol-riot-ahead-biden-summit-n1270640) [war bereits](https://www.bbc.co.uk/news/technology-60378009) für Black-Hat-Hacking auf nationaler Ebene bekannt, so dass es nicht überrascht, dass dieser Konflikt nicht nur mit Kugeln, sondern auch mit Code ausgetragen wird.
+[Russland](https://www.nbcnews.com/news/world/putin-talks-hacking-navalny-capitol-riot-ahead-biden-summit-n1270640) [war bereits](https://www.bbc.co.uk/news/technology-60378009) für Black-Hat-Hacking auf nationaler Ebene bekannt, sodass es nicht überrascht, dass dieser Konflikt nicht nur mit Kugeln, sondern auch mit Code ausgetragen wird.
 
 In [Vorbereitung](https://www.bbc.com/news/technology-60500618) auf die aktuelle Invasion wurden DDoS-Angriffe auf ukrainische Banken und Regierungsstellen durchgeführt, während auch datenlöschende Malware im ganzen Land verbreitet wurde.
 
-Die Websites des Kremls und der Duma wurden schnell [deaktiviert](https://twitter.com/christogrozev/status/1496875469093974020), aber da sich so viele Menschen auf der ganzen Welt gegen Russland und seine Aktionen positionieren, können wir nur spekulieren, wer dafür verantwortlich ist.
+Die Websites des Kremls und der Duma wurden schnell [ausgeschaltet](https://twitter.com/christogrozev/status/1496875469093974020), aber da sich so viele Menschen auf der ganzen Welt gegen Russland und seine Aktionen positionieren, können wir nur spekulieren, wer dafür verantwortlich ist.
 
 Die ukrainische Regierung hat Berichten zufolge Freiwillige aus der Hacking Community [aufgerufen](https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/), sich sowohl vor russischen Cyberangriffen zu schützen als auch digitale Spionage gegen die eindringenden Kräfte zu betreiben.
 
@@ -33,9 +33,9 @@ Die ukrainische Regierung hat Berichten zufolge Freiwillige aus der Hacking Comm
 
 >Es war eine harte Nacht für die Cybersicherheit der Ukraine. Wir haben unseren Cyberspace die ganze Nacht über geschützt. Die Ukraine ist erfahren und wehrt sich weiterhin gegen ununterbrochene Angriffe auf die wichtigsten Informationsquellen. Im Moment läuft alles stabil. Bleibt ruhig und geratet nicht in Panik.
 
-In der Öffentlichkeit wird eine [Propagandakampagne](https://twitter.com/Batarseh1995/status/1497450994979979268?s=20&t=NOx7hbZHwGp6HLywI3Uolw) [geführt](https://twitter.com/Ukraine/status/1496716168920547331), und [Fake News](https://www.bbc.com/news/60528276) haben den Nebel des Krieges in die Twittersphäre verlagert, indem altes Filmmaterial als Guerilla-Berichterstattung präsentiert wird.
+In der Öffentlichkeit wird eine [Propagandakampagne](https://twitter.com/Batarseh1995/status/1497450994979979268?s=20&t=NOx7hbZHwGp6HLywI3Uolw) [geführt](https://twitter.com/Ukraine/status/1496716168920547331), und [Fake News](https://www.bbc.com/news/60528276) haben den Nebel des Krieges in die Twittersphäre verlagert, indem altes Filmmaterial als Guerilla-Berichterstattung genutzt wird.
 
-An der Front wurden jedoch die sehr realen Gefahren der High-Tech-Kriegsführung deutlich, als die russische Artillerie mit Hilfe von [Mobilfunksignalen](https://twitter.com/Andy_Scollick/status/1496873551089082374) auf Verteidigungsstellungen zielte.
+An der Front wurden jedoch die sehr realen Gefahren der Hightech-Kriegsführung deutlich, als die russische Artillerie mit Hilfe von [Mobilfunksignalen](https://twitter.com/Andy_Scollick/status/1496873551089082374) auf Verteidigungsstellungen zielte.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-linebreak.png) 
 
@@ -45,9 +45,9 @@ Abgesehen von inoffiziellen Online-Offensiven haben sich die ausländischen Regi
 
 Die erste Runde der Sanktionen richtete sich gegen russische Banken, Gasexporte und einige der reichsten Personen des Landes und zielte darauf ab, Putins inneren Kreis zu schwächen.
 
-Trotz der [Forderung](https://twitter.com/DmytroKuleba/status/1496874382102351872) des ukrainischen Außenministers, Russland aus dem SWIFT-Zahlungsverkehrsnetz zu sperren, hat die globale Community dies noch nicht in die Tat umgesetzt.
+Trotz der [Forderung](https://twitter.com/DmytroKuleba/status/1496874382102351872) des ukrainischen Außenministers, Russland aus dem SWIFT-Zahlungsverkehrsnetz zu sperren, hat die globale Gemeinschaft dies noch nicht in die Tat umgesetzt.
 
-Dies hätte wahrscheinlich [große Auswirkungen](https://twitter.com/sahilbloom/status/1496861068945154056?s=21) auf den Ausschluss Russlands von einer wichtigen Infrastruktur für internationale Überweisungen. Der Westen zögert jedoch, da einige [Risiken](https://www.ft.com/content/69f72de5-d727-496d-9f9d-316db7bdaf03) für die Verbraucherpreise und die Dominanz des US-Dollar im Welthandel sehen.
+Der Ausschluss Russlands von einer wichtigen Infrastruktur für internationale Überweisungen hätte [sehr große Auswirkungen](https://twitter.com/sahilbloom/status/1496861068945154056?s=21). Der Westen zögert jedoch, da einige [Risiken](https://www.ft.com/content/69f72de5-d727-496d-9f9d-316db7bdaf03) für die Verbraucherpreise und die Dominanz des US-Dollar im Welthandel sehen.
 
 Jetzt, da der Krieg in der Ukraine Realität ist, wurde eine zweite Runde von EU-Sanktionen vereinbart, aber für diejenigen, die aus ihrer Heimat fliehen oder sich auf den Kampf vorbereiten, werden sie zum jetzigen Zeitpunkt kaum ein Trost sein.
 
@@ -77,7 +77,7 @@ Dies mag zwar zur Durchsetzung von Sanktionen beitragen, wird aber wahrscheinlic
 
 Das jüngste Beispiel des DAO-Hackers, der über die un-mixing Transaktionen [enttarnt wurde](https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/?sh=74338337f589), zeigt, dass die derzeitigen Datenschutzinstrumente nicht mehr ausreichen. Doch selbst wenn die Bewegung von Geldern über dezentrale Protokolle verfolgt werden kann, lässt sie sich nicht aufhalten.
 
-Im Guten wie im Schlechten hat die Menschheit ein erlaubnisfreies, widerstandsfähiges System für die weltweite Übertragung von Werten geschaffen.
+Im Guten wie im Schlechten hat die Menschheit ein unabhängiges, widerstandsfähiges System für die weltweite Übertragung von Werten geschaffen.
 
 Obwohl sich die Krypto-Natives auf eine Zukunft konzentrieren, die mit enormer Aufregung gefüllt ist, müssen wir akzeptieren, dass wir auch mit einer enormen Menge echter Angst, Unsicherheit und Zweifel konfrontiert sind.
 
