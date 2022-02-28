@@ -30,6 +30,7 @@
                   stake → der Stake
                   token → der Token
                   trade → der Trade
+                  NFT   → das NFT
                  bridge → die Bridge
                  wallet → die Wallet
                 airdrop → der Airdrop
