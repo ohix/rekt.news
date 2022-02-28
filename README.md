@@ -22,6 +22,7 @@
 
                     gas → das Gas
                    anon → der Anon
+                 native → native
                    fork → der Fork
                    pool → der Pool
                    swap → der Swap
