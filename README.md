@@ -60,11 +60,15 @@
 
 ~~~text
 rekt-de
-├── done
-└── <user> (user-A and user-B)
-    ├── translating
-    ├── checking
-    └── ready
+├── done              # position 4: process complete
+├── user-a
+│   ├── translating   # position 1: translate article
+│   ├── check
+│   └── ready         # position 3: submit to rektHQ
+└── user-b
+    ├── translating
+    ├── check         # position 2: check article
+    └── ready
 ~~~
 
 
@@ -110,7 +114,7 @@ cd rekt-de/<user-b>
 
 git pull   # if it's been a while since your last pull
 # check the newly translated article, correct it if necessary and transfer the article to the _ready_ directory:
-git mv checking/<article>.md ready/
+git mv checking/<article>.md ../<user-a>/ready/
 git commit --message 'fixed a couple of minor issues and is now ready for PR.'
 git push   # push commit to github server
 ~~~
@@ -132,7 +136,7 @@ git pull   # fetch from and merge with another repository or local branch
 
 # create new branch that will be used to house the new article
 git co -b trans/de/<article>
-cp -a /path/to/rekt-de/<user>/ready/<article>.md content/de/
+cp -a /path/to/rekt-de/<user-a>/ready/<article>.md content/de/
 
 # add the article to the new branch
 git add content/de/<article>.md
