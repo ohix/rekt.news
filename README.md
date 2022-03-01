@@ -58,20 +58,23 @@
 
 ## folder setup
 
-* rekt-de
-    * `<user>` (we'll call them user-a and user-b)
-        * translating
-        * inspection
-        * ready
-    * done
+~~~text
+rekt-de
+├── done
+└── <user> (user-A and user-B)
+    ├── translating
+    ├── checking
+    └── ready
+~~~
 
 
 ## translation process
 
-### translate article
+### translate article (user-a)
 
 ~~~bash
 cd rekt-de/<user-a>
+
 git pull   # fetch from and merge with another repository or local branch
 mv content-for-reference/en/<article>.md translating/
 git commit --message 'start translating <article>'
@@ -81,37 +84,39 @@ git push   # push commit to github server
 edit the article in your favourite editor.
 
 ~~~bash
-# rekt-de/<user-a>
+cd rekt-de/<user-a>
+
 git commit --message 'completed about half of translation.' translating/<article>.md
 git push   # push commit to github server
 ~~~
 
-once you have completed translating the article, you move it to the _inspection_ directory:
+once you have completed translating the article, you move it to the _checking_ directory of the other user.
 
 ~~~bash
-# rekt-de/<user-a>
+cd rekt-de/<user-a>
+
 git pull   # if it's been a while since your last pull
-git mv translating/<article>.md inspection/
-git commit --message 'completed translation and ready for inspection.'
+git mv translating/<article>.md ../<user-b>/checking/
+git commit --message 'completed translation and ready for checking.'
 git push   # push commit to github server
 ~~~
 
-let the other translator know that there is an article for inspection.
+let the other translator know that there is an article for checking.
 
-
-### inspect article
+### check article (user-b)
 
 ~~~bash
-# rekt-de/<user-a>
+cd rekt-de/<user-b>
+
 git pull   # if it's been a while since your last pull
-# inspect the newly translated article, correct it if necessary and transfer the article to the _ready_ directory:
-git mv inspection/<article>.md ready/
+# check the newly translated article, correct it if necessary and transfer the article to the _ready_ directory:
+git mv checking/<article>.md ready/
 git commit --message 'fixed a couple of minor issues and is now ready for PR.'
 git push   # push commit to github server
 ~~~
 
 
-### pull request
+### pull request (user-a)
 
 as soon as an article has hit your _ready_ directory, the article can be submitted to rektHQ.
 
@@ -121,6 +126,7 @@ consult the guide provided by rekt translation team for comprehensive guide.
 
 ~~~bash
 cd rektHQ
+
 git fetch  # download objects and refs from another repository
 git pull   # fetch from and merge with another repository or local branch
 
@@ -149,6 +155,7 @@ article since the article has already been checked.
 
 ~~~bash
 cd rekt-de
+
 git pull   # if it's been a while since your last pull
 git mv <user-a>/ready/<article>.md done
 git commit --message '<article> has been submitted to rekt.'
