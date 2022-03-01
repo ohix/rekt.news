@@ -81,9 +81,9 @@ rekt-de
 cd rekt-de/<user-a>
 
 git pull   # fetch from and merge with another repository or local branch
-mv content-for-reference/en/<article>.md translating/
+git mv ../content-for-reference/en/<article>.md translating/
 git commit --message 'start translating <article>'
-git push   # push commit to github server
+git push   # push commit to github server. ensures that 2nd translator doesn't translate same article.
 ~~~
 
 edit the article in your favourite editor.
@@ -95,31 +95,34 @@ git commit --message 'completed about half of translation.' translating/<article
 git push   # push commit to github server
 ~~~
 
-once you have completed translating the article, you move it to the _checking_ directory of the other user.
+once you have completed translating the article, you move it to the _check_ directory.
 
 ~~~bash
 cd rekt-de/<user-a>
 
 git pull   # if it's been a while since your last pull
-git mv translating/<article>.md /checking/
-git commit --message 'completed translation and ready for checking.'
+git mv translating/<article>.md /check/
+git commit --message 'completed translation. ready for check.'
 git push   # push commit to github server
 ~~~
 
-let the other translator know that there is an article for checking.
+let the other translator know that there is an article ready to be checked.
 
 ### check article (user-b)
 
 ~~~bash
 cd rekt-de/<user-a>
 
-git pull   # if it's been a while since your last pull
-# check the newly translated article, correct it if necessary and transfer the article to the _ready_ directory:
-git mv checking/<article>.md /ready/
+git pull   # ensure you have the most recent version of the article
+
+# check the newly translated article.
+# correct it if necessary and transfer the article to the _ready_ directory:
+git mv check/<article>.md /ready/
 git commit --message 'fixed a couple of minor issues and is now ready for PR.'
 git push   # push commit to github server
 ~~~
 
+let the other translator know that the article is done.
 
 ### pull request (user-a)
 
@@ -136,7 +139,7 @@ git fetch  # download objects and refs from another repository
 git pull   # fetch from and merge with another repository or local branch
 
 # create new branch that will be used to house the new article
-git co -b trans/de/<article>
+git checkout -b trans/de/<article>
 cp -a /path/to/rekt-de/<user-a>/ready/<article>.md content/de/
 
 # add the article to the new branch
@@ -154,9 +157,9 @@ can use the provided link or go to: https://github.com/RektHQ/Resources/pulls
 to submit a pull request. make sure _base_ is set to **devolop** and complete
 the provided _pull request template_.
 
-once this is completed let the other translator know that you have committed
-the article or let the translator team know. any translator can approve the
-article since the article has already been checked.
+once this is complete let the other translator know that you have committed the
+article or let the translator team know. any translator can approve the article
+since the article has already been checked by the second translator.
 
 ~~~bash
 cd rekt-de
