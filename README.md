@@ -60,14 +60,14 @@
 
 ~~~text
 rekt-de
-├── done              # position 4: process complete
+├── done              # 4. process complete
 ├── user-a
-│   ├── translating   # position 1: translate article
-│   ├── check
-│   └── ready         # position 3: submit to rektHQ
+│   ├── translating   # 1. user-a: translate article
+│   ├── check         # 2. user-b: check article
+│   └── ready         # 3. user-a: submit to rektHQ
 └── user-b
     ├── translating
-    ├── check         # position 2: check article
+    ├── check
     └── ready
 ~~~
 
@@ -100,7 +100,7 @@ once you have completed translating the article, you move it to the _checking_ d
 cd rekt-de/<user-a>
 
 git pull   # if it's been a while since your last pull
-git mv translating/<article>.md ../<user-b>/checking/
+git mv translating/<article>.md /checking/
 git commit --message 'completed translation and ready for checking.'
 git push   # push commit to github server
 ~~~
@@ -110,11 +110,11 @@ let the other translator know that there is an article for checking.
 ### check article (user-b)
 
 ~~~bash
-cd rekt-de/<user-b>
+cd rekt-de/<user-a>
 
 git pull   # if it's been a while since your last pull
 # check the newly translated article, correct it if necessary and transfer the article to the _ready_ directory:
-git mv checking/<article>.md ../<user-a>/ready/
+git mv checking/<article>.md /ready/
 git commit --message 'fixed a couple of minor issues and is now ready for PR.'
 git push   # push commit to github server
 ~~~
