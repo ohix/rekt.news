@@ -56,7 +56,7 @@
 2. **[rekt-de](https://github.com/ohyi/rekt.news)** (repository used here for translating)
 
 
-## folder setup
+## directory structure
 
 ~~~text
 rekt-de
